@@ -1,0 +1,19 @@
+locales:
+  # English ---------------------------------------------
+  en: &DEFAULT_EN
+    index: "Homepage"
+    continue: "Continue"
+    quickguide: "Quick Guide"
+  en_US:
+    <<: *DEFAULT_EN     # use en for en_US
+  en_UK:
+    <<: *DEFAULT_EN     # use en for en_UK
+
+  # German translations ---------------------------------
+  de: &DEFAULT_DE
+    <<: *DEFAULT_EN     # load English values as default
+    index: "Startseite"
+    continue: "Weiterlesen"
+    quickguide: "Schnelleinstieg"
+  de_DE:
+    <<: *DEFAULT_DE     # use de translation for de_DE
