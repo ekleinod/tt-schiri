@@ -1,0 +1,30 @@
+-
+  title: "Einsatzinformationen"
+  description: "Alles zu den Einsätzen incl. Schiritausch, Aufwandsentschädigungen, Downloads (OSR-Berichte, Merkzettel etc.)"
+  link: "einsatzinformationen/index.html"
+  icon: "info"
+-
+  title: "Ansprechpartner"
+  description: "Der Verbandsschiedsrichterausschuss (VSRA) und Links zu anderen Ansprechpartnern."
+  link: "personen"
+  icon: "user"
+#-
+#  title: "Termine"
+#  description: "Die wichtigsten Termine der Saison."
+#  link: "termine"
+#  icon: "calendar"
+#-
+#  title: "Downloads"
+#  description: "Alle von uns angebotenen Downloads. OSR-Berichte, SR-Zettel, Merkblätter, Regeln etc."
+#  link: "downloads"
+#  icon: "download"
+-
+  title: "Schiri werden"
+  description: "Wie wird man Schiri beim BeTTV?"
+  link: "schiri-werden.html"
+  icon: "graduation-cap"
+#-
+#  title: "Regeln"
+#  description: "Regeln, Regelfragen und Regelauslegungen."
+#  link: "regeln"
+#  icon: "balance-scale"
