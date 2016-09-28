@@ -1,0 +1,66 @@
+-
+  title: "1. Bundesliga Damen"
+  recipients:
+    -
+      name: "Gabi Klis"
+      mail: "klis.dttb@tischtennis.de"
+    -
+      name: "André Zickert"
+      mail: "zickert.dttb@tischtennis.de"
+    -
+      name: "Ekkart Kleinod"
+      mail: "schiri@ekkart.de"
+
+-
+  title: "3. Bundesliga Herren Nord"
+  recipients:
+    -
+      name: "Gabi Klis"
+      mail: "klis.dttb@tischtennis.de"
+    -
+      name: "André Zickert"
+      mail: "zickert.dttb@tischtennis.de"
+    -
+      name: "Ekkart Kleinod"
+      mail: "schiri@ekkart.de"
+
+-
+  title: "Regionalliga Damen Nord"
+  recipients:
+    -
+      name: "Andreas Ahlers"
+      mail: "mail@ahlers-tt.de"
+    -
+      name: "Ekkart Kleinod"
+      mail: "schiri@ekkart.de"
+
+-
+  title: "Regionalliga Herren Nord"
+  recipients:
+    -
+      name: "Lothar Fricke"
+      mail: "fricke@ttvn.de"
+    -
+      name: "Ekkart Kleinod"
+      mail: "schiri@ekkart.de"
+
+-
+  title: "Oberliga Nordost Damen"
+  recipients:
+    -
+      name: "Andreas Ahlers"
+      mail: "mail@ahlers-tt.de"
+    -
+      name: "Ekkart Kleinod"
+      mail: "schiri@ekkart.de"
+
+-
+  title: "Oberliga Nordost Herren"
+  recipients:
+    -
+      name: "Andreas Ahlers"
+      mail: "mail@ahlers-tt.de"
+    -
+      name: "Ekkart Kleinod"
+      mail: "schiri@ekkart.de"
+

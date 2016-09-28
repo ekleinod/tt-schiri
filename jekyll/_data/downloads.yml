@@ -1,0 +1,108 @@
+-
+  path: "einsatzinformationen"
+  title: "Einsatzinformationen"
+  tags: ["einsatzinformationen"]
+  downloads:
+    -
+      filename: "BeTTV_Einsatzplan.pdf"
+      title: "BeTTV Einsatzplan (pdf)"
+      description: "Einsatzplan für alle VSR, PDF-Datei."
+      lastchange: 18.09.2016
+    -
+      filename: "BeTTV_Einsatzplan.xls"
+      title: "BeTTV Einsatzplan (xls)"
+      description: "Einsatzplan für alle VSR, Excel."
+      lastchange: 18.09.2016
+    -
+      filename: "BeTTV_Spielorte.pdf"
+      title: "BeTTV Spielorte"
+      description: "Spielorte der BeTTV-Vereine."
+      lastchange: 28.08.2016
+    -
+      filename: "DTTB_BL_Hinweise.pdf"
+      title: "DTTB OSR-Hinweise BL"
+      description: "Hinweise für OSR in den Bundesligen."
+      lastchange: 01.09.2016
+    -
+      filename: "DTTB_RL-OL_Hinweise.pdf"
+      title: "DTTB OSR-Hinweise RL/OL"
+      description: "Hinweise für OSR in den Regional- und Oberligen."
+      lastchange: 01.08.2016
+    -
+      filename: "DTTB_Schlägertestrichtlinie.pdf"
+      title: "DTTB Richtlinie zu Schlägertests"
+      description: "Auszug aus dem DTTB-Handbuch."
+      lastchange: 01.09.2016
+
+-
+  path: "osr-berichte"
+  title: "OSR-Berichte"
+  tags: ["einsatzinformationen", "osr-berichte"]
+  downloads:
+    -
+      filename: "BL_OSR-Bericht.pdf"
+      title: "OSR-Bericht BL"
+      description: "Ausfüllhilfe und Empfänger siehe [OSR-Berichte](osr-berichte.html)."
+      lastchange: 01.09.2016
+    -
+      filename: "RL-OL_OSR-Bericht.pdf"
+      title: "OSR-Bericht RL/OL"
+      description: "Ausfüllhilfe und Empfänger siehe [OSR-Berichte](osr-berichte.html)."
+      lastchange: 01.09.2016
+
+-
+  path: "materiallisten"
+  title: "Materiallisten"
+  tags: ["einsatzinformationen"]
+  downloads:
+    -
+      filename: "1BLD_Material.pdf"
+      title: "Material 1. BL Damen"
+      description: "Download von Click-TT."
+      lastchange: 27.09.2016
+    -
+      filename: "3BLNH_Material.pdf"
+      title: "Material 3. BL Herren"
+      description: "Download von Click-TT."
+      lastchange: 27.09.2016
+    -
+      filename: "RLND_Material.pdf"
+      title: "Material RLN Damen"
+      description: "Download von Click-TT."
+      lastchange: 27.09.2016
+    -
+      filename: "RLNH_Material.pdf"
+      title: "Material RLN Herren"
+      description: "Download von Click-TT."
+      lastchange: 27.09.2016
+    -
+      filename: "OLNOD_Material.pdf"
+      title: "Material OLNO Damen"
+      description: "Download von Click-TT."
+      lastchange: 27.09.2016
+    -
+      filename: "OLNOH_Material.pdf"
+      title: "Material OLNO Herren"
+      description: "Download von Click-TT."
+      lastchange: 27.09.2016
+
+-
+  path: "sonstiges"
+  title: "Sonstiges"
+  tags: ["einsatzinformationen"]
+  downloads:
+    -
+      filename: "BeTTV_Checkliste_OSR-Einsatz.pdf"
+      title: "Checkliste OSR-Einsatz"
+      description: "Kurze Checkliste, was zum OSR-Einsatz mitzunehmen ist. Erstellt vom VSRA des BeTTV."
+      lastchange: 28.08.2016
+    -
+      filename: "BeTTV_Merkblatt_OSR-Einsatz.pdf"
+      title: "Merkblatt OSR-Einsatz"
+      description: "Kurzes Merkblatt über den OSR-Einsatz. Erstellt vom VSRA des BeTTV."
+      lastchange: 28.08.2016
+    -
+      filename: "BeTTV_Merkblatt_Coachingregel.pdf"
+      title: "Merkblatt Coaching-Regel"
+      description: "Kurzes Merkblatt zur Coachingregel mit Praxisbeispielen. Erstellt vom VSRA des BeTTV."
+      lastchange: 06.09.2016
