@@ -14,6 +14,15 @@ Alle im Web veröffentlichten Versionen sind im master-Branch zu finden und werd
 	- github: [ekleinod](https://github.com/ekleinod)
 	- E-Mail: <ekleinod@edgesoft.de>
 
+## Mitmachen
+
+Wer Fehler in den Webseiten findet, etwas verbessern will oder mitmachen möchte, hat vier Möglichkeiten:
+
+1. Mail an einen Autor
+2. Issue in github eröffnen
+3. forken und pull request erstellen
+4. direkt als Autor eingetragen werden
+
 ## Benutzte Dinge
 
 - Jekyll
