@@ -1,6 +1,6 @@
 # tt-schiri
 
-Dieses Repository enthält die Webseite
+Dieses Repository enthält die Webseite der Schiedsrichter des Berliner Tischtennisverbands (BeTTV):
 
 	www.tt-schiri.de
 
