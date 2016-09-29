@@ -15,7 +15,7 @@ Alle im Web veröffentlichten Versionen sind im master-Branch zu finden und werd
 	- E-Mail: <ekleinod@edgesoft.de>
 - Tobias Kantusch
 	- github: [tkantusch](https://github.com/tkantusch)
-	- E-Mail: <tobiaskantusch@online.de
+	- E-Mail: <tobiaskantusch@online.de>
 
 ## Benutzte Dinge
 
