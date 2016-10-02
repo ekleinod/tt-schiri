@@ -28,6 +28,7 @@
 							</li>
 						</ul>
 					</li>
+					<li><a href="http://www.ekkart.de/schiri/forum/">Forum</a></li>
 					<li ><a href="/personen.php">Ansprechpartner</a></li>
 					<li ><a href="/schiri-werden.php">Schiri werden</a></li>
 				</ul>
