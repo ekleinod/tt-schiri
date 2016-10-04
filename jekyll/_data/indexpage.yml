@@ -6,18 +6,13 @@
 -
   title: "Ansprechpartner"
   description: "Der Verbandsschiedsrichterausschuss (VSRA) und Links zu anderen Ansprechpartnern."
-  link: "personen"
+  link: "personen.html"
   icon: "user"
 #-
 #  title: "Termine"
 #  description: "Die wichtigsten Termine der Saison."
-#  link: "termine"
+#  link: "termine.html"
 #  icon: "calendar"
-#-
-#  title: "Downloads"
-#  description: "Alle von uns angebotenen Downloads. OSR-Berichte, SR-Zettel, Merkblätter, Regeln etc."
-#  link: "downloads"
-#  icon: "download"
 -
   title: "Schiri werden"
   description: "Wie wird man Schiri beim BeTTV?"
@@ -26,5 +21,10 @@
 #-
 #  title: "Regeln"
 #  description: "Regeln, Regelfragen und Regelauslegungen."
-#  link: "regeln"
+#  link: "regeln.html"
 #  icon: "balance-scale"
+-
+  title: "Downloads"
+  description: "Alle von uns angebotenen Downloads. OSR-Berichte, SR-Zettel, Merkblätter, Regeln etc."
+  link: "downloads.html"
+  icon: "download"
