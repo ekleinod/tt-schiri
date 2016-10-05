@@ -9,7 +9,8 @@
 
 
 {% for section in site.data.downloads %}
-{% if section.tags contains include.tag %}
+
+{% if (include.tag == null) or (section.tags contains include.tag) %}
 
 ### {{ section.title }}
 
