@@ -12,7 +12,7 @@ Alle im Web veröffentlichten Versionen sind im master-Branch zu finden und werd
 
 - Ekkart Kleinod
 	- github: [ekleinod](https://github.com/ekleinod)
-	- E-Mail: <ekleinod@edgesoft.de>
+	- E-Mail: <schiri@ekkart.de>
 - Tobias Kantusch
 	- github: [tkantusch](https://github.com/tkantusch)
 	- E-Mail: <tobiaskantusch@online.de>
@@ -61,7 +61,7 @@ Zusätzlich können folgende Branches auftauchen:
 
 ## Rechtliches
 
-Copyright 2016-2016 Ekkart Kleinod <ekleinod@edgesoft.de>
+Copyright 2016-2016 Ekkart Kleinod <schiri@ekkart>
 
 Die Webseiten und jeglicher dazugehöriger Code bzw. Icons stehen, sofern sie selbst erstellt wurden, unter der Lizenz:
 
