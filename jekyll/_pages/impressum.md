@@ -4,7 +4,7 @@ title: Impressum
 
 Dies sind die Seiten der Schiedsrichterinnen und Schiedsrichter des Berliner Tischtennisverbands.
 
-Verantwortlich für die Webseite ist Ekkart Kleinod [schiri@ekkart.de](schiri@ekkart.de)
+Verantwortlich für die Webseite ist Ekkart Kleinod <schiri@ekkart.de>
 
 ## Programmierung, Anpassungen
 
@@ -12,7 +12,7 @@ Die Umsetzung der Webseite erfolgt durch:
 
 - Ekkart Kleinod
 	- github: [ekleinod](https://github.com/ekleinod)
-	- E-Mail: <ekleinod@edgesoft.de>
+	- E-Mail: <schiri@ekkart>
 - Tobias Kantusch
 	- github: [tkantusch](https://github.com/tkantusch)
 	- E-Mail: <tobiaskantusch@online.de>
