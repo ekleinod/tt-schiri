@@ -18,7 +18,7 @@ layout: default
 	{% for panel in site.data.indexpage %}
 		<div class="media">
 			<div class="pull-left">
-				<a href="{{ panel.link | prepend: '/' | prepend: site.baseurl | append: '.html' }}"><span class="fa-stack fa-2x">
+				<a href="{{ panel.link | prepend: '/' | prepend: site.baseurl }}"><span class="fa-stack fa-2x">
 					<i class="fa fa-circle fa-stack-2x text-primary"></i>
 					<i class="fa fa-{{ panel.icon }} fa-stack-1x fa-inverse"></i>
 				</span></a>
