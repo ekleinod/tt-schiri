@@ -1,6 +1,6 @@
 # tt-schiri
 
-Dieses Repository enthält die Webseite
+Dieses Repository enthält die Webseite der Schiedsrichter des Berliner Tischtennisverbands (BeTTV):
 
 	www.tt-schiri.de
 
@@ -17,20 +17,32 @@ Alle im Web veröffentlichten Versionen sind im master-Branch zu finden und werd
 	- github: [tkantusch](https://github.com/tkantusch)
 	- E-Mail: <tobiaskantusch@online.de>
 
+## Mitmachen
+
+Wer Fehler in den Webseiten findet, etwas verbessern will oder mitmachen möchte, hat vier Möglichkeiten:
+
+1. Mail an einen Autor
+2. Issue in github eröffnen
+3. forken und pull request erstellen
+4. direkt als Autor eingetragen werden
+
 ## Benutzte Dinge
 
 - Jekyll
 	- statischer Webseitengenerator
-	- https://jekyllrb.com/
+	- <https://jekyllrb.com/>
 - Modern-Business-Template
 	- bootstrap-Template
-	- https://github.com/BlackrockDigital/startbootstrap-modern-business.git
+	- <https://github.com/BlackrockDigital/startbootstrap-modern-business.git>
 - Bootstrap
 	- Framework für responsive Webseiten
-	- https://getbootstrap.com/
+	- <https://getbootstrap.com/>
 - Font Awesome
 	- Icon-Font
-	- http://fontawesome.io/
+	- <http://fontawesome.io/>
+- jQuery
+	- JavaScript-Bibliothek
+	- <https://jquery.com/>
 
 ## Git-Repository
 

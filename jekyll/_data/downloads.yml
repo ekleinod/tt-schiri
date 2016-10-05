@@ -87,6 +87,27 @@
       lastchange: 27.09.2016
 
 -
+  path: "regeln"
+  title: "Regeln"
+  tags: ["regeln", "einsatzinformationen"]
+  downloads:
+    -
+      filename: "Internationale_Tischtennisregeln_A.pdf"
+      title: "Internationale TT-Regeln Teil A"
+      description: "Teil A der Internationalen Tischtennis-Regeln."
+      lastchange: 25.01.2016
+    -
+      filename: "Internationale_Tischtennisregeln_B.pdf"
+      title: "Internationale TT-Regeln Teil B"
+      description: "Teil B der Internationalen Tischtennis-Regeln."
+      lastchange: 25.01.2016
+    -
+      filename: "DTTB-Wettspielordnung.pdf"
+      title: "Wettspielordnung des DTTB"
+      description: "Die Wettspielordnung des DTTB."
+      lastchange: 13.07.2016
+
+-
   path: "sonstiges"
   title: "Sonstiges"
   tags: ["einsatzinformationen"]
