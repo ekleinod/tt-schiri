@@ -30,16 +30,19 @@ Wer Fehler in den Webseiten findet, etwas verbessern will oder mitmachen möchte
 
 - Jekyll
 	- statischer Webseitengenerator
-	- https://jekyllrb.com/
+	- <https://jekyllrb.com/>
 - Modern-Business-Template
 	- bootstrap-Template
-	- https://github.com/BlackrockDigital/startbootstrap-modern-business.git
+	- <https://github.com/BlackrockDigital/startbootstrap-modern-business.git>
 - Bootstrap
 	- Framework für responsive Webseiten
-	- https://getbootstrap.com/
+	- <https://getbootstrap.com/>
 - Font Awesome
 	- Icon-Font
-	- http://fontawesome.io/
+	- <http://fontawesome.io/>
+- jQuery
+	- JavaScript-Bibliothek
+	- <https://jquery.com/>
 
 ## Git-Repository
 
