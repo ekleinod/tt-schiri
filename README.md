@@ -1,6 +1,6 @@
 # tt-schiri
 
-Dieses Repository enthält die Webseite
+Dieses Repository enthält die Webseite der Schiedsrichter des Berliner Tischtennisverbands (BeTTV):
 
 	www.tt-schiri.de
 
@@ -12,25 +12,37 @@ Alle im Web veröffentlichten Versionen sind im master-Branch zu finden und werd
 
 - Ekkart Kleinod
 	- github: [ekleinod](https://github.com/ekleinod)
-	- E-Mail: <ekleinod@edgesoft.de>
+	- E-Mail: <schiri@ekkart.de>
 - Tobias Kantusch
 	- github: [tkantusch](https://github.com/tkantusch)
 	- E-Mail: <tobiaskantusch@online.de>
+
+## Mitmachen
+
+Wer Fehler in den Webseiten findet, etwas verbessern will oder mitmachen möchte, hat vier Möglichkeiten:
+
+1. Mail an einen Autor
+2. Issue in github eröffnen
+3. forken und pull request erstellen
+4. direkt als Autor eingetragen werden
 
 ## Benutzte Dinge
 
 - Jekyll
 	- statischer Webseitengenerator
-	- https://jekyllrb.com/
+	- <https://jekyllrb.com/>
 - Modern-Business-Template
 	- bootstrap-Template
-	- https://github.com/BlackrockDigital/startbootstrap-modern-business.git
+	- <https://github.com/BlackrockDigital/startbootstrap-modern-business.git>
 - Bootstrap
 	- Framework für responsive Webseiten
-	- https://getbootstrap.com/
+	- <https://getbootstrap.com/>
 - Font Awesome
 	- Icon-Font
-	- http://fontawesome.io/
+	- <http://fontawesome.io/>
+- jQuery
+	- JavaScript-Bibliothek
+	- <https://jquery.com/>
 
 ## Git-Repository
 
@@ -49,7 +61,7 @@ Zusätzlich können folgende Branches auftauchen:
 
 ## Rechtliches
 
-Copyright 2016-2016 Ekkart Kleinod <ekleinod@edgesoft.de>
+Copyright 2016-2016 Ekkart Kleinod <schiri@ekkart>
 
 Die Webseiten und jeglicher dazugehöriger Code bzw. Icons stehen, sofern sie selbst erstellt wurden, unter der Lizenz:
 
