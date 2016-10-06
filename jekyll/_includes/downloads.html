@@ -16,7 +16,7 @@
 
 {:.table .table-bordered .table-striped}
 | Name | Beschreibung | Stand |
-|:-|:-|:-|{% for file in section.downloads %}| {% assign filename = file.filename | prepend: "/" | prepend: section.path %}{% include download.html file=filename title=file.title %} | {{ file.description }} | {{ file.lastchange | date: '%-d. %B %Y' }}{% endfor %}
+|:-|:-|:-|{% for file in section.downloads %}{% if (include.tag == null) or (file.valid == null) or file.valid %}| {% assign filename = file.filename | prepend: "/" | prepend: section.path %}{% include download.html file=filename title=file.title %} | {{ file.description }}{% if file.valid %} (aktuell gültig){% endif %} | {{ file.lastchange | date: '%-d. %B %Y' }}{% endif %}{% endfor %}
 
 {% endif %}
 {% endfor %}
