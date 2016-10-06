@@ -15,20 +15,22 @@ layout: default
 	</div>
 
 	<div class="col-md-6">
-	{% for panel in site.data.indexpage %}
-		<div class="media">
-			<div class="pull-left">
-				<a href="{{ panel.link | prepend: '/' | prepend: site.baseurl }}"><span class="fa-stack fa-2x">
-					<i class="fa fa-circle fa-stack-2x text-primary"></i>
-					<i class="fa fa-{{ panel.icon }} fa-stack-1x fa-inverse"></i>
-				</span></a>
+	{% for panel in site.data.navigation %}
+		{% if panel.indexpage == true %}
+			<div class="media">
+				<div class="pull-left">
+					<a href="{{ panel.href | prepend: '/' | prepend: site.baseurl }}"><span class="fa-stack fa-2x">
+						<i class="fa fa-circle fa-stack-2x text-primary"></i>
+						<i class="fa fa-{{ panel.icon }} fa-stack-1x fa-inverse"></i>
+					</span></a>
+				</div>
+				<div class="media-body">
+					<h4 class="media-heading">{{ panel.title }}</h4>
+					<p>{{ panel.description | markdownify }}</p>
+					<p><a href="{{ panel.href | prepend: '/' | prepend: site.baseurl }}">{{ site.data.i18n.locales[site.locale].continue }}</a></p>
+				</div>
 			</div>
-			<div class="media-body">
-				<h4 class="media-heading">{{ panel.title }}</h4>
-				<p>{{ panel.description | markdownify }}</p>
-				<p><a href="{{ panel.link | prepend: '/' | prepend: site.baseurl }}">{{ site.data.i18n.locales[site.locale].continue }}</a></p>
-			</div>
-		</div>
+			{% endif %}
 	{% endfor %}
 	</div>
 </div>
