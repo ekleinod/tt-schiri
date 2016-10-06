@@ -1,5 +1,6 @@
 ---
 title: OSR-Berichte
+date: 06.10.2016
 ---
 
 Zu jedem Spiel, das Ihr als OSR leitet, ist ein OSR-Bericht zu erstellen.

@@ -1,5 +1,6 @@
 ---
 title: Impressum
+date: 06.10.2016
 ---
 
 Dies sind die Seiten der Schiedsrichterinnen und Schiedsrichter des Berliner Tischtennisverbands.
