@@ -1,0 +1,16 @@
+/*
+* tt-schiri
+* Copyright 2016-2016 Tobias Kantusch, Ekkart Kleinod
+*
+* for more information see README
+*/
+
+html,
+.nav .dropdown:hover .dropdown-menu {
+
+		display:block;
+		margin-top: 0px;
+
+}
+
+/* EOF */

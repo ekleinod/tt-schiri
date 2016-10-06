@@ -13,48 +13,21 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right">
-				{% assign pages_sorted = site.pages | sort: 'title' %}
-
-				{% assign pages_out = '' | split: '' %}
-				{% assign dropdown_out = '' | split: '' %}
-
-				{% for the_page in pages_sorted %}
-					{% if the_page.dropdown != null %}
-						{% unless dropdown_out contains the_page.dropdown %}
-							{% assign dropdown_out = dropdown_out | push: the_page.dropdown %}
-						{% endunless %}
+				{% for navitem in site.data.navigation %}
+					{% if navitem.children %}
+						<li class="dropdown">
+							<a href="" class="dropdown-toggle" data-toggle="dropdown">{{ navitem.title }}<b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li><a href="{{ navitem.href | prepend: site.baseurl }}">{{ navitem.title }}</a></li>
+								{% for child in navitem.children %}
+									<li><a href="{{ child.href | prepend: site.baseurl }}">{{ child.title }}</a></li>
+								{% endfor %}
+							</ul>
+						</li>
 					{% else %}
-						{% if the_page.hide-nav != true %}
-							{% assign pages_out = pages_out | push: the_page %}
-						{% endif %}
+						<li {% if navitem.href == page.url %}class="active"{% endif %}><a href="{{ navitem.href | prepend: site.baseurl }}">{{ navitem.title }}</a></li>
 					{% endif %}
 				{% endfor %}
-
-								{% if dropdown_out.size > 0 %}
-										{% for dropdown in dropdown_out %}
-
-												<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">{{dropdown}}<b class="caret"></b></a>
-							<ul class="dropdown-menu">
-										{% for the_page in pages_sorted %}
-																{% if the_page.dropdown == dropdown %}
-																		<li>
-												<a href="{{ the_page.url | prepend: site.baseurl }}">{{ the_page.title }}</a>
-											 </li>
-																{% endif %}
-														{% endfor %}
-							</ul>
-						 </li>
-										{% endfor %}
-								{% endif %}
-
-				{% if pages_out.size > 0 %}
-
-					{% for the_page in pages_out %}
-						<li {% if the_page.url == page.url %}class="active"{% endif %}><a href="{{ the_page.url | prepend: site.baseurl }}">{{ the_page.title }}</a></li>
-					{% endfor %}
-
-				{% endif %}
 			</ul>
 		</div>
 	</div>
