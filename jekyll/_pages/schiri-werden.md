@@ -1,6 +1,6 @@
 ---
 title: Schiri werden
-#image: /banner/schiri-werden.png
+image: /banner/schiri-werden.png
 date: 02.10.2016
 ---
 
