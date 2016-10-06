@@ -89,7 +89,7 @@
 -
   path: "regeln"
   title: "Regeln"
-  tags: ["regeln", "einsatzinformationen"]
+  tags: ["regeln"]
   downloads:
     -
       filename: "Internationale_Tischtennisregeln_A.pdf"
@@ -101,6 +101,12 @@
       title: "Internationale TT-Regeln Teil B"
       description: "Teil B der Internationalen Tischtennis-Regeln."
       lastchange: 25.01.2016
+
+-
+  path: "ordnungen"
+  title: "Ordnungen"
+  tags: ["regeln"]
+  downloads:
     -
       filename: "DTTB-Wettspielordnung.pdf"
       title: "Wettspielordnung des DTTB"
