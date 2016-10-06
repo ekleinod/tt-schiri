@@ -36,4 +36,4 @@ Wenn Ihr einen Einsatz tauschen wollt oder nicht kommen könnt, geht bitte wie f
 
 ## Downloads
 
-{% include downloads.html tag='einsatzinformationen' %}
+{% include downloads.html tag = 'einsatzinformationen' validonly = true %}
