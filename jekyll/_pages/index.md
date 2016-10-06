@@ -3,6 +3,7 @@ title: Startseite
 layout: index
 breadcrumb: false
 hide-nav: true
+date: 02.10.2016
 ---
 
 Dies sind die Seiten der Schiedsrichterinnen und Schiedsrichter des Berliner Tischtennisverbands.

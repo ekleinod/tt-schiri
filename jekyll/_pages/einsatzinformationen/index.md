@@ -1,6 +1,6 @@
 ---
 title: Einsatzinformationen
-dropdown: Infos
+date: 06.10.2016
 ---
 
 Auf dieser Seite findet Ihr Einsatzinformationen für die aktuelle Saison. Für die zurückliegenden Saisons wird kein Archiv geführt.
@@ -36,4 +36,4 @@ Wenn Ihr einen Einsatz tauschen wollt oder nicht kommen könnt, geht bitte wie f
 
 ## Downloads
 
-{% include downloads.html tag='einsatzinformationen' %}
+{% include downloads.html tag = 'einsatzinformationen' validonly = true %}
