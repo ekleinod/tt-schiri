@@ -1,5 +1,6 @@
 ---
 title: Ansprechpartner
+date: 02.10.2016
 ---
 
 ## Verbandsschiedsrichterausschuss

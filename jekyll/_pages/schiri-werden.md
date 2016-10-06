@@ -1,5 +1,7 @@
 ---
 title: Schiri werden
+#image: /banner/schiri-werden.png
+date: 02.10.2016
 ---
 
 [{% include img.html src='VSR-Lehrgang-Ankuendigung.png' title='VSR-Lehrgang-Ankündigung' align='right' %}](/img/VSR-Lehrgang-Ankuendigung.png)

@@ -127,3 +127,153 @@
       title: "Merkblatt Coaching-Regel"
       description: "Kurzes Merkblatt zur Coachingregel mit Praxisbeispielen. Erstellt vom VSRA des BeTTV."
       lastchange: 06.09.2016
+
+-
+  path: "belaglisten"
+  title: "Belaglisten"
+  tags: ["einsatzinformationen", "belaglisten"]
+  downloads:
+    -
+      filename: "LARC_37_B_2016.pdf"
+      title: "LARC 2016 B"
+      description: "Belagliste 2016 B."
+      lastchange: 01.10.2016
+      valid: true
+    -
+      filename: "LARC_37_A_2016.pdf"
+      title: "LARC 2016 A"
+      description: "Belagliste 2016 A."
+      lastchange: 01.04.2016
+      valid: false
+    -
+      filename: "LARC_36_C_2016.pdf"
+      title: "LARC 2015 B Update"
+      description: "Belagliste 2015 B Update."
+      lastchange: 04.01.2016
+      valid: false
+    -
+      filename: "LARC_36_B_2015.pdf"
+      title: "LARC 2015 B"
+      description: "Belagliste 2015 B."
+      lastchange: 01.10.2015
+      valid: false
+    -
+      filename: "LARC_36_A_2015.pdf"
+      title: "LARC 2015 A"
+      description: "Belagliste 2015 A."
+      lastchange: 01.05.2015
+      valid: false
+    -
+      filename: "LARC_35_B_2014.pdf"
+      title: "LARC 35 B"
+      description: "Belagliste 35 B."
+      lastchange: 01.10.2014
+      valid: false
+    -
+      filename: "LARC_35_A_2014.pdf"
+      title: "LARC 35 A"
+      description: "Belagliste 35 A."
+      lastchange: 01.07.2014
+      valid: false
+    -
+      filename: "LARC_34_B_2014.pdf"
+      title: "LARC 34 B"
+      description: "Belagliste 34 B."
+      lastchange: 01.01.2014
+      valid: false
+    -
+      filename: "LARC_34_A_2013.pdf"
+      title: "LARC 34 A"
+      description: "Belagliste 34 A."
+      lastchange: 01.07.2013
+      valid: false
+    -
+      filename: "LARC_33_B_2013.pdf"
+      title: "LARC 33 B"
+      description: "Belagliste 33 B."
+      lastchange: 01.01.2013
+      valid: false
+    -
+      filename: "LARC_33_A_2012.pdf"
+      title: "LARC 33 A"
+      description: "Belagliste 33 A."
+      lastchange: 01.07.2012
+      valid: false
+    -
+      filename: "LARC_32_B_2012.pdf"
+      title: "LARC 32 B"
+      description: "Belagliste 32 B."
+      lastchange: 01.01.2012
+      valid: false
+    -
+      filename: "LARC_32_A_2011.pdf"
+      title: "LARC 32 A"
+      description: "Belagliste 32 A."
+      lastchange: 01.07.2011
+      valid: false
+    -
+      filename: "LARC_31_B_2011.pdf"
+      title: "LARC 31 B"
+      description: "Belagliste 31 B."
+      lastchange: 01.01.2011
+      valid: false
+    -
+      filename: "LARC_31_A_2010.pdf"
+      title: "LARC 31 A"
+      description: "Belagliste 31 A."
+      lastchange: 01.07.2010
+      valid: false
+    -
+      filename: "LARC_30_B_2010.pdf"
+      title: "LARC 30 B"
+      description: "Belagliste 30 B."
+      lastchange: 01.01.2010
+      valid: false
+    -
+      filename: "LARC_30_A_2009.pdf"
+      title: "LARC 30 A"
+      description: "Belagliste 30 A."
+      lastchange: 01.06.2009
+      valid: false
+    -
+      filename: "LARC_29_B_2008.pdf"
+      title: "LARC 29 B"
+      description: "Belagliste 29 B."
+      lastchange: 15.10.2008
+      valid: false
+    -
+      filename: "LARC_29_A_2008.pdf"
+      title: "LARC 29 A"
+      description: "Belagliste 29 A."
+      lastchange: 01.04.2008
+      valid: false
+    -
+      filename: "LARC_28_B_2007.pdf"
+      title: "LARC 28 B"
+      description: "Belagliste 28 B."
+      lastchange: 01.10.2007
+      valid: false
+    -
+      filename: "LARC_28_A_2007.pdf"
+      title: "LARC 28 A"
+      description: "Belagliste 28 A."
+      lastchange: 01.07.2007
+      valid: false
+    -
+      filename: "LARC_27_B_2007.pdf"
+      title: "LARC 27 B"
+      description: "Belagliste 27 B."
+      lastchange: 01.01.2007
+      valid: false
+    -
+      filename: "LARC_27_A_2006.pdf"
+      title: "LARC 27 A"
+      description: "Belagliste 27 A."
+      lastchange: 01.07.2006
+      valid: false
+    -
+      filename: "LARC_26_B_2006.pdf"
+      title: "LARC 26 B"
+      description: "Belagliste 26 B."
+      lastchange: 01.01.2006
+      valid: false
