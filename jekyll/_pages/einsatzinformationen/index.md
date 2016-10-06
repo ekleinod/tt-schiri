@@ -1,6 +1,5 @@
 ---
 title: Einsatzinformationen
-dropdown: Infos
 ---
 
 Auf dieser Seite findet Ihr Einsatzinformationen für die aktuelle Saison. Für die zurückliegenden Saisons wird kein Archiv geführt.

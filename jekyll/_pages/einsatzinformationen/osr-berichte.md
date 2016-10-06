@@ -1,6 +1,5 @@
 ---
 title: OSR-Berichte
-dropdown: Infos
 ---
 
 Zu jedem Spiel, das Ihr als OSR leitet, ist ein OSR-Bericht zu erstellen.

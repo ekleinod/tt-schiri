@@ -131,7 +131,7 @@
 -
   path: "belaglisten"
   title: "Belaglisten"
-  tags: ["einsatzinformationen"]
+  tags: ["einsatzinformationen", "belaglisten"]
   downloads:
     -
       filename: "LARC_37_B_2016.pdf"
