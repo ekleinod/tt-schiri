@@ -10,6 +10,6 @@ Dies sind die Seiten der Schiedsrichterinnen und Schiedsrichter des Berliner Tis
 
 Die zur Verfügung stehenden Informationen könnt Ihr über das Menü oben bzw. rechts ansurfen.
 
-Das Wichtigste: Der {% include download.html file='einsatzinformationen/BeTTV_Einsatzplan.pdf' title='Einsatzplan (pdf)' %} und {% include download.html file='einsatzinformationen/BeTTV_Einsatzplan.xls' title='Einsatzplan (xls)' %}.
+Das Wichtigste: Der {% include download.html file='einsatzpläne/BeTTV_Einsatzplan.pdf' title='Einsatzplan (pdf)' %} und {% include download.html file='einsatzpläne/BeTTV_Einsatzplan.xls' title='Einsatzplan (xls)' %}.
 
 Das Zweitwichtigste: der {% include link.html target='http://www.ekkart.de/schiri/forum/' title='Link zum Schiri-Forum' %}.

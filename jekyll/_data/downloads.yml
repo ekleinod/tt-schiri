@@ -1,18 +1,23 @@
 -
-  path: "einsatzinformationen"
-  title: "Einsatzinformationen"
+  path: "einsatzpläne"
+  title: "Einsatzpläne"
   tags: ["einsatzinformationen"]
   downloads:
     -
       filename: "BeTTV_Einsatzplan.pdf"
       title: "BeTTV Einsatzplan (pdf)"
       description: "Einsatzplan für alle VSR, PDF-Datei."
-      lastchange: 18.09.2016
+      lastchange: 09.10.2016
     -
       filename: "BeTTV_Einsatzplan.xls"
       title: "BeTTV Einsatzplan (xls)"
       description: "Einsatzplan für alle VSR, Excel."
-      lastchange: 18.09.2016
+      lastchange: 09.10.2016
+-
+  path: "einsatzinformationen"
+  title: "Einsatzinformationen"
+  tags: ["einsatzinformationen"]
+  downloads:
     -
       filename: "BeTTV_Spielorte.pdf"
       title: "BeTTV Spielorte"
