@@ -283,3 +283,27 @@
       description: "Belagliste 26 B."
       lastchange: 01.01.2006
       valid: false
+    -
+      filename: "LARC_26_A_2005.pdf"
+      title: "LARC 26 A"
+      description: "Belagliste 26 A."
+      lastchange: 01.07.2005
+      valid: false
+    -
+      filename: "LARC_25_B_2005.pdf"
+      title: "LARC 25 B"
+      description: "Belagliste 25 B."
+      lastchange: 01.01.2005
+      valid: false
+    -
+      filename: "LARC_25_A_2004.pdf"
+      title: "LARC 25 A"
+      description: "Belagliste 25 A."
+      lastchange: 01.07.2004
+      valid: false
+    -
+      filename: "LARC_24_B_2004.pdf"
+      title: "LARC 24 B"
+      description: "Belagliste 24 B."
+      lastchange: 01.01.2004
+      valid: false
