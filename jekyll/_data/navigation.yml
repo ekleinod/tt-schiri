@@ -33,12 +33,12 @@
 #  icon: "calendar"
 #  indexpage: true
 
-#-
-#  title: "Regeln"
-#  href: "/regeln.html"
-#  description: "Regeln, Regelfragen und Regelauslegungen."
-#  icon: "balance-scale"
-#  indexpage: true
+-
+  title: "Regeln"
+  href: "/regeln/index.html"
+  description: "Regeln, Regelfragen und Regelauslegungen."
+  icon: "balance-scale"
+  indexpage: true
 
 -
   title: "Downloads"
