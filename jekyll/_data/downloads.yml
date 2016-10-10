@@ -1,18 +1,23 @@
 -
-  path: "einsatzinformationen"
-  title: "Einsatzinformationen"
+  path: "einsatzplaene"
+  title: "Einsatzpläne"
   tags: ["einsatzinformationen"]
   downloads:
     -
       filename: "BeTTV_Einsatzplan.pdf"
       title: "BeTTV Einsatzplan (pdf)"
       description: "Einsatzplan für alle VSR, PDF-Datei."
-      lastchange: 18.09.2016
+      lastchange: 10.10.2016
     -
       filename: "BeTTV_Einsatzplan.xls"
       title: "BeTTV Einsatzplan (xls)"
       description: "Einsatzplan für alle VSR, Excel."
-      lastchange: 18.09.2016
+      lastchange: 10.10.2016
+-
+  path: "einsatzinformationen"
+  title: "Einsatzinformationen"
+  tags: ["einsatzinformationen"]
+  downloads:
     -
       filename: "BeTTV_Spielorte.pdf"
       title: "BeTTV Spielorte"
@@ -282,4 +287,28 @@
       title: "LARC 26 B"
       description: "Belagliste 26 B."
       lastchange: 01.01.2006
+      valid: false
+    -
+      filename: "LARC_26_A_2005.pdf"
+      title: "LARC 26 A"
+      description: "Belagliste 26 A."
+      lastchange: 01.07.2005
+      valid: false
+    -
+      filename: "LARC_25_B_2005.pdf"
+      title: "LARC 25 B"
+      description: "Belagliste 25 B."
+      lastchange: 01.01.2005
+      valid: false
+    -
+      filename: "LARC_25_A_2004.pdf"
+      title: "LARC 25 A"
+      description: "Belagliste 25 A."
+      lastchange: 01.07.2004
+      valid: false
+    -
+      filename: "LARC_24_B_2004.pdf"
+      title: "LARC 24 B"
+      description: "Belagliste 24 B."
+      lastchange: 01.01.2004
       valid: false

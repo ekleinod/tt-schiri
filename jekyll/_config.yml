@@ -39,9 +39,9 @@ defaults:
 # Output options (more information on Jekyll's site)
 highlighter: rouge
 
-# include _pages dir for pages
+# include these files
 #include:
-#  - "_pages"
+#  - ".htaccess"
 
 # Exclude these files from production site
 exclude:
