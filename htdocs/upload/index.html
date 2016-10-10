@@ -17,12 +17,12 @@
 
 	<!-- Custom CSS -->
 	<link href="/css/modern-business.css" rel="stylesheet">
-	
-	<!-- Eigenes CSS -->
-	<link href="/css/tt-schiri.css" rel="stylesheet">
 
 	<!-- Custom Fonts -->
 	<link href="/css/font-awesome-4.6.3.min.css" rel="stylesheet" type="text/css">
+	
+	<!-- Eigenes CSS -->
+	<link href="/css/tt-schiri.css" rel="stylesheet">
 
 </head>
 
@@ -119,19 +119,21 @@
 	<div class="control-group form-group">
 		<div class="controls">
 			<label>Einsatzplan (pdf)</label>
-			<input type="file" class="form-control" id="pdf" required="required" />
+			<input type="file" class="form-control" id="pdf" name="pdf" required="required" />
 		</div>
 	</div>
 	<div class="control-group form-group">
 		<div class="controls">
 			<label>Einsatzplan (xls)</label>
-			<input type="file" class="form-control" id="excel" required="required" />
+			<input type="file" class="form-control" id="excel" name="excel" required="required" />
 		</div>
 	</div>
 	<div id="success"></div>
 	<!-- For success/fail messages -->
-	<button type="submit" class="btn btn-primary">Hochladen</button>
+	<button type="submit" class="btn btn-primary" name="submit">Hochladen</button>
 </form>
+
+<p>Anmerkung: bei jedem Abschicken bekomme ich eine E-Mail.</p>
 
 	</div>
 </div>
