@@ -1,0 +1,4 @@
+AuthUserFile /home/vhosts/5000128517/ekkart.de/tt-schiri.de/htdocs/upload/.htpasswd
+AuthName "Einsatzpläne hochladen - erst einloggen"
+AuthType Basic
+Require valid-user
