@@ -26,12 +26,16 @@
   icon: "graduation-cap"
   indexpage: true
 
-#-
-#  title: "Termine"
-#  href: "/termine.html"
-#  description: "Die wichtigsten Termine der Saison."
-#  icon: "calendar"
-#  indexpage: true
+-
+  title: "Termine"
+  href: "/termine/index.html"
+  description: "Die wichtigsten Termine der Saison sowie Veranstaltungsorte."
+  icon: "calendar"
+  indexpage: true
+  children:
+    -
+      title: "Veranstaltungsorte"
+      href: "/termine/veranstaltungsorte.html"
 
 -
   title: "Regeln"

@@ -1,4 +1,4 @@
-gs:
+-
   title: "Geschäftsstelle des BeTTV"
   street: "Paul-Heyse-Straße 29"
   city: "10407 Berlin"
@@ -7,4 +7,10 @@ gs:
 
     Anfahrt: die Paul-Heyse-Straße bis hinter fahren, bevor es zum Velodrom runtergeht ist links ein kleiner Weg (mit Schranke) zum Gebäude der Geschäftsstelle.
 
-    Fahrradständer sind vorhanden, mit dem Auto bekommt man auch einen Parkplatz, kann sein, dass man da etwas laufen muss."
+    Fahrradständer sind vorhanden, mit dem Auto bekommt man auch einen Parkplatz, kann sein, dass man da etwas laufen muss.
+  osm:
+    latitude: 52.53194
+    longitude: 13.45023
+
+-
+  title: "Test"
