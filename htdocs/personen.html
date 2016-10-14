@@ -68,6 +68,18 @@
 					
 				
 					
+						<li class="dropdown">
+							<a href="" class="dropdown-toggle" data-toggle="dropdown">Termine<b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li><a href="/termine/index.html">Termine</a></li>
+								
+									<li><a href="/termine/veranstaltungsorte.html">Veranstaltungsorte</a></li>
+								
+							</ul>
+						</li>
+					
+				
+					
 						<li ><a href="/regeln/index.html">Regeln</a></li>
 					
 				
