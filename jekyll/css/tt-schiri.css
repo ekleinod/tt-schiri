@@ -8,112 +8,123 @@
 .navbar .navbar-brand,
 .navbar .navbar-collapse .dropdown .dropdown-menu li a,
 .navbar .navbar-collapse li a{
-        
-    color: #FFFFFF;
-    
+
+		color: #FFFFFF;
+
 }
 
-.navbar, 
+.navbar,
 .navbar .open .dropdown-menu,
 .navbar .dropdown .dropdown-toggle{
-    
-    background-color: #e10a17;
-    border-color: #e10a17;
+
+		background-color: #e10a17;
+		border-color: #e10a17;
 
 }
 
 .navbar .navbar-collapse li a:hover,
 .navbar .navbar-collapse li a:focus,
-.navbar .navbar-collapse .active a, 
-.navbar .navbar-collapse .active a:hover, 
+.navbar .navbar-collapse .active a,
+.navbar .navbar-collapse .active a:hover,
 .navbar .navbar-collapse .active a:focus,
 .navbar .navbar-collapse .dropdown .dropdown-toggle:hover,
 .navbar .navbar-collapse .open.dropdown .dropdown-toggle,
 .navbar .navbar-collapse .dropdown .dropdown-toggle:focus,
 .navbar .navbar-collapse .dropdown .dropdown-menu li a:hover,
 .navbar .navbar-collapse .dropdown .dropdown-menu li a:focus{
-    
-    background-color: firebrick;
-    
+
+		background-color: firebrick;
+
 }
 
 .navbar .navbar-header .navbar-toggle,
 .navbar .navbar-header .navbar-toggle:hover,
 .navbar .navbar-header .navbar-toggle:focus{
-    
-    background-color: firebrick;
-    border-color: firebrick;
-    
+
+		background-color: firebrick;
+		border-color: firebrick;
+
 }
 
 .navbar .navbar-header img{
-    
-    height: auto;
-    width: 65%;
-    
-    
+
+		height: auto;
+		width: 65%;
+
+
 }
 
 .icon-bar{
-    
-    background-color: #FFFFFF;
-    
+
+		background-color: #FFFFFF;
+
 }
 
 .row a{
-    
-    color: #e10a17;
-    
+
+		color: #e10a17;
+
 }
 
-hr, .page-header{
-    
-    border-color: #e10a17;
-    
+hr, .page-header, iframe.osm {
+
+		border-color: #e10a17;
+
 }
 
 .fa-circle{
-    
-    color: #e10a17;
-    
+
+		color: #e10a17;
+
 }
 
 footer p{
-    
-    text-align: center;
-    color: #e10a17;
-    
+
+		text-align: center;
+		color: #e10a17;
+
 }
 
 footer {
-    
-    height: 20px;
-    margin-bottom: auto;
-    
-}  
+
+		height: 20px;
+		margin-bottom: auto;
+
+}
 
 @media(min-width: 770px) {
-    .navbar .dropdown:hover .dropdown-menu {
 
-		display:block;
-		margin-top: 0px;
-        background-color: #e10a17;
+		.navbar .dropdown:hover .dropdown-menu {
 
-    }
-    
-    .navbar .dropdown:hover .dropdown-toggle{
+				display:block;
+				margin-top: 0px;
+				background-color: #e10a17;
 
-		background-color: firebrick;      
+		}
 
-    }
-    
-    .navbar .dropdown-menu a:hover,
-    .navbar .dropdown-menu a,
-    .navbar .dropdown-menu a:focus{
-        
-        color: #FFFFFF;
-        
-    }
+		.navbar .dropdown:hover .dropdown-toggle{
+
+				background-color: firebrick;
+
+		}
+
+		.navbar .dropdown-menu a:hover,
+		.navbar .dropdown-menu a,
+		.navbar .dropdown-menu a:focus{
+
+				color: #FFFFFF;
+
+		}
+
+}
+
+iframe.osm {
+
+	border-width: 1px;
+	border-style: solid;
+	width: 50%;
+	height: 50ex;
+	overflow: hidden; /* remove scrollbars, not reliable in browsers yet, thus scrolling="no" remains in html */
 
 }
 

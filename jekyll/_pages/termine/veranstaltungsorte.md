@@ -1,6 +1,6 @@
 ---
 title: Veranstaltungsorte
-date: 13.10.2016
+date: 15.10.2016
 ---
 
 {% for venue in site.data.venues %}
@@ -15,15 +15,12 @@ date: 13.10.2016
 
 {% if venue.osm %}
 
-<iframe
-	width="425"
-	height="350"
-	frameborder="0"
+{% assign lat_diff = 0.0013 %}
+{% assign long_diff = 0.0045 %}
+
+<iframe class="osm"
 	scrolling="no"
-	marginheight="0"
-	marginwidth="0"
-	src="http://www.openstreetmap.org/export/embed.html?bbox=13.445785045623781%2C52.530601658034655%2C13.454668521881104%2C52.5332710194997&amp;layer=mapnik&amp;marker={{ venue.osm.latitude }}%2C{{ venue.osm.longitude }}"
-	style="border: 1px solid black"
+	src="http://www.openstreetmap.org/export/embed.html?bbox={{ venue.osm.longitude | minus: long_diff }}%2C{{ venue.osm.latitude | minus: lat_diff }}%2C{{ venue.osm.longitude | plus: long_diff }}%2C{{ venue.osm.latitude | plus: lat_diff }}&amp;layer=mapnik&amp;marker={{ venue.osm.latitude }}%2C{{ venue.osm.longitude }}"
 ></iframe>
 
 [Direkt bei Openstreetmap öffnen](http://www.openstreetmap.org/?mlat={{ venue.osm.latitude }}&amp;mlon={{ venue.osm.longitude }}#map=18/{{ venue.osm.latitude }}/{{ venue.osm.longitude }})
