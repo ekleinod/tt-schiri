@@ -20,9 +20,9 @@
 
 	<!-- Custom Fonts -->
 	<link href="/css/font-awesome-4.6.3.min.css" rel="stylesheet" type="text/css">
-	
+
 	<!-- Eigenes CSS -->
-	<link href="/css/tt-schiri.css" rel="stylesheet">
+	<link href="/css/local.css" rel="stylesheet">
 
 </head>
 
