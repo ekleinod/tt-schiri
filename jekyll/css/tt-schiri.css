@@ -6,11 +6,8 @@
 */
 
 .navbar .navbar-brand,
-.navbar .dropdown-menu a,
-.navbar-nav li a,
-.navbar .navbar-collapse li a,
-.navbar .open .dropdown-menu a:hover,
-.navbar .open .dropdown-menu a:focus{
+.navbar .navbar-collapse .dropdown .dropdown-menu li a,
+.navbar .navbar-collapse li a{
         
     color: #FFFFFF;
     
@@ -25,16 +22,35 @@
 
 }
 
-.navbar-toggle,
 .navbar .navbar-collapse li a:hover,
 .navbar .navbar-collapse li a:focus,
 .navbar .navbar-collapse .active a, 
 .navbar .navbar-collapse .active a:hover, 
 .navbar .navbar-collapse .active a:focus,
 .navbar .navbar-collapse .dropdown .dropdown-toggle:hover,
-.navbar .navbar-collapse .dropdown .dropdown-toggle:focus{
+.navbar .navbar-collapse .open.dropdown .dropdown-toggle,
+.navbar .navbar-collapse .dropdown .dropdown-toggle:focus,
+.navbar .navbar-collapse .dropdown .dropdown-menu li a:hover,
+.navbar .navbar-collapse .dropdown .dropdown-menu li a:focus{
     
     background-color: firebrick;
+    
+}
+
+.navbar .navbar-header .navbar-toggle,
+.navbar .navbar-header .navbar-toggle:hover,
+.navbar .navbar-header .navbar-toggle:focus{
+    
+    background-color: firebrick;
+    border-color: firebrick;
+    
+}
+
+.navbar .navbar-header img{
+    
+    height: auto;
+    width: 65%;
+    
     
 }
 
@@ -74,8 +90,7 @@ footer {
     height: 20px;
     margin-bottom: auto;
     
-}
-    
+}  
 
 @media(min-width: 770px) {
     .navbar .dropdown:hover .dropdown-menu {
@@ -93,6 +108,7 @@ footer {
     }
     
     .navbar .dropdown-menu a:hover,
+    .navbar .dropdown-menu a,
     .navbar .dropdown-menu a:focus{
         
         color: #FFFFFF;
