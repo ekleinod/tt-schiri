@@ -1,12 +1,12 @@
 -
   date: 07.09.2016
-  start: 19:00
-  end: 21:00
+  start: "19:00"
+  end: "21:00"
   title: "VSR-Fortbildung"
-  venue: "gs"
+  venue: "Venue.1"
 -
   date: 16.01.2017
-  start: 19:00
-  end: 22:00
+  start: "19:00"
+  end: "22:00"
   title: "VSR-Fortbildung Praxisabend"
   description: "Konkretes Datum wird am 1. Abend festgelegt."
