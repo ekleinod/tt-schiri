@@ -5,6 +5,12 @@
 * for more information see README
 */
 
+.container {
+
+	width:100%;
+
+}
+
 .navbar .navbar-brand,
 .navbar .navbar-collapse .dropdown .dropdown-menu li a,
 .navbar .navbar-collapse li a{
