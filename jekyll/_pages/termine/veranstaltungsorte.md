@@ -3,7 +3,12 @@ title: Veranstaltungsorte
 date: 15.10.2016
 ---
 
-{% for venue in site.data.venues %}
+{% assign lat_diff = 0.0013 %}
+{% assign long_diff = 0.0045 %}
+
+{% for venue_kv in site.data.venues %}
+
+{% assign venue = venue_kv[1][0] %}
 
 ## {{ venue.title }}
 
@@ -14,9 +19,6 @@ date: 15.10.2016
 {% if venue.description %}{{ venue.description }}{% endif %}
 
 {% if venue.osm %}
-
-{% assign lat_diff = 0.0013 %}
-{% assign long_diff = 0.0045 %}
 
 <iframe class="osm"
 	scrolling="no"
