@@ -1,0 +1,66 @@
+-
+  title: "VSR-Fortbildung"
+  date: 07.09.2016
+  start: "19:00"
+  end: "21:00"
+  venue: "Venue.1"
+
+-
+  title: "VSR-Lehrgang - Meldeschluss"
+  date: 14.12.2016
+
+-
+  title: "VSR-Lehrgang - 1. Abend"
+  date: 11.01.2017
+  start: "19:00"
+  end: "22:00"
+  venue: "Venue.1"
+
+-
+  title: "VSR-Lehrgang - Praxisabend"
+  date: 16.01.2017
+  start: "19:00"
+  end: "22:00"
+  description: "Konkretes Datum wird am 1. Abend festgelegt."
+
+-
+  title: "VSR-Lehrgang - Praxisabend"
+  date: 17.01.2017
+  start: "19:00"
+  end: "22:00"
+  description: "Konkretes Datum wird am 1. Abend festgelegt."
+
+-
+  title: "VSR-Lehrgang - 2. Abend"
+  date: 19.01.2017
+  start: "19:00"
+  end: "22:00"
+  venue: "Venue.1"
+
+-
+  title: "VSR-Lehrgang - Prüfungen bei der BEM"
+  date: 21.01.2017
+  start: "13:00"
+  end: "16:00"
+  description: "Prüfungen für Teilnehmer der BEM werden im Lehrgang abgesprochen. Der Spielort ist noch nicht offiziell bestätigt."
+  venue: "Venue.3"
+
+-
+  title: "VSR-Tagung"
+  date: 05.04.2017
+  start: "19:00"
+  end: "21:00"
+  venue: "Venue.2"
+
+-
+  title: "VSR-Fortbildung"
+  date: 27.04.2017
+  start: "19:00"
+  end: "21:00"
+  venue: "Venue.1"
+
+-
+  title: "34. Deutsches Verbandsschiedsrichter-Treffen"
+  date: 23.06.2017
+  venue: "Venue.3"
+

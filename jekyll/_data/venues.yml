@@ -1,13 +1,37 @@
--
-  title: "Geschäftsstelle des BeTTV"
-  street: "Paul-Heyse-Straße 29"
-  city: "10407 Berlin"
-  description: >
-    Die Geschäftsstelle befindet sich in der 5. Etage.
+Venue.2:
+  -
+    title: "Clubraum des Berliner TSC"
+    street: "Paul-Heyse-Straße 25"
+    city: "10407 Berlin"
+    description: >
+      Der Clubraum befindet sich in der 1. Etage.
+      
+      Der Zugang ist besser über die Conrad-Blenkle-Straße an der großen Spielhalle. Vor dem Gebäude sind genügend Fahrradständer.
+    osm:
+      latitude: 52.53212
+      longitude: 13.44722
 
-    Anfahrt: die Paul-Heyse-Straße bis hinter fahren, bevor es zum Velodrom runtergeht ist links ein kleiner Weg (mit Schranke) zum Gebäude der Geschäftsstelle.
+Venue.3:
+  -
+    title: "Große Sporthalle"
+    street: "Paul-Heyse-Straße 25"
+    city: "10407 Berlin"
+    osm:
+      latitude: 52.53212
+      longitude: 13.44722
 
-    Fahrradständer sind vorhanden, mit dem Auto bekommt man auch einen Parkplatz, kann sein, dass man da etwas laufen muss.
-  osm:
-    latitude: 52.53194
-    longitude: 13.45023
+Venue.1:
+  -
+    title: "Geschäftsstelle des BeTTV"
+    street: "Paul-Heyse-Straße 29"
+    city: "10407 Berlin"
+    description: >
+      Die Geschäftsstelle befindet sich in der 5. Etage.
+      
+      Anfahrt: die Paul-Heyse-Straße bis hinter fahren, bevor es zum Velodrom runtergeht ist links ein kleiner Weg (mit Schranke) zum Gebäude der Geschäftsstelle.
+      
+      Fahrradständer sind vorhanden, mit dem Auto bekommt man auch einen Parkplatz, kann sein, dass man da etwas laufen muss.
+    osm:
+      latitude: 52.53194
+      longitude: 13.45023
+
