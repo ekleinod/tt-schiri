@@ -42,7 +42,8 @@
   date: 21.01.2017
   start: "13:00"
   end: "16:00"
-  description: "Prüfungen für Teilnehmer der BEM werden im Lehrgang abgesprochen."
+  description: "Prüfungen für Teilnehmer der BEM werden im Lehrgang abgesprochen. Der Spielort ist noch nicht offiziell bestätigt."
+  venue: "Venue.3"
 
 -
   title: "VSR-Tagung"
