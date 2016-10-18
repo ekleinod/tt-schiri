@@ -9,7 +9,7 @@ date: 13.10.2016
 ## {{ event.title }}
 
 Datum
-: {{ event.date | date: '%A, %-d. %B %Y' }}
+: {% include date.html date=event.date style='full' %}
 
 {% if event.start %}
 Zeit

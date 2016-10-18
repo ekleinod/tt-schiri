@@ -39,7 +39,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="http://www.tt-schiri.de/index.html">Startseite</a>
+			<a class="navbar-brand" href="http://www.tt-schiri.de/index.html"></a>
 		</div>
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -220,7 +220,7 @@ mail("schiri@ekkart.de", "Upload Schiriseiten", "Upload Einsatzpläne: " . (($er
 				<div class="row">
 					<div class="col-lg-12">
 						<p>
-							Letzte Änderung: 9. October 2016,
+							Letzte Änderung: 9. Oktober 2016,
 							Ekkart Kleinod
 						</p>
 					</div>

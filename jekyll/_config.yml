@@ -20,7 +20,7 @@ description: "Internetseiten der Schiedsrichterinnen und Schiedsrichter des BeTT
 
 # custom defaults
 author: ek
-locale: de
+locale: "de-DE"
 
 # --- Misc --- #
 
