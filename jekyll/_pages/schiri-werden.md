@@ -72,7 +72,7 @@ VSR-Lehrgang freiwilliger Praxisabend
 : Dienstag, 17.01.2016, 19:00 -- 22:00 Uhr
 
 VSR-Lehrgang Abend 2
-: Donnerstag, 21.01.2016, 19:00 -- 22:00 Uhr
+: Donnerstag, 19.01.2016, 19:00 -- 22:00 Uhr
 
 VSR-Prüfung
 : Sonnabend, 21.01.2016, ca. 13:00 Uhr; bei den BEM der Damen und Herren (für Spielerinnen und Spieler der BEM zu einem anderen Turnier)
