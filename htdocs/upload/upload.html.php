@@ -97,6 +97,9 @@
 </nav>
 
 
+		
+
+
 		<div class="container">
 
 			<div class="row">
@@ -234,6 +237,9 @@ mail("schiri@ekkart.de", "Upload Schiriseiten", "Upload Einsatzpläne: " . (($er
 
 		<!-- Bootstrap Core JavaScript -->
 		<script src="/js/bootstrap-3.3.6.min.js"></script>
+
+		<!-- Eigenes JS -->
+		<script src="/js/local.js"></script>
 
 	</body>
 
