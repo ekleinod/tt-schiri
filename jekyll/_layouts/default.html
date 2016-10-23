@@ -14,15 +14,13 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<h1 class="page-header">{% if page.title == "Startseite" %}{{ site.title }}{% else %}{{ page.title }}{% endif %}
-						{% if page.description %}<small>Beschreibung</small>{% endif %}
+						{% if page.description %}<small>{{ page.description }}</small>{% endif %}
 					</h1>
 					{% include breadcrumb.html %}
 				</div>
 			</div>
 
 			{% include image.html %}
-
-			<hr />
 
 			{{ content }}
 

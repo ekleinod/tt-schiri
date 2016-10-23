@@ -59,7 +59,7 @@ gems:
 
 # generate files from data
 page_gen:
-  - data: 'venues'
-    template: 'gen_venue'
+  - data: 'venues_pages'
+    template: 'venue_page'
     name: 'title'
-    dir: 'venues'
+    dir: 'termine/venues'

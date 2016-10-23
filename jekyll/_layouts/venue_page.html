@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+<dl>
+	<dt>Adresse</dt>
+{% if page.street %}<dd>{{ page.street }}</dd>{% endif %}
+{% if page.city %}<dd>{{ page.city }}</dd>{% endif %}
+</dl>
+
+{% if page.details %}<p>{{ page.details }}</p>{% endif %}
+
+{% if page.osm %}
+
+<iframe class="osm"
+	scrolling="no"
+	src="http://www.openstreetmap.org/export/embed.html?bbox={{ page.osm.longitude | minus: long_diff }}%2C{{ page.osm.latitude | minus: lat_diff }}%2C{{ page.osm.longitude | plus: long_diff }}%2C{{ page.osm.latitude | plus: lat_diff }}&amp;layer=mapnik&amp;marker={{ page.osm.latitude }}%2C{{ page.osm.longitude }}"
+></iframe>
+
+<p><a href="http://www.openstreetmap.org/?mlat={{ page.osm.latitude }}&amp;mlon={{ page.osm.longitude }}#map=18/{{ page.osm.latitude }}/{{ page.osm.longitude }}">Direkt bei Openstreetmap öffnen</a></p>
+
+{% endif %}

@@ -12,21 +12,12 @@ date: 15.10.2016
 
 ## {{ venue.title }}
 
-{{ venue.title }}
+Adresse
 {% if venue.street %}: {{ venue.street }}{% endif %}
 {% if venue.city %}: {{ venue.city }}{% endif %}
 
-{% if venue.description %}{{ venue.description }}{% endif %}
+{% if venue.details %}{{ venue.details }}{% endif %}
 
-{% if venue.osm %}
-
-<iframe class="osm"
-	scrolling="no"
-	src="http://www.openstreetmap.org/export/embed.html?bbox={{ venue.osm.longitude | minus: long_diff }}%2C{{ venue.osm.latitude | minus: lat_diff }}%2C{{ venue.osm.longitude | plus: long_diff }}%2C{{ venue.osm.latitude | plus: lat_diff }}&amp;layer=mapnik&amp;marker={{ venue.osm.latitude }}%2C{{ venue.osm.longitude }}"
-></iframe>
-
-[Direkt bei Openstreetmap öffnen](http://www.openstreetmap.org/?mlat={{ venue.osm.latitude }}&amp;mlon={{ venue.osm.longitude }}#map=18/{{ venue.osm.latitude }}/{{ venue.osm.longitude }})
-
-{% endif %}
+[Detailseite "{{ venue.title }}"{% if venue.osm %} mit Karte{% endif %}]({{ venue.title | datapage_url: 'venues' }})
 
 {% endfor %}
