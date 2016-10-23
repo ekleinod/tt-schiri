@@ -56,6 +56,7 @@ collections:
 # use the following gems
 gems:
   - jekyll-sitemap
+  - jekyll-toc
 
 # generate files from data
 page_gen:
