@@ -12,6 +12,9 @@ layout: page
 
 {% if page.osm %}
 
+{% assign lat_diff = 0.0013 %}
+{% assign long_diff = 0.0045 %}
+
 <iframe class="osm"
 	scrolling="no"
 	src="http://www.openstreetmap.org/export/embed.html?bbox={{ page.osm.longitude | minus: long_diff }}%2C{{ page.osm.latitude | minus: lat_diff }}%2C{{ page.osm.longitude | plus: long_diff }}%2C{{ page.osm.latitude | plus: lat_diff }}&amp;layer=mapnik&amp;marker={{ page.osm.latitude }}%2C{{ page.osm.longitude }}"

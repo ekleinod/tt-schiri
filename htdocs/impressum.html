@@ -73,7 +73,7 @@
 							<ul class="dropdown-menu">
 								<li><a href="/termine/index.html">Termine</a></li>
 								
-									<li><a href="/termine/veranstaltungsorte.html">Veranstaltungsorte</a></li>
+									<li><a href="/termine/venues/index.html">Veranstaltungsorte</a></li>
 								
 							</ul>
 						</li>
