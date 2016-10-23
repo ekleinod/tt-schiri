@@ -52,3 +52,7 @@ collections:
     output: true
     permalink: /:path.html
     title: Seiten
+
+# use the following gems
+gems:
+  - jekyll-sitemap
