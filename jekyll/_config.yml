@@ -56,3 +56,10 @@ collections:
 # use the following gems
 gems:
   - jekyll-sitemap
+
+# generate files from data
+page_gen:
+  - data: 'venues'
+    template: 'gen_venue'
+    name: 'title'
+    dir: 'venues'
