@@ -39,7 +39,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="http://www.tt-schiri.de/index.html"></a>
+			<a class="navbar-brand" href="http://www.tt-schiri.de/index.html">Startseite</a>
 		</div>
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -73,7 +73,7 @@
 							<ul class="dropdown-menu">
 								<li><a href="/termine/index.html">Termine</a></li>
 								
-									<li><a href="/termine/veranstaltungsorte.html">Veranstaltungsorte</a></li>
+									<li><a href="/termine/venues/index.html">Veranstaltungsorte</a></li>
 								
 							</ul>
 						</li>
@@ -97,6 +97,9 @@
 </nav>
 
 
+		
+
+
 		<div class="container">
 
 			<div class="row">
@@ -116,10 +119,9 @@
 					<img class="img-responsive" src="/img/banner/upload.png" alt="Bild für Hochladen der Einsatzpläne - Ergebnis">
 			</div>
 	</div>
+	<hr />
 
 
-
-			<hr />
 
 			<div class="row">
 	<div class="col-lg-12">
@@ -234,6 +236,9 @@ mail("schiri@ekkart.de", "Upload Schiriseiten", "Upload Einsatzpläne: " . (($er
 
 		<!-- Bootstrap Core JavaScript -->
 		<script src="/js/bootstrap-3.3.6.min.js"></script>
+
+		<!-- Eigenes JS -->
+		<script src="/js/local.js"></script>
 
 	</body>
 

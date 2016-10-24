@@ -155,7 +155,7 @@
       title: "LARC 2016 A"
       description: "Belagliste 2016 A."
       lastchange: 01.04.2016
-      valid: false
+      valid: true
     -
       filename: "LARC_36_C_2016.pdf"
       title: "LARC 2015 B Update"
