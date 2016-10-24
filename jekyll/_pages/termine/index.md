@@ -18,7 +18,7 @@ Zeit
 
 {% if event.venue %}
 Ort
-: [{{ site.data.venues[event.venue][0].title }}](veranstaltungsorte.html#{{ site.data.venues[event.venue][0].title | slugify }})
+: [{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})
 {% endif %}
 
 {% endfor %}
