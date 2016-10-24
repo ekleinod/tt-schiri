@@ -1,6 +1,8 @@
 ---
 title: Schiri werden
 date: 02.10.2016
+layout: sidebarpage
+toc: true
 ---
 
 [{% include img.html src='VSR-Lehrgang-Ankuendigung.png' title='VSR-Lehrgang-Ankündigung' align='right' %}](/img/VSR-Lehrgang-Ankuendigung.png)
