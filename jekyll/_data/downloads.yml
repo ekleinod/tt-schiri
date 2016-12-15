@@ -7,12 +7,12 @@
       filename: "BeTTV_Einsatzplan.pdf"
       title: "BeTTV Einsatzplan (pdf)"
       description: "Einsatzplan für alle VSR, PDF-Datei."
-      lastchange: 10.10.2016
+      lastchange: 04.12.2016
     -
       filename: "BeTTV_Einsatzplan.xls"
       title: "BeTTV Einsatzplan (xls)"
       description: "Einsatzplan für alle VSR, Excel."
-      lastchange: 10.10.2016
+      lastchange: 04.12.2016
 -
   path: "einsatzinformationen"
   title: "Einsatzinformationen"
@@ -138,6 +138,17 @@
       title: "Merkblatt Coaching-Regel"
       description: "Kurzes Merkblatt zur Coachingregel mit Praxisbeispielen. Erstellt vom VSRA des BeTTV."
       lastchange: 06.09.2016
+
+-
+  path: "lehrgang"
+  title: "VSR-Lehrgang"
+  tags: ["lehrgang"]
+  downloads:
+    -
+      filename: "lehrgang.zip"
+      title: "Selbststudium"
+      description: "Doe DOkumente zum Selbststudium: Ordnungen, Regeln etc.."
+      lastchange: 15.12.2016
 
 -
   path: "belaglisten"
