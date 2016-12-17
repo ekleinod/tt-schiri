@@ -80,7 +80,15 @@
 					
 				
 					
-						<li ><a href="/regeln/index.html">Regeln</a></li>
+						<li class="dropdown">
+							<a href="" class="dropdown-toggle" data-toggle="dropdown">Regeln<b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li><a href="/regeln/index.html">Regeln</a></li>
+								
+									<li><a href="/regeln/faq.html">FAQ (Fragen und Antworten)</a></li>
+								
+							</ul>
+						</li>
 					
 				
 					
