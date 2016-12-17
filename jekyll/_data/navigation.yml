@@ -43,6 +43,10 @@
   description: "Regeln, Regelfragen und Regelauslegungen."
   icon: "balance-scale"
   indexpage: true
+  children:
+    -
+      title: "FAQ (Fragen und Antworten)"
+      href: "/regeln/faq.html"
 
 -
   title: "Downloads"
