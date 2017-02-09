@@ -38,6 +38,16 @@
       title: "DTTB Richtlinie zu Schlägertests"
       description: "Auszug aus dem DTTB-Handbuch."
       lastchange: 01.09.2016
+    -
+      filename: "DTTB_BL_Reisekostenabrechnung.pdf"
+      title: "DTTB Reisekostenabrechnung BL"
+      description: "Reisekostenabrechnung für OSR in den Bundesligen."
+      lastchange: 09.02.2017
+    -
+      filename: "DTTB_RL-OL_Reisekostenabrechnung.pdf"
+      title: "DTTB Reisekostenabrechnung RL/OL"
+      description: "Reisekostenabrechnung für OSR in den Regional- und Oberligen."
+      lastchange: 09.02.2017
 
 -
   path: "osr-berichte"
