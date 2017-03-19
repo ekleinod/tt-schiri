@@ -1,0 +1,23 @@
+{% capture output %}
+
+{% comment %}
+	{% for file in site.static_files %}
+	{{ file }}
+	{% endfor %}
+{% endcomment %}
+
+{% for section in site.data.downloads %}
+
+{% if (include.tag == null) or (section.tags contains include.tag) %}
+
+### {{ section.title }}
+
+{:.table .table-bordered .table-striped}
+| Name | Beschreibung | Stand |
+|:-|:-|:-|{% for file in section.downloads %}{% if (include.validonly == null) or (file.valid == null) or (include.validonly and file.valid) %}| {% assign filename = file.filename | prepend: "/" | prepend: section.path %}{% include download.html file=filename title=file.title %} | {{ file.description }}{% if file.valid %} (aktuell gültig){% endif %} | {% include date.html date=file.lastchange %}{% endif %}{% endfor %}
+
+{% endif %}
+{% endfor %}
+
+{% endcapture %}
+{{ output | strip }}
