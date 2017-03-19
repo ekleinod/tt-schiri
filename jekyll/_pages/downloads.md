@@ -12,7 +12,7 @@ Dowloads, die hier nicht aufgelistet sind, findet Ihr mit hoher Wahrscheinlichke
 - beim [DTTB](http://www.tischtennis.de/)
   - [Formulare](http://www.tischtennis.de/fuer_aktive/schiedsrichter/formulare/) (hauptsächlich Spielbetrieb)
   - [SR-Belange](http://www.tischtennis.de/fuer_aktive/schiedsrichter/aus-_und_weiterbildung/) (Regelauslegungen, Handzeichen, Weiterbildung)
-  - [Regeln, Satzung und Ordnungen](http://www.tischtennis.de/dttb/satzung/
+  - [Regeln, Satzung und Ordnungen](http://www.tischtennis.de/dttb/satzung/)
 - bei der [ITTF](http://www.ittf.com/)
   - [Belagliste](http://www.ittf.com/_front_page/ittf1.asp?category=rubber) (LARC)
 
