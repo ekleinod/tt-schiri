@@ -1,1 +1,1 @@
-../jekyll-mb/build.sh
+submodules/jekyll-mb/build.sh

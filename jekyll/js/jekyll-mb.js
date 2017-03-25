@@ -1,1 +1,1 @@
-../../../jekyll-mb/jekyll/js/jekyll-mb.js
+../../submodules/jekyll-mb/jekyll/js/jekyll-mb.js

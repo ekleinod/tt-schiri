@@ -1,1 +1,1 @@
-../jekyll-mb/server.sh
+submodules/jekyll-mb/server.sh
