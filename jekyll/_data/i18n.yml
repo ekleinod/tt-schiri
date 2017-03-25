@@ -5,7 +5,7 @@ locales:
     header_image: "Image for"
     index: "Homepage"
     last_change: "Last change"
-    quickguide: "Quick Guide"
+    panels: "Quick Guide"
   en_US:
     <<: *DEFAULT_EN     # use en for en_US
   en_UK:
@@ -17,7 +17,7 @@ locales:
     continue: "Weiterlesen"
     header_image: "Bild für"
     index: "Startseite"
-    quickguide: "Schnelleinstieg"
     last_change: "Letzte Änderung"
+    panels: "Schnelleinstieg"
   de_DE:
     <<: *DEFAULT_DE     # use de translation for de_DE

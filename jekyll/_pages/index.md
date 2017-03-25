@@ -1,6 +1,6 @@
 ---
 title: Startseite
-layout: index
+layout: panelpage
 breadcrumb: false
 hide-nav: true
 date: 02.10.2016

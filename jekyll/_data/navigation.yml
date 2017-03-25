@@ -3,7 +3,7 @@
   href: "/einsatzinformationen/index.html"
   description: "Alles zu den Einsätzen incl. Schiritausch, Aufwandsentschädigungen, Downloads (OSR-Berichte, Merkzettel etc.)"
   icon: "info"
-  indexpage: true
+  panelpage: true
   children:
     -
       title: "OSR-Berichte"
@@ -17,21 +17,21 @@
   href: "/personen.html"
   description: "Der Verbandsschiedsrichterausschuss (VSRA) und Links zu anderen Ansprechpartnern."
   icon: "user"
-  indexpage: true
+  panelpage: true
 
 -
   title: "Schiri werden"
   href: "/schiri-werden.html"
   description: "Wie wird man Schiri beim BeTTV?"
   icon: "graduation-cap"
-  indexpage: true
+  panelpage: true
 
 -
   title: "Termine"
   href: "/termine/index.html"
   description: "Die wichtigsten Termine der Saison sowie Veranstaltungsorte."
   icon: "calendar"
-  indexpage: true
+  panelpage: true
   children:
     -
       title: "Veranstaltungsorte"
@@ -42,7 +42,7 @@
   href: "/regeln/index.html"
   description: "Regeln, Regelfragen und Regelauslegungen."
   icon: "balance-scale"
-  indexpage: true
+  panelpage: true
   children:
     -
       title: "FAQ (Fragen und Antworten)"
@@ -53,7 +53,7 @@
   href: "/downloads.html"
   description: "Alle von uns angebotenen Downloads. OSR-Berichte, SR-Zettel, Merkblätter, Regeln etc."
   icon: "download"
-  indexpage: true
+  panelpage: true
 
 -
   title: "Impressum"
