@@ -49,7 +49,6 @@ Wer Fehler in den Webseiten findet, etwas verbessern will oder mitmachen möchte
 - jekyll-mb
 	- Modern-Business-Template für jekyll
 	- <https://github.com/ekleinod/jekyll-mb>
-	- auf Linux-System parallel zu Webseite klonen, sonst funktionieren die SymLinks nicht
 
 ## Git-Repository
 

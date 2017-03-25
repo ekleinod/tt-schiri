@@ -39,3 +39,6 @@ Der Code (und die Inhalte) sind abrufbar unter:
 - jQuery
 	- JavaScript-Bibliothek
 	- <https://jquery.com/>
+- jekyll-mb
+	- Modern-Business-Template für jekyll
+	- <https://github.com/ekleinod/jekyll-mb>
