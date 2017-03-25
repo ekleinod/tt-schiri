@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: Fragen und Antworten
+subtitle: Fragen und Antworten
 date: 17.12.2016
 ---
 
