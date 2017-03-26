@@ -1,6 +1,6 @@
 ---
 title: Startseite
-layout: panelpage
+layout: servicepage
 breadcrumb: false
 hide-nav: true
 date: 02.10.2016
