@@ -1,6 +1,7 @@
 ---
 title: Startseite
 layout: servicepage
+servicepage: list
 breadcrumb: false
 hide-nav: true
 date: 02.10.2016
