@@ -48,7 +48,7 @@ highlighter: rouge
 
 # include these files
 include:
-  - '_pages/.htpasswd'
+  - '_pages/.htaccess'
 
 # Exclude these files from production site
 #exclude:
