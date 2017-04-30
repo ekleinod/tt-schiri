@@ -12,7 +12,7 @@ Der VSRA ist die Vertretung der Schiedsrichter beim Berliner Tischtennisverband.
 
 ### Vorsitzender
 
-Ekkart Kleinod {% include img.html src='ekkart_kleinod.jpg' title='Ekkart Kleinod' align='right' %}
+Ekkart Kleinod [{% include img.html src='ekkart_kleinod_thumb.jpg' title='Ekkart Kleinod' align='right' %}]({{ 'ekkart_kleinod.jpg' | prepend: '/' | prepend: site.dir_img | prepend: site.baseurl }})
 
 E-Mail: [schiri@ekkart.de](mailto:schiri@ekkart.de)
 
