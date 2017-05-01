@@ -4,6 +4,7 @@ layout: servicepage
 servicepage: list
 breadcrumb: false
 hide-nav: true
+show-search: true
 date: 02.10.2016
 ---
 
