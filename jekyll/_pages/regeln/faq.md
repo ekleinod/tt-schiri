@@ -1,6 +1,7 @@
 ---
 title: FAQ
 subtitle: Fragen und Antworten
+hide-toc: true
 date: 17.12.2016
 ---
 
