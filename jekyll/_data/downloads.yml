@@ -7,12 +7,12 @@
       filename: "BeTTV_Einsatzplan.pdf"
       title: "BeTTV Einsatzplan (pdf)"
       description: "Einsatzplan für alle VSR, PDF-Datei."
-      lastchange: 04.12.2016
+      lastchange: 19.04.2017
     -
       filename: "BeTTV_Einsatzplan.xls"
       title: "BeTTV Einsatzplan (xls)"
       description: "Einsatzplan für alle VSR, Excel."
-      lastchange: 04.12.2016
+      lastchange: 19.04.2017
 -
   path: "einsatzinformationen"
   title: "Einsatzinformationen"
@@ -110,12 +110,12 @@
       filename: "Internationale_Tischtennisregeln_A.pdf"
       title: "Internationale TT-Regeln Teil A"
       description: "Teil A der Internationalen Tischtennis-Regeln."
-      lastchange: 25.01.2016
+      lastchange: 03.03.2016
     -
       filename: "Internationale_Tischtennisregeln_B.pdf"
       title: "Internationale TT-Regeln Teil B"
       description: "Teil B der Internationalen Tischtennis-Regeln."
-      lastchange: 25.01.2016
+      lastchange: 03.03.2016
 
 -
   path: "ordnungen"
@@ -165,6 +165,12 @@
   title: "Belaglisten"
   tags: ["einsatzinformationen", "belaglisten"]
   downloads:
+    -
+      filename: "LARC_38_A_2017.pdf"
+      title: "LARC 2017 A"
+      description: "Belagliste 2017 A."
+      lastchange: 01.04.2017
+      valid: true
     -
       filename: "LARC_37_B_2016.pdf"
       title: "LARC 2016 B"
