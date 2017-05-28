@@ -4,10 +4,18 @@ title: Termine
 
 {% assign today = site.time | date: '%s' %}
 
+<div class="list-group">
+{% for event in site.data.events %}
+	{% assign eventdate = event.date | date: '%s' %}
+	{% if eventdate > today %}
+<a class="list-group-item" href="#"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i>&nbsp; {{ event.date }} &ndash; {{ event.title }}</a>
+	{% endif %}
+{% endfor %}
+</div>
+
 {% for event in site.data.events %}
 
 	{% assign eventdate = event.date | date: '%s' %}
-
 	{% if eventdate > today %}
 
 ## {{ event.title }}
