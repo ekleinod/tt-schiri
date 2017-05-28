@@ -27,7 +27,7 @@
   servicepage: true
 
 -
-  title: "Termine"
+  title: "VSR-Termine"
   href: "/termine/index.html"
   description: "Die wichtigsten Termine der Saison sowie Veranstaltungsorte."
   icon: "calendar"

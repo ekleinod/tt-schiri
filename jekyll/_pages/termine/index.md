@@ -1,38 +1,43 @@
 ---
-title: Termine
+title: VSR-Termine
 ---
 
 {% assign today = site.time | date: '%s' %}
-
-<div class="list-group">
+{% assign events = '' | split: '' %}
 {% for event in site.data.events %}
-	{% assign eventdate = event.date | date: '%s' %}
+	{% assign eventdate = event.date-start | date: '%s' %}
 	{% if eventdate > today %}
-<a class="list-group-item" href="#"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i>&nbsp; {{ event.date }} &ndash; {{ event.title }}</a>
+		{% assign events = events | push: event %}
 	{% endif %}
 {% endfor %}
-</div>
 
-{% for event in site.data.events %}
+<ul class="nav nav-pills nav-stacked">
+{% for event in events %}
+<li role="presentation"><a class="list-group-item" href="#{{ event.title | slugify }}"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i>&nbsp; {{ event.date-start }}{% if event.date-end %}-{{ event.date-end }}{% endif %} &ndash; {{ event.title }}</a></li>
+{% endfor %}
+</ul>
 
-	{% assign eventdate = event.date | date: '%s' %}
-	{% if eventdate > today %}
+<div class="help-block"></div>
 
-## {{ event.title }}
 
-Datum
-: {% include date.html date=event.date style='full' %}
+{% for event in events %}
 
-		{% if event.start %}
-Zeit
-: {{ event.start }}{% if event.end %} bis {{ event.end }}{% endif %} Uhr
-		{% endif %}
+<div class="panel panel-default">
+	<div class="panel-heading"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i>&nbsp;<a name="{{ event.title | slugify }}">{{ event.title }}</a></div>
+	<div class="panel-body">
+{% capture panelbody %}
+{% include date.html date=event.date-start style='full' %}{% if event.date-end %} bis {% include date.html date=event.date-end style='full' %}{% endif %}
 
-		{% if event.venue %}
-Ort
-: [{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})
-		{% endif %}
-
+	{% if event.time-start %}
+Zeit: {{ event.time-start }}{% if event.time-end %} bis {{ event.time-end }}{% endif %} Uhr
 	{% endif %}
+
+	{% if event.venue %}
+Ort: [{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})
+	{% endif %}
+{% endcapture %}
+{{ panelbody | markdownify }}
+	</div>
+</div>
 
 {% endfor %}
