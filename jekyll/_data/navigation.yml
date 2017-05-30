@@ -27,12 +27,18 @@
   servicepage: true
 
 -
-  title: "VSR-Termine"
+  title: "Termine"
   href: "/termine/index.html"
-  description: "Die wichtigsten Termine der Saison sowie Veranstaltungsorte."
+  description: "Termine und Turniere der Saison sowie Veranstaltungsorte."
   icon: "calendar"
   servicepage: true
   children:
+    -
+      title: "VSR-Termine"
+      href: "/termine/events.html"
+    -
+      title: "Turniere"
+      href: "/termine/tournaments.html"
     -
       title: "Veranstaltungsorte"
       href: "/termine/venues/index.html"
