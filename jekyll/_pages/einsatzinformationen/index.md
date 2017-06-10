@@ -5,8 +5,7 @@ date: 06.10.2016
 
 Auf dieser Seite findet Ihr Einsatzinformationen für die aktuelle Saison. Für die zurückliegenden Saisons wird kein Archiv geführt.
 
-Informationen zum Ausfüllen der OSR-Berichte findet Ihr unter [OSR-Berichte](osr-berichte.html).
-
+{% include indexnav.html %}
 
 ## Schiedsrichtertausch, Absage
 

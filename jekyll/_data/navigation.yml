@@ -34,11 +34,17 @@
   servicepage: true
   children:
     -
+      title: "VSR-Einsätze"
+      href: "/termine/games.html"
+    -
       title: "VSR-Termine"
       href: "/termine/events.html"
     -
       title: "Turniere"
       href: "/termine/tournaments.html"
+    -
+      title: "Spielorte"
+      href: "/termine/clubvenues/index.html"
     -
       title: "Veranstaltungsorte"
       href: "/termine/venues/index.html"

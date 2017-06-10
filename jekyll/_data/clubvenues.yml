@@ -1,0 +1,25 @@
+Venue.1:
+  -
+    club: "TTC Berlin-Neukölln e.V."
+    title: "Sporthalle Grundschule Karlsgartenstraße"
+    street: "Karlsgartenstraße 8"
+    city: "12049 Berlin"
+    url: "http://www.ttc-neukoelln.de/"
+
+Venue.2:
+  -
+    club: "Hertha BSC"
+    title: "Ernst-Reuter-Schule"
+    street: "Bernauer Straße 89"
+    city: "13355 Berlin"
+    url: "http://www.hertha-tt.de/"
+    details: >
+      Es gibt zwei Bernauer Straßen in Berlin, also auf die Postleitzahl achten.
+
+Venue.3:
+  -
+    club: "ttc eastside"
+    title: "Sporthalle am Anton-Saefkow-Platz"
+    street: "Anton-Saefkow-Platz 4"
+    city: "10369 Berlin"
+    url: "http://www.ttc-berlin-eastside.de/"

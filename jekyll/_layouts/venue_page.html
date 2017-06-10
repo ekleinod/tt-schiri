@@ -2,6 +2,10 @@
 layout: page
 ---
 
+{% if page.club %}
+<p>{{ page.club }}</p>
+{% endif %}
+
 <dl>
 	<dt>Adresse</dt>
 {% if page.street %}<dd>{{ page.street }}</dd>{% endif %}
@@ -23,3 +27,8 @@ layout: page
 <p><a href="http://www.openstreetmap.org/?mlat={{ page.osm.latitude }}&amp;mlon={{ page.osm.longitude }}#map=18/{{ page.osm.latitude }}/{{ page.osm.longitude }}">Direkt bei Openstreetmap öffnen</a></p>
 
 {% endif %}
+
+{% if page.href %}
+<p><a href="{{ page.href }}">{{ page.href }}</a></p>
+{% endif %}
+

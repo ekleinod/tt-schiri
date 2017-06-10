@@ -71,6 +71,10 @@ page_gen:
     template: 'venue_page'
     name: 'title'
     dir: 'termine/venues'
+  - data: 'clubvenues_pages'
+    template: 'venue_page'
+    name: 'title'
+    dir: 'termine/clubvenues'
 
 # encoding
 encoding: "utf-8"
