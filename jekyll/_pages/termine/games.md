@@ -22,7 +22,7 @@ layout: default
 {:.table .table-bordered .table-striped}
 | Datum | Uhrzeit | Liga | Spiel | OSR | Stellv. OSR | SR | Spielort |
 |:-:|:-:|:-:|:-|:-|:-|:-|:-:|{% for game in games %}
-| {{ game.date-start }} | {{ game.time-start }} | {{ game.league }} | {{ game.hometeam }} - {{ game.offteam }} | {{ game.referee }} | {{ game.standbyref }} | {% for ump in game.ump %}{{ ump }}, {% endfor %} | <a href="{{ site.data.clubvenues[game.clubvenue][0].title | datapage_url: 'clubvenues' }}"><i class="fa fa-car fa-fw" aria-hidden="true"></i></a> |{% endfor %}
+| {{ game.date-start }} | {{ game.time-start }} | {{ game.league }} | {{ game.hometeam }} - {{ game.offteam }} | {{ game.referee }} | {{ game.standbyref }} | {% for ump in game.ump %}{{ ump }}, {% endfor %} | <a href="{{ site.data.clubvenues[game.clubvenue][0].title | datapage_url: 'clubvenues' }}"><i class="fa fa-bicycle fa-fw" aria-hidden="true"></i></a> |{% endfor %}
 {% endcapture %}
 {{ gametable | markdownify }}
 
