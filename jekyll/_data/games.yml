@@ -1,19 +1,19 @@
 -
   date-start: 11.09.2017
   time-start: "12:00"
-  venue: "Venue.1"
+  clubvenue: "Venue.1"
   league: "OLNOD"
-  home: "TTC Neukölln"
-  off: "SC Eintracht Berlin"
+  hometeam: "TTC Neukölln"
+  offteam: "SC Eintracht Berlin"
   referee: "Dietmar Eggert"
 
 -
   date-start: 25.09.2017
   time-start: "15:00"
-  venue: "Venue.2"
+  clubvenue: "Venue.2"
   league: "3BLHN"
-  home: "Hertha BSC"
-  off: "TSV Schwarzenbeck"
+  hometeam: "Hertha BSC"
+  offteam: "TSV Schwarzenbeck"
   referee: "Martin Becker"
   standbyref: "Jurij Richter"
   ump:
@@ -22,10 +22,10 @@
 -
   date-start: 27.09.2017
   time-start: "11:00"
-  venue: "Venue.3"
+  clubvenue: "Venue.3"
   league: "1BLD"
-  home: "ttc eastside"
-  off: "TTV Hövelhof"
+  hometeam: "ttc eastside"
+  offteam: "TTV Hövelhof"
   referee: "Peter Logsch"
   standbyref: "Alexander Ohle"
   ump:

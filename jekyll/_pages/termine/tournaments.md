@@ -2,6 +2,8 @@
 title: Turniere
 ---
 
+<div class="alert alert-warning" role="alert">Achtung: das sind Testdaten, keine realen Daten.</div>
+
 {% assign today = site.time | date: '%s' %}
 {% assign events = '' | split: '' %}
 {% for event in site.data.tournaments %}
