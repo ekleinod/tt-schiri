@@ -157,7 +157,7 @@
     -
       filename: "lehrgang.zip"
       title: "Selbststudium"
-      description: "Die Dokumente zum Selbststudium: Ordnungen, Regeln etc.."
+      description: "Die Dokumente zum Selbststudium: Ordnungen, Regeln etc."
       lastchange: 15.12.2016
 
 -
@@ -339,3 +339,15 @@
       description: "Belagliste 24 B."
       lastchange: 01.01.2004
       valid: false
+
+-
+  path: "../intern/downloads"
+  title: "VSR-Intern"
+  tags: ["intern"]
+  explicit: true
+  downloads:
+    -
+      filename: "VSR-Kontaktliste.pdf"
+      title: "VSR-Kontaktliste (pdf)"
+      description: "Kontaktliste aller VSR des BeTTV."
+      lastchange: 11.06.2017

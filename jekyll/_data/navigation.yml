@@ -70,3 +70,15 @@
 -
   title: "Impressum"
   href: "/impressum.html"
+
+-
+  title: "Internes"
+  href: "/intern/index.html"
+  description: "Interne Belange der Schiedsrichterei."
+  children:
+    -
+      title: "VSR-Listen"
+      href: "/intern/kontakt.html"
+    -
+      title: "Bilder"
+      href: "/intern/bilder.html"
