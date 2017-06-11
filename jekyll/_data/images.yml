@@ -1,0 +1,19 @@
+-
+  path: "intern/images"
+  title: "BEM 21./22. Januar 2017"
+  images:
+    -
+      filename: "BEM_01.jpg"
+    -
+      filename: "BEM_02.jpg"
+
+-
+  path: "intern/images"
+  title: "VSR-Vorbereitung 8. März 2017"
+  images:
+    -
+      filename: "Vor_01.jpg"
+    -
+      filename: "Vor_02.jpg"
+    -
+      filename: "Vor_03.jpg"
