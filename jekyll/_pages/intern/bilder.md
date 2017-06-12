@@ -1,6 +1,6 @@
 ---
 title: Bilder
-date: 11.06.2017
+date: 12.06.2017
 layout: page_nosidebar
 ---
 
@@ -10,8 +10,14 @@ layout: page_nosidebar
 
 ## {{ section.title }}
 
-{% for image in section.images %}
-<a href="{{ image.filename }}]({{ image.filename | prepend: 'thumb_' | prepend: '/' | prepend: section.path | prepend: '/' | prepend: site.baseurl }}">![{{ image.filename }}]({{ image.filename | prepend: '/' | prepend: section.path | prepend: '/' | prepend: site.baseurl }})</a>
-{% endfor %}
+<div class="row">
+	{% for image in section.images %}
+		<div class="col-md-3 img-portfolio">
+			<a href="{{ image | prepend: 'thumb_' | prepend: '/' | prepend: section.path | prepend: '/' | prepend: site.baseurl }}">
+				<img class="img-responsive img-hover" src="{{ image | prepend: '/' | prepend: section.path | prepend: '/' | prepend: site.baseurl }}" alt="{{ image }}" width="750" height="450" />
+			</a>
+		</div>
+	{% endfor %}
+</div>
 
 {% endfor %}
