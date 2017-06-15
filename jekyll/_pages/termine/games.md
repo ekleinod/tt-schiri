@@ -14,7 +14,12 @@ layout: page_nosidebar
 	{% endif %}
 {% endfor %}
 
+<div class="table-responsive">
+{% capture table_out %}
 {:.table .table-bordered .table-striped}
 | Datum | Uhrzeit | Liga | Spiel | OSR | Stellv. OSR | SR | Spielort |
 |:-:|:-:|:-:|:-|:-|:-|:-|:-:|{% for game in games %}
 | {{ game.date-start }} | {{ game.time-start }} | {{ game.league }} | {{ game.hometeam }} - {{ game.offteam }} | {{ game.referee }} | {{ game.standbyref }} | {% for ump in game.ump %}{{ ump }}{% unless forloop.last %}, {% endunless %}{% endfor %} | <a href="{{ site.data.clubvenues[game.clubvenue][0].title | datapage_url: 'clubvenues' }}"><i class="fa fa-map-marker fa-fw" aria-hidden="true"></i></a> |{% endfor %}
+{% endcapture %}
+{{ table_out | markdownify }}
+</div>
