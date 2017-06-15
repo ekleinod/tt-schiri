@@ -1,5 +1,5 @@
 ---
-title: Internes
+title: BeTTV-Intern
 ---
 
 
