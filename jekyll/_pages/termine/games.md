@@ -5,6 +5,8 @@ layout: page_nosidebar
 
 <div class="alert alert-warning" role="alert">Achtung: das sind Testdaten, keine realen Daten.</div>
 
+{% include downloads.html tag = 'einsatzplan' validonly = true %}
+
 {% assign today = site.time | date: '%s' %}
 {% assign games = '' | split: '' %}
 {% for game in site.data.games %}

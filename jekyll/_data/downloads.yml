@@ -1,7 +1,7 @@
 -
   path: "einsatzplaene"
-  title: "Einsatzpläne"
-  tags: ["einsatzinformationen"]
+  title: "Einsatzplan"
+  tags: ["einsatzinformationen", "einsatzplan"]
   downloads:
     -
       filename: "BeTTV_Einsatzplan.pdf"
