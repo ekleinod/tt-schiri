@@ -14,11 +14,16 @@
 
 ### {{ section.title }}
 
+<div class="table-responsive">
+{% capture table_out %}
 {:.table .table-bordered .table-striped}
 | Name | Beschreibung | Stand |
 |:-|:-|:-|
 {% for file in section.downloads %}{% if (include.validonly == null) or (file.valid == null) or (include.validonly and file.valid) %}| {% assign filename = file.filename | prepend: "/" | prepend: section.path %}{% include download.html file=filename title=file.title %} | {{ file.description }}{% if file.valid %} (aktuell gültig){% endif %} | {% include date.html date=file.lastchange %}{% endif %}
 {% endfor %}
+{% endcapture %}
+{{ table_out | markdownify }}
+</div>
 
 {% endif %}
 {% endif %}

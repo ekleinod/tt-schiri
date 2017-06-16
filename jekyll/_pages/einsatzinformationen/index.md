@@ -24,6 +24,8 @@ Wenn Ihr einen Einsatz tauschen wollt oder nicht kommen könnt, geht bitte wie f
 
 ## Aufwandsentschädigung
 
+<div class="table-responsive">
+{% capture table_out %}
 {:.table .table-bordered .table-striped}
 | Liga | Tagegeld | Fahrkosten pro km |
 |:-|:-:|:-:|
@@ -31,6 +33,9 @@ Wenn Ihr einen Einsatz tauschen wollt oder nicht kommen könnt, geht bitte wie f
 | 3. BL | 22,00 € | 0,30 € |
 | Regionalliga | 20,00 € | 0,30 € |
 | Oberliga | 20,00 € | 0,30 € |
+{% endcapture %}
+{{ table_out | markdownify }}
+</div>
 
 
 ## Downloads
