@@ -82,3 +82,12 @@
     -
       title: "Bilder"
       href: "/bettv-intern/bilder.html"
+
+-
+  title: "VSR-Treffen"
+  href: "/vsr-treffen/index.html"
+  description: "VSR-Treffen im Rahmen der Vergleichswettkämpfe der Nordverbände."
+  children:
+    -
+      title: "34. Treffen in Berlin"
+      href: "/vsr-treffen/34.html"
