@@ -40,6 +40,13 @@ Was muss alles am Anfang einer neuen Saison getan werden?
 	- Namenkonvention
 	- Berichtsempfänger
 - Ansprechpartner
+- Schiri werden
+	- Webseite
+	- PDF
+	- Bild
+- Termine
+- BeTTV intern
+	- Kontaktliste
 
 ## Benutzte Dinge
 

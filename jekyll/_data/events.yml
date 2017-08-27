@@ -1,60 +1,74 @@
 -
-  title: "34. Deutsches Verbandsschiedsrichter-Treffen"
-  date-start: 23.06.2017
-  date-end: 25.06.2017
-  venue: "Venue.3"
-
--
-  title: "VSR-Fortbildung (noch nicht sicher)"
+  title: VSR-Fortbildung
   date-start: 06.09.2017
+
   time-start: "19:00"
   time-end: "21:00"
+
   venue: "Venue.1"
 
 -
-  title: "VSR-Lehrgang - Meldeschluss"
+  title: VSR-Lehrgang - Meldeschluss
   date-start: 13.12.2017
 
+
+
+
+
+
 -
-  title: "VSR-Lehrgang - 1. Abend"
-  date-start: 18.01.2018
+  title: VSR-Lehrgang - 1. Abend
+  date-start: 09.01.2018
+
   time-start: "19:00"
   time-end: "22:00"
+
   venue: "Venue.1"
 
 -
-  title: "VSR-Lehrgang - Praxisabend"
-  date-start: 15.01.2018
-  time-start: "19:00"
-  time-end: "22:00"
-  description: "Konkretes Datum wird am 1. Abend festgelegt."
+  title: VSR-Lehrgang - 2. Abend
+  date-start: 11.01.2018
 
--
-  title: "VSR-Lehrgang - 2. Abend"
-  date-start: 18.01.2018
   time-start: "19:00"
   time-end: "22:00"
+
   venue: "Venue.1"
 
 -
-  title: "VSR-Lehrgang - Prüfungen bei der BEM"
+  title: VSR-Lehrgang - Praxisabend
+  date-start: 16.01.2018
+
+  time-start: "19:00"
+  time-end: "22:00"
+
+
+
+-
+  title: VSR-Lehrgang - Prüfungen bei der BEM
   date-start: 20.01.2018
+
   time-start: "13:00"
   time-end: "16:00"
-  description: "Prüfungen für Teilnehmer der BEM werden im Lehrgang abgesprochen. Der Spielort ist noch nicht offiziell bestätigt."
+
   venue: "Venue.3"
 
 -
-  title: "VSR-Tagung"
+  title: VSR-Tagung
   date-start: 11.04.2018
+
   time-start: "19:00"
   time-end: "21:00"
+
   venue: "Venue.2"
 
 -
-  title: "VSR-Fortbildung"
-  date-start: 26.04.2018
+  title: VSR-Fortbildung
+  date-start: 19.04.2018
+
   time-start: "19:00"
   time-end: "21:00"
+
   venue: "Venue.1"
+
+
 
