@@ -1,6 +1,6 @@
 ---
 title: Downloads
-date: 02.05.2017
+date: 27.08.2017
 ---
 
 Hier findet Ihr alle Downloads, die wir zur Verfügung stellen.
@@ -8,7 +8,7 @@ Hier findet Ihr alle Downloads, die wir zur Verfügung stellen.
 Dowloads, die hier nicht aufgelistet sind, findet Ihr mit hoher Wahrscheinlichkeit:
 
 - beim [BeTTV](http://www.bettv.de/)
-	- [Satzungen und Ordnungen](http://www.bettv.de/index.php?p=service&amp;c=satzung)
+	- [Satzungen und Ordnungen](http://www.bettv.de/verband/satzungen-und-ordnungen/)
 - beim [DTTB](http://www.tischtennis.de/)
 	- [Formulare](http://www.tischtennis.de/mein-sport/schiedsrichterin/formulare.html) (hauptsächlich Spielbetrieb)
 	- [SR-Belange](http://www.tischtennis.de/mein-sport/schiedsrichterin/qualifizierung.html) (Regelauslegungen, Handzeichen, Weiterbildung)

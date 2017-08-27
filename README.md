@@ -29,6 +29,15 @@ Wer Fehler in den Webseiten findet, etwas verbessern will oder mitmachen möchte
 3. forken und pull request erstellen
 4. direkt als Autor eingetragen werden
 
+## Neue Saison
+
+Was muss alles am Anfang einer neuen Saison getan werden?
+
+- Downloads → verlinken und Datum in downloads.yml setzen
+	- Einsatzpläne (3×)
+- Einsatzinformationen
+	- Aufwandsentschädigung
+
 ## Benutzte Dinge
 
 - Jekyll

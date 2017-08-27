@@ -5,14 +5,19 @@
   downloads:
     -
       filename: "BeTTV_Einsatzplan.pdf"
-      title: "BeTTV Einsatzplan (pdf)"
-      description: "Einsatzplan für alle VSR, PDF-Datei."
-      lastchange: 19.04.2017
+      title: "BeTTV Einsatzplan (pdf, bunt)"
+      description: "Einsatzplan für alle VSR, PDF-Datei, bunt."
+      lastchange: 27.08.2017
+    -
+      filename: "BeTTV_Einsatzplan_sw.pdf"
+      title: "BeTTV Einsatzplan (pdf, schwarz-weiß)"
+      description: "Einsatzplan für alle VSR, PDF-Datei, schwarz-weiß."
+      lastchange: 27.08.2017
     -
       filename: "BeTTV_Einsatzplan.xls"
       title: "BeTTV Einsatzplan (xls)"
       description: "Einsatzplan für alle VSR, Excel."
-      lastchange: 19.04.2017
+      lastchange: 27.08.2017
 -
   path: "einsatzinformationen"
   title: "Einsatzinformationen"
@@ -22,32 +27,47 @@
       filename: "BeTTV_Spielorte.pdf"
       title: "BeTTV Spielorte"
       description: "Spielorte der BeTTV-Vereine."
-      lastchange: 28.08.2016
+      lastchange: 27.08.2017
     -
       filename: "DTTB_BL_Hinweise.pdf"
       title: "DTTB OSR-Hinweise BL"
       description: "Hinweise für OSR in den Bundesligen."
-      lastchange: 01.09.2016
-    -
-      filename: "DTTB_RL-OL_Hinweise.pdf"
-      title: "DTTB OSR-Hinweise RL/OL"
-      description: "Hinweise für OSR in den Regional- und Oberligen."
-      lastchange: 01.08.2016
-    -
-      filename: "DTTB_Schlägertestrichtlinie.pdf"
-      title: "DTTB Richtlinie zu Schlägertests"
-      description: "Auszug aus dem DTTB-Handbuch."
-      lastchange: 01.09.2016
+      lastchange: 13.08.2017
     -
       filename: "DTTB_BL_Reisekostenabrechnung.pdf"
       title: "DTTB Reisekostenabrechnung BL"
       description: "Reisekostenabrechnung für OSR in den Bundesligen."
-      lastchange: 09.02.2017
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_BL_Aufstellung.pdf"
+      title: "DTTB Einzel- und Doppelaufstellung BL"
+      description: "Einzel- und Doppelaufstellung für 4er-Teams in den Bundesligen."
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_RL-OL_Hinweise.pdf"
+      title: "DTTB OSR-Hinweise RL/OL"
+      description: "Hinweise für OSR in den Regional- und Oberligen."
+      lastchange: 13.08.2017
     -
       filename: "DTTB_RL-OL_Reisekostenabrechnung.pdf"
       title: "DTTB Reisekostenabrechnung RL/OL"
       description: "Reisekostenabrechnung für OSR in den Regional- und Oberligen."
-      lastchange: 09.02.2017
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_RL-OL_Aufstellung_4er.pdf"
+      title: "DTTB Einzel- und Doppelaufstellung 4er-Teams RL/OL"
+      description: "Einzel- und Doppelaufstellung für 4er-Teams in den Regional- und Oberligen."
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_RL-OL_Aufstellung_6er.pdf"
+      title: "DTTB Einzel- und Doppelaufstellung 6er-Teams RL/OL"
+      description: "Einzel- und Doppelaufstellung für 6er-Teams in den Regional- und Oberligen."
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_Schlägertestrichtlinie.pdf"
+      title: "DTTB Richtlinie zu Schlägertests"
+      description: "Auszug aus dem DTTB-Handbuch."
+      lastchange: 13.12.2016
 
 -
   path: "osr-berichte"
@@ -55,15 +75,15 @@
   tags: ["einsatzinformationen", "osr-berichte"]
   downloads:
     -
-      filename: "BL_OSR-Bericht.pdf"
+      filename: "OSR-Bericht_BL.pdf"
       title: "OSR-Bericht BL"
       description: "Ausfüllhilfe und Empfänger siehe [OSR-Berichte](osr-berichte.html)."
-      lastchange: 01.09.2016
+      lastchange: 13.08.2017
     -
-      filename: "RL-OL_OSR-Bericht.pdf"
+      filename: "OSR-Bericht_RL-OL.pdf"
       title: "OSR-Bericht RL/OL"
       description: "Ausfüllhilfe und Empfänger siehe [OSR-Berichte](osr-berichte.html)."
-      lastchange: 01.09.2016
+      lastchange: 13.08.2017
 
 -
   path: "materiallisten"
@@ -74,32 +94,32 @@
       filename: "1BLD_Material.pdf"
       title: "Material 1. BL Damen"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 27.08.2017
     -
       filename: "3BLNH_Material.pdf"
       title: "Material 3. BL Herren"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 27.08.2017
     -
       filename: "RLND_Material.pdf"
       title: "Material RLN Damen"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 27.08.2017
     -
       filename: "RLNH_Material.pdf"
       title: "Material RLN Herren"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 27.08.2017
     -
       filename: "OLNOD_Material.pdf"
       title: "Material OLNO Damen"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 27.08.2017
     -
       filename: "OLNOH_Material.pdf"
       title: "Material OLNO Herren"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 27.08.2017
 
 -
   path: "regeln"
@@ -110,12 +130,27 @@
       filename: "Internationale_Tischtennisregeln_A.pdf"
       title: "Internationale TT-Regeln Teil A"
       description: "Teil A der Internationalen Tischtennis-Regeln."
-      lastchange: 03.03.2016
+      lastchange: 21.12.2016
     -
       filename: "Internationale_Tischtennisregeln_B.pdf"
       title: "Internationale TT-Regeln Teil B"
       description: "Teil B der Internationalen Tischtennis-Regeln."
-      lastchange: 03.03.2016
+      lastchange: 21.12.2016
+    -
+      filename: "DTTB-Coachingregel-Tableau.pdf"
+      title: "Coaching-Regel-Tableau"
+      description: "Offizielles Tableau mit Praxisbeispielen zur Coachingregel."
+      lastchange: 13.08.2017
+    -
+      filename: "BeTTV_Merkblatt_Coachingregel.pdf"
+      title: "Merkblatt Coaching-Regel"
+      description: "Kurzes Merkblatt zur Coachingregel mit Praxisbeispielen. Erstellt vom VSRA des BeTTV."
+      lastchange: 27.08.2017
+    -
+      filename: "Regelauslegungen.pdf"
+      title: "Aktuelle Regelauslegungen"
+      description: "Aktuelle Regelauslegungen des DTTB."
+      lastchange: 13.08.2017
 
 -
   path: "ordnungen"
@@ -126,7 +161,7 @@
       filename: "DTTB-Wettspielordnung.pdf"
       title: "Wettspielordnung des DTTB"
       description: "Die Wettspielordnung des DTTB."
-      lastchange: 13.07.2016
+      lastchange: 20.07.2017
 
 -
   path: "sonstiges"
@@ -137,22 +172,18 @@
       filename: "BeTTV_Checkliste_OSR-Einsatz.pdf"
       title: "Checkliste OSR-Einsatz"
       description: "Kurze Checkliste, was zum OSR-Einsatz mitzunehmen ist. Erstellt vom VSRA des BeTTV."
-      lastchange: 28.08.2016
+      lastchange: 27.08.2017
     -
       filename: "BeTTV_Merkblatt_OSR-Einsatz.pdf"
       title: "Merkblatt OSR-Einsatz"
       description: "Kurzes Merkblatt über den OSR-Einsatz. Erstellt vom VSRA des BeTTV."
-      lastchange: 28.08.2016
-    -
-      filename: "BeTTV_Merkblatt_Coachingregel.pdf"
-      title: "Merkblatt Coaching-Regel"
-      description: "Kurzes Merkblatt zur Coachingregel mit Praxisbeispielen. Erstellt vom VSRA des BeTTV."
-      lastchange: 06.09.2016
+      lastchange: 27.08.2017
 
 -
   path: "lehrgang"
   title: "VSR-Lehrgang"
   tags: ["lehrgang"]
+  explicit: true
   downloads:
     -
       filename: "lehrgang.zip"
