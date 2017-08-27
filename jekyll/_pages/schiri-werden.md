@@ -3,7 +3,7 @@ title: Schiri werden
 date: 31.07.2017
 ---
 
-{% capture thumb %}{% include img.html src='VSR-Lehrgang-Ankuendigung.png' title='VSR-Lehrgang-Ankündigung' align='right' %}{% endcapture %}
+{% capture thumb %}{% include img.html src='VSR-Lehrgang-Ankündigung.png' title='VSR-Lehrgang-Ankündigung' align='right' %}{% endcapture %}
 {% include download.html file='VSR-Lehrgang-Ankündigung.pdf' title = thumb %}
 Die Berliner Schiedsrichterinnen und Schiedsrichter suchen Verstärkung.
 Vielleicht wäre die Schiedsrichterei auch was für Dich?
