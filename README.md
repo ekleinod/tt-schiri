@@ -34,9 +34,12 @@ Wer Fehler in den Webseiten findet, etwas verbessern will oder mitmachen möchte
 Was muss alles am Anfang einer neuen Saison getan werden?
 
 - Downloads → verlinken und Datum in downloads.yml setzen
-	- Einsatzpläne (3×)
 - Einsatzinformationen
 	- Aufwandsentschädigung
+- OSR-Berichte
+	- Namenkonvention
+	- Berichtsempfänger
+- Ansprechpartner
 
 ## Benutzte Dinge
 
