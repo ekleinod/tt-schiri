@@ -12,7 +12,7 @@ Dowloads, die hier nicht aufgelistet sind, findet Ihr mit hoher Wahrscheinlichke
 - beim [DTTB](http://www.tischtennis.de/)
 	- [Formulare](http://www.tischtennis.de/mein-sport/schiedsrichterin/formulare.html) (hauptsächlich Spielbetrieb)
 	- [SR-Belange](http://www.tischtennis.de/mein-sport/schiedsrichterin/qualifizierung.html) (Regelauslegungen, Handzeichen, Weiterbildung)
-	- [Regeln, Satzung und Ordnungen](http://www.tischtennis.de/dttb/regeln-satzung.html)
+	- [Regeln, Satzung und Ordnungen](http://www.tischtennis.de/dttb/regeln-satzung/satzung-ordnungen.html)
 - bei der [ITTF](http://www.ittf.com/)
 	- [Schirizeug](http://www.ittf.com/committees/umpires-referees/)
 	- [Schiridokumente](http://www.ittf.com/committees/umpires-referees/documents/)
