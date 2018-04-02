@@ -228,6 +228,12 @@
   tags: ["einsatzinformationen", "belaglisten"]
   downloads:
     -
+      filename: "LARC_39_A_2018.pdf"
+      title: "LARC 2018 A"
+      description: "Belagliste 2018 A."
+      lastchange: 01.04.2018
+      valid: true
+    -
       filename: "LARC_38_B_2017.pdf"
       title: "LARC 2017 B"
       description: "Belagliste 2017 B."
