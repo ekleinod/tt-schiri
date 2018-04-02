@@ -16,7 +16,7 @@ Dowloads, die hier nicht aufgelistet sind, findet Ihr mit hoher Wahrscheinlichke
 - bei der [ITTF](http://www.ittf.com/)
 	- [Schirizeug](http://www.ittf.com/committees/umpires-referees/)
 	- [Schiridokumente](http://www.ittf.com/committees/umpires-referees/documents/)
-	- [Belaglisten auf der alten Seite](http://old.ittf.com/_front_page/ittf1.asp?category=rubber) (LARC)
+	- [Belaglisten](https://www.ittf.com/equipment/) (LARC)
 
 ## Downloads
 
