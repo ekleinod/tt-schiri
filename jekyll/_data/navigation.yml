@@ -77,11 +77,11 @@
   description: "BeTTV-interne Belange der Schiedsrichterei."
   children:
     -
-      title: "VSR-Listen"
-      href: "/bettv-intern/kontakt.html"
-    -
       title: "Bilder"
       href: "/bettv-intern/bilder.html"
+    -
+      title: "Downloads"
+      href: "/bettv-intern/downloads.html"
 
 -
   title: "VSR-Treffen"
