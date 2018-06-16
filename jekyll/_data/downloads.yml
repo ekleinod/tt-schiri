@@ -162,6 +162,11 @@
       title: "Wettspielordnung des DTTB"
       description: "Die Wettspielordnung des DTTB."
       lastchange: 20.07.2017
+    -
+      filename: "BeTTV-Wettspielordnung.pdf"
+      title: "Wettspielordnung des BeTTV"
+      description: "Die Wettspielordnung des BeTTV."
+      lastchange: 05.09.2017
 
 -
   path: "fortbildung"
