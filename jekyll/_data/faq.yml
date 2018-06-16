@@ -2,18 +2,96 @@ FAQ1:
   question: >
     Im Doppel verletzt sich ein Spieler so, dass er seine Einzel nicht bestreiten kann.
     *Muss* in der Einzelaufstellung aufgerückt werden?
-  answer:
-    - Es kann aufgerückt werden, da die endgültige Einzelaufstellung erst nach den Anfangsdoppeln erfolgen muss.
-    - Es braucht nicht aufgerückt zu werden, da der Spieler im Mannschaftskampf mitgewirkt hat und nicht als "ausgefallen" gilt.
-  see:
+  answer: >
+    Es kann aufgerückt werden, da die endgültige Einzelaufstellung erst nach den Anfangsdoppeln erfolgen muss.
+    Es braucht nicht aufgerückt zu werden, da der Spieler im Mannschaftskampf mitgewirkt hat und nicht als "ausgefallen" gilt.
+  see: >
     - "WO des BeTTV, D.3"
+
     - "WO des DTTB, D.3"
   date: 17.12.2016
 
 FAQ2:
   question: >
     Kann eine Einzelaufstellung noch abgeändert werden, wenn das erste Einzel bereits begonnen hat, während ein Doppel noch läuft, und wann beginnt in diesem Sinne ein Einzel?
-  answer:
+  answer: >
+    Eine Mannschaft, die es zulässt, dass das erste Einzel beginnt, während noch ein Doppel läuft, verzichtet damit auf das ihr an sich zustehende Recht einer Aufstellungsänderung.
+    Ein Spiel beginnt im Sinne dieser Bestimmung mit dem ersten Aufschlag.
+  date: 17.12.2016
+
+FAQ3:
+  question: >
+    Ein Ball geht im Ballwechsel kaputt - gibt es Wiederholung oder Punkt?
+  answer: >
+    Seit der Einführung der Plastikbälle nicht selten - Spielerin A spielt den Ball, er fliegt über den Tisch hinaus.
+    Beim Aufheben stellt Spielerin B fest, dass der Ball kaputt ist.
+    Wiederholung oder Punkt für B?
+
+
+    Hier hat sich die Regelauslegung 2017 geändert.
+    Es gilt
+
+      - bemerkt der Schiri den defekten Ball während des Ballwechsels, gibt es immer Wiederholung
+
+      - wird der defekte Ball erst nach dem Ballwchsel festgestellt, gibt es nur Wiederholung, wenn beide Spielerinnen das fordern, ansonsten wird auf Punkt entschieden
+
+    Im Beispiel wäre also Punkt für Spielerin B die richtige Antwort.
+  date: 01.12.2017
+
+FAQ4:
+  question: >
+    Eine Spielerin ist verletzt, wenn sie nicht mitspielt gibt es Strafe und die anderen müssen aufrücken, Ersatz ist nicht in Sicht. Wie kann man nun korrekt aufstellen?
+  answer: >
+    Die Wettspielordnung sagt:
+
+
+    > Der Einsatz eines Spielers im Mannschaftskampf ist dann regelgerecht, wenn er bei mindestens einem Einzel oder Doppel mitwirkt und dieses auch in die Wertung eingeht.
+      Dies gilt auch für verspätet eintreffende Spieler.
+      Eine Mitwirkung im Sinne dieser Bestimmung ist schon dann gegeben, wenn der Einzel oder Doppel aufgestellte Spieler bei der Begrüßung anwesend ist oder andernfalls sein Einzel oder Doppel frühestens nach dem ersten Aufschlag, selbst ohne Angabe von Gründen, beendet.
+
+
+    Das heißt, entweder ist die Spielerin bei der Begrüßung anwesend und geht dann wieder (oder schaut zu). Oder sie kommt zu ihren Doppel oder Einzel, ein Aufschlag wird gespielt und sie gibt das Spiel auf.
+
+
+    Wichtig: im zweiten Fall muss das Einzel bzw. Doppel in die Wertung eingehen, also mindestens begonnen werden.
+  date: 01.01.2018
+
+FAQ5:
+  question: >
+    Kann eine Einzelaufstellung noch abgeändert werden, wenn das erste Einzel bereits begonnen hat, während ein Doppel noch läuft, und wann beginnt in diesem Sinne ein Einzel?
+  answer: >
+    - Eine Mannschaft, die es zulässt, dass das erste Einzel beginnt, während noch ein Doppel läuft, verzichtet damit auf das ihr an sich zustehende Recht einer Aufstellungsänderung.
+    - Ein Spiel beginnt im Sinne dieser Bestimmung mit dem ersten Aufschlag.
+  date: 17.12.2016
+
+FAQ6:
+  question: >
+    Kann eine Einzelaufstellung noch abgeändert werden, wenn das erste Einzel bereits begonnen hat, während ein Doppel noch läuft, und wann beginnt in diesem Sinne ein Einzel?
+  answer: >
+    - Eine Mannschaft, die es zulässt, dass das erste Einzel beginnt, während noch ein Doppel läuft, verzichtet damit auf das ihr an sich zustehende Recht einer Aufstellungsänderung.
+    - Ein Spiel beginnt im Sinne dieser Bestimmung mit dem ersten Aufschlag.
+  date: 17.12.2016
+
+FAQ7:
+  question: >
+    Kann eine Einzelaufstellung noch abgeändert werden, wenn das erste Einzel bereits begonnen hat, während ein Doppel noch läuft, und wann beginnt in diesem Sinne ein Einzel?
+  answer: >
+    - Eine Mannschaft, die es zulässt, dass das erste Einzel beginnt, während noch ein Doppel läuft, verzichtet damit auf das ihr an sich zustehende Recht einer Aufstellungsänderung.
+    - Ein Spiel beginnt im Sinne dieser Bestimmung mit dem ersten Aufschlag.
+  date: 17.12.2016
+
+FAQ8:
+  question: >
+    Kann eine Einzelaufstellung noch abgeändert werden, wenn das erste Einzel bereits begonnen hat, während ein Doppel noch läuft, und wann beginnt in diesem Sinne ein Einzel?
+  answer: >
+    - Eine Mannschaft, die es zulässt, dass das erste Einzel beginnt, während noch ein Doppel läuft, verzichtet damit auf das ihr an sich zustehende Recht einer Aufstellungsänderung.
+    - Ein Spiel beginnt im Sinne dieser Bestimmung mit dem ersten Aufschlag.
+  date: 17.12.2016
+
+FAQ9:
+  question: >
+    Kann eine Einzelaufstellung noch abgeändert werden, wenn das erste Einzel bereits begonnen hat, während ein Doppel noch läuft, und wann beginnt in diesem Sinne ein Einzel?
+  answer: >
     - Eine Mannschaft, die es zulässt, dass das erste Einzel beginnt, während noch ein Doppel läuft, verzichtet damit auf das ihr an sich zustehende Recht einer Aufstellungsänderung.
     - Ein Spiel beginnt im Sinne dieser Bestimmung mit dem ersten Aufschlag.
   date: 17.12.2016

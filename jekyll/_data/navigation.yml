@@ -57,7 +57,7 @@
   servicepage: true
   children:
     -
-      title: "FAQ (Fragen und Antworten)"
+      title: "Regelecke (Fragen und Antworten)"
       href: "/regeln/faq.html"
 
 -
