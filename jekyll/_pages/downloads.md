@@ -1,6 +1,5 @@
 ---
 title: Downloads
-date: 27.08.2017
 ---
 
 Hier findet Ihr alle Downloads, die wir zur Verfügung stellen.

@@ -12,6 +12,19 @@
       mail: "schiri@ekkart.de"
 
 -
+  title: "3. Bundesliga Damen Nord"
+  recipients:
+    -
+      name: "Gabi Klis"
+      mail: "klis.dttb@tischtennis.de"
+    -
+      name: "Kolja Rottmann"
+      mail: "rottmann.dttb@tischtennis.de"
+    -
+      name: "Ekkart Kleinod"
+      mail: "schiri@ekkart.de"
+
+-
   title: "3. Bundesliga Herren Nord"
   recipients:
     -

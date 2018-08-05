@@ -27,7 +27,7 @@
       filename: "BeTTV_Spielorte.pdf"
       title: "BeTTV Spielorte"
       description: "Spielorte der BeTTV-Vereine."
-      lastchange: 27.08.2017
+      lastchange: 06.08.2018
     -
       filename: "DTTB_BL_Hinweise.pdf"
       title: "DTTB OSR-Hinweise BL"
@@ -94,32 +94,37 @@
       filename: "1BLD_Material.pdf"
       title: "Material 1. BL Damen"
       description: "Download von Click-TT."
-      lastchange: 27.08.2017
+      lastchange: 06.08.2018
+    -
+      filename: "3BLND_Material.pdf"
+      title: "Material 3. BL Damen"
+      description: "Download von Click-TT."
+      lastchange: 06.08.2018
     -
       filename: "3BLNH_Material.pdf"
       title: "Material 3. BL Herren"
       description: "Download von Click-TT."
-      lastchange: 27.08.2017
+      lastchange: 06.08.2018
     -
       filename: "RLND_Material.pdf"
       title: "Material RLN Damen"
       description: "Download von Click-TT."
-      lastchange: 27.08.2017
+      lastchange: 06.08.2018
     -
       filename: "RLNH_Material.pdf"
       title: "Material RLN Herren"
       description: "Download von Click-TT."
-      lastchange: 27.08.2017
+      lastchange: 06.08.2018
     -
       filename: "OLNOD_Material.pdf"
       title: "Material OLNO Damen"
       description: "Download von Click-TT."
-      lastchange: 27.08.2017
+      lastchange: 06.08.2018
     -
       filename: "OLNOH_Material.pdf"
       title: "Material OLNO Herren"
       description: "Download von Click-TT."
-      lastchange: 27.08.2017
+      lastchange: 06.08.2018
 
 -
   path: "regeln"

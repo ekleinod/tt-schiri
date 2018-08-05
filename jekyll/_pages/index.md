@@ -13,4 +13,4 @@ Das Wichtigste:
 
 {% include downloads.html tag = 'einsatzplan' validonly = true noheader = true %}
 
- <span class='fa fa-hand-rock-o'></span> Das Zweitwichtigste: der {% include link.html target='http://www.ekkart.de/schiri/forum/' title='Link zum Schiri-Forum' %} <span class='fa fa-hand-rock-o'></span>
+ <span class='fa fa-hand-o-right'></span> Das Zweitwichtigste: der {% include link.html target='http://www.ekkart.de/schiri/forum/' title='Link zum Schiri-Forum' %} für Turnierinformationen. <span class='fa fa-hand-o-left'></span>
