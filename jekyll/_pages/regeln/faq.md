@@ -2,7 +2,6 @@
 title: Regelecke
 subtitle: Fragen und Antworten
 hide-toc: true
-date: 15.06.2018
 ---
 
 Veraltete Antworten bitte per E-Mail melden.
