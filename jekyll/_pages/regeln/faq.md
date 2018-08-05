@@ -1,8 +1,8 @@
 ---
-title: FAQ
+title: Regelecke
 subtitle: Fragen und Antworten
 hide-toc: true
-date: 17.12.2016
+date: 15.06.2018
 ---
 
 Veraltete Antworten bitte per E-Mail melden.
@@ -21,21 +21,15 @@ Danke.
 		</div>
 		<div id="{{ faq[0] }}" class="panel-collapse collapse">
 			<div class="panel-body">
-				{% capture answer %}
-{% for ansline in faq_content.answer %}
-{{ ansline }}
-
-{% endfor %}
-{% if faq_content.see %}
-Siehe:
-{% for seeref in faq_content.see %}
-- {{ seeref }}
-{% endfor %}
-{% endif %}
-
-Antwort vom {% include date.html date=faq_content.date %}
+				{{ faq_content.answer | strip | markdownify }}
+				{% if faq_content.see %}
+					{{ 'Siehe
+' | append: faq_content.see | strip | markdownify }}
+				{% endif %}
+				{% capture answer_date %}
+					Antwort vom {% include date.html date=faq_content.date style='month_year' %}
 				{% endcapture %}
-				{{ answer | strip | markdownify }}
+				{{ answer_date | strip | markdownify }}
 			</div>
 		</div>
 	</div>
