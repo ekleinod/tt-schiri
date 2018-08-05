@@ -1,12 +1,12 @@
 ---
 title: Schiri werden
-date: 31.07.2017
+date: 05.08.2018
 ---
 
 {% capture thumb %}{% include img.html src='VSR-Lehrgang-Ankündigung.png' title='VSR-Lehrgang-Ankündigung' align='right' %}{% endcapture %}
 {% include download.html file='VSR-Lehrgang-Ankündigung.pdf' title = thumb %}
 Die Berliner Schiedsrichterinnen und Schiedsrichter suchen Verstärkung.
-Vielleicht wäre die Schiedsrichterei auch was für Dich?
+Vielleicht wäre das was für Dich?
 
 Der nächste Lehrgang ist im Januar.
 Melde Dich beim {% include link.html target='/personen.html' title='Verbandsschiedsrichterausschuss (VSRA)' %}.
@@ -16,8 +16,8 @@ Genaueres findest Du am Ende bei [Formalien](#formalien) oder in der {% include 
 ## Ausbildung
 
 Der erste Schritt ist die Ausbildung als Verbandsschiedsrichterin bzw. Verbandsschiedsrichter (VSR).
-Die Ausbildung findet einmal im Jahr in Berlin in der Geschäftsstelle des BeTTV, Paul-Heyse-Straße statt, sie dauert zwei Abende und endet mit der theoretischen und praktischen Prüfung zu den Berliner Einzelmeisterschaften.
-Zusätzlich gibt es einen freiwilligen praktischen Abend, dessen Termin am ersten theoretischen Abend festgelegt wird.
+Die Ausbildung findet einmal im Jahr in Berlin in der Geschäftsstelle des BeTTV, Paul-Heyse-Straße statt, sie dauert drei Abende und endet mit der theoretischen und praktischen Prüfung zu den Berliner Einzelmeisterschaften.
+Es gibt zwei theoretische und einen praktischen Abend.
 
 Wenn Du bei den BEM lieber spielen willst, prüfen wir Dich zu einem anderen Turnier, das machen wir dann persönlich aus.
 
@@ -61,24 +61,30 @@ Meldung
 Teilnahmegebühr
 : 15,- €
 
+---
+
 
 VSR-Lehrgang - Meldeschluss
-: Mittwoch, 13.12.2017
+: Mittwoch, 12.12.2018
 
 VSR-Lehrgang - 1. Abend
-: Dienstag, 09.01.2018, 19:00 -- 22:00 Uhr
+: Mittwoch, 09.01.2019, 19:00 -- 22:00 Uhr
 
 VSR-Lehrgang - 2. Abend
-: Donnerstag, 11.01.2018, 19:00 -- 22:00 Uhr
+: Mittwoch, 16.01.2019, 19:00 -- 22:00 Uhr
 
 VSR-Lehrgang - Praxisabend
-: Dienstag, 16.01.2018, 19:00 -- 22:00 Uhr
+: Donnerstag, 17.01.2019, 19:00 -- 22:00 Uhr
 
 VSR-Lehrgang - Prüfungen bei der BEM
-: Samstag, 20.01.2018, 13:00 -- 16:00 Uhr
+: Samstag, 19.01.2019, 13:00 -- 16:00 Uhr
 
 
 
+
+
+
+---
 
 Teilnahmevoraussetzungen
 : Mindestalter 14 Jahre, Mitglied in einem Berliner TT-Verein, Einzahlung der Teilnahmegebühr, Anschaffung der Verbandsschiedsrichterkleidung (schwarzes Hemd oder Bluse, graue Hose oder Rock, Turnschuhe) und vorheriges Selbststudium der TT-Regeln -- Teil A und B -- und der Wettspielordnung (WO). Die TT-Regeln und die WO werden jedem Teilnehmer per Post oder per E-Mail zugeschickt.

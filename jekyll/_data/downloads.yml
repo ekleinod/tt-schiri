@@ -7,17 +7,17 @@
       filename: "BeTTV_Einsatzplan.pdf"
       title: "BeTTV Einsatzplan (pdf, bunt)"
       description: "Einsatzplan für alle VSR, PDF-Datei, bunt."
-      lastchange: 08.04.2018
+      lastchange: 29.07.2018
     -
       filename: "BeTTV_Einsatzplan_sw.pdf"
       title: "BeTTV Einsatzplan (pdf, schwarz-weiß)"
       description: "Einsatzplan für alle VSR, PDF-Datei, schwarz-weiß."
-      lastchange: 08.04.2018
+      lastchange: 29.07.2018
     -
       filename: "BeTTV_Einsatzplan.xls"
       title: "BeTTV Einsatzplan (xls)"
       description: "Einsatzplan für alle VSR, Excel."
-      lastchange: 08.04.2018
+      lastchange: 29.07.2018
 -
   path: "einsatzinformationen"
   title: "Einsatzinformationen"
@@ -208,12 +208,12 @@
       filename: "BeTTV_Checkliste_OSR-Einsatz.pdf"
       title: "Checkliste OSR-Einsatz"
       description: "Kurze Checkliste, was zum OSR-Einsatz mitzunehmen ist. Erstellt vom VSRA des BeTTV."
-      lastchange: 27.08.2017
+      lastchange: 05.08.2018
     -
       filename: "BeTTV_Merkblatt_OSR-Einsatz.pdf"
       title: "Merkblatt OSR-Einsatz"
       description: "Kurzes Merkblatt über den OSR-Einsatz. Erstellt vom VSRA des BeTTV."
-      lastchange: 27.08.2017
+      lastchange: 05.08.2018
 
 -
   path: "lehrgang"
@@ -243,13 +243,13 @@
       title: "LARC 2017 B"
       description: "Belagliste 2017 B."
       lastchange: 01.10.2017
-      valid: true
+      valid: false
     -
       filename: "LARC_38_A_2017.pdf"
       title: "LARC 2017 A"
       description: "Belagliste 2017 A."
       lastchange: 01.04.2017
-      valid: true
+      valid: false
     -
       filename: "LARC_37_B_2016.pdf"
       title: "LARC 2016 B"

@@ -1,6 +1,6 @@
 ---
 title: Einsatzinformationen
-date: 06.10.2016
+date: 05.08.2018
 ---
 
 Auf dieser Seite findet Ihr Einsatzinformationen für die aktuelle Saison. Für die zurückliegenden Saisons wird kein Archiv geführt.
