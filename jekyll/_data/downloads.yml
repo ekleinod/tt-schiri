@@ -179,6 +179,11 @@
   tags: ["fortbildung"]
   downloads:
     -
+      filename: "2018-09-06_VSR-Fortbildung.pdf"
+      title: "Fortbildungsfolien 6.9.2018"
+      description: "Folien der Fortbildung"
+      lastchange: 08.09.2018
+    -
       filename: "2018-04-19_VSR-Fortbildung.pdf"
       title: "Fortbildungsfolien 19.4.2018"
       description: "Folien der Fortbildung"
@@ -189,22 +194,22 @@
       description: "Folien der Fortbildung"
       lastchange: 06.09.2017
     -
-      filename: "2017-04-27_VSR-Fortbildung.slides.pdf"
+      filename: "2017-04-27_VSR-Fortbildung.pdf"
       title: "Fortbildungsfolien 27.4.2017"
       description: "Folien der Fortbildung"
       lastchange: 27.04.2017
     -
-      filename: "2016-09-07_VSR-Fortbildung_slides.pdf"
+      filename: "2016-09-07_VSR-Fortbildung.pdf"
       title: "Fortbildungsfolien 7.9.2016"
       description: "Folien der Fortbildung"
       lastchange: 07.09.2016
     -
-      filename: "2016-04-28_VSR-Fortbildung_slides.pdf"
+      filename: "2016-04-28_VSR-Fortbildung.pdf"
       title: "Fortbildungsfolien 28.4.2016"
       description: "Folien der Fortbildung"
       lastchange: 28.04.2016
     -
-      filename: "2015-09-02_VSR-Fortbildung_Beamer.pdf"
+      filename: "2015-09-02_VSR-Fortbildung.pdf"
       title: "Fortbildungsfolien 2.9.2015"
       description: "Folien der Fortbildung"
       lastchange: 02.09.2015
