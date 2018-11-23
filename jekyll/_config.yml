@@ -61,7 +61,7 @@ collections:
     title: Seiten
 
 # use the following gems
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-toc
 
