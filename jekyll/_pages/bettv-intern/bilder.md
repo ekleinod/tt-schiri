@@ -2,6 +2,7 @@
 title: Bilder
 date: 12.06.2017
 layout: page_nosidebar
+excerpt_separator: up
 ---
 
 {% for section in site.data.images %}
