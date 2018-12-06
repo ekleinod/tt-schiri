@@ -179,6 +179,16 @@
   tags: ["fortbildung"]
   downloads:
     -
+      filename: "Zaehlgeraet.article.pdf"
+      title: "Zählgerät und Ansagen"
+      description: "Zählgerät und Ansagen im Satz ausführlich beschrieben."
+      lastchange: 07.12.2018
+    -
+      filename: "Zaehlgeraet.slides.pdf"
+      title: "Zählgerät"
+      description: "Folien über Zählgerätanzeige"
+      lastchange: 07.12.2018
+    -
       filename: "2018-09-06_VSR-Fortbildung.pdf"
       title: "Fortbildungsfolien 6.9.2018"
       description: "Folien der Fortbildung"
