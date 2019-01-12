@@ -7,17 +7,17 @@
       filename: "BeTTV_Einsatzplan.pdf"
       title: "BeTTV Einsatzplan (pdf, bunt)"
       description: "Einsatzplan für alle VSR, PDF-Datei, bunt."
-      lastchange: 09.12.2018
+      lastchange: 12.01.2019
     -
       filename: "BeTTV_Einsatzplan_sw.pdf"
       title: "BeTTV Einsatzplan (pdf, schwarz-weiß)"
       description: "Einsatzplan für alle VSR, PDF-Datei, schwarz-weiß."
-      lastchange: 09.12.2018
+      lastchange: 12.01.2019
     -
       filename: "BeTTV_Einsatzplan.xls"
       title: "BeTTV Einsatzplan (xls)"
       description: "Einsatzplan für alle VSR, Excel."
-      lastchange: 09.12.2018
+      lastchange: 12.01.2019
 -
   path: "einsatzinformationen"
   title: "Einsatzinformationen"
