@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="icon.svg"
-   inkscape:export-filename="/home/ekleinod/working/git/tt-schiri/resources/logo/icon.png"
+   inkscape:export-filename="/home/ekleinod/working/git/tt-schiri.de/jekyll/img/icon.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,15 +28,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="51.25"
-     inkscape:cx="5.0634146"
+     inkscape:cx="2.1658536"
      inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,26 +60,25 @@
      inkscape:label="Logo"
      transform="translate(0,-73.999573)">
     <g
-       id="g3354"
-       transform="matrix(0.43839404,0,0,0.43839404,-40.30436,66.499941)">
+       id="g4138">
       <rect
          transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
-         ry="4.0196171"
-         y="47.363121"
-         x="82.083061"
-         height="25.175499"
-         width="17.826416"
+         ry="1.7621762"
+         y="74.566185"
+         x="-20.157749"
+         height="11.036789"
+         width="7.8149948"
          id="rect2990"
-         style="fill:#e20a17;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.02135241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#759d35;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.4477548px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <rect
-         transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#e20a17;stroke-width:1.02135241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.8660254,0.50000001,-0.50000001,0.8660254,0,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#759d35;stroke-width:0.4477548px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect3767"
-         width="17.826416"
-         height="25.175499"
-         x="109.0247"
-         y="-39.074451"
-         ry="4.0196171" />
+         width="7.8149943"
+         height="11.036789"
+         x="46.141148"
+         y="60.612812"
+         ry="1.7621762" />
     </g>
   </g>
 </svg>

@@ -2,7 +2,7 @@
 layout: none
 permalink: upload/.htaccess
 ---
-AuthUserFile /home/vhosts/5000128517/ekkart.de/tt-schiri.de/htdocs/upload/.htpasswd
+AuthUserFile /var/www/5000128517/u1907/tt-schiri.de/htdocs/upload/.htpasswd
 AuthName "Einsatzpläne hochladen - erst einloggen"
 AuthType Basic
 Require valid-user

@@ -1,18 +1,23 @@
 -
   path: "einsatzplaene"
-  title: "Einsatzpläne"
-  tags: ["einsatzinformationen"]
+  title: "Einsatzplan"
+  tags: ["einsatzinformationen", "einsatzplan"]
   downloads:
     -
       filename: "BeTTV_Einsatzplan.pdf"
-      title: "BeTTV Einsatzplan (pdf)"
-      description: "Einsatzplan für alle VSR, PDF-Datei."
-      lastchange: 04.12.2016
+      title: "BeTTV Einsatzplan (pdf, bunt)"
+      description: "Einsatzplan für alle VSR, PDF-Datei, bunt."
+      lastchange: 12.01.2019
+    -
+      filename: "BeTTV_Einsatzplan_sw.pdf"
+      title: "BeTTV Einsatzplan (pdf, schwarz-weiß)"
+      description: "Einsatzplan für alle VSR, PDF-Datei, schwarz-weiß."
+      lastchange: 12.01.2019
     -
       filename: "BeTTV_Einsatzplan.xls"
       title: "BeTTV Einsatzplan (xls)"
       description: "Einsatzplan für alle VSR, Excel."
-      lastchange: 04.12.2016
+      lastchange: 12.01.2019
 -
   path: "einsatzinformationen"
   title: "Einsatzinformationen"
@@ -22,32 +27,47 @@
       filename: "BeTTV_Spielorte.pdf"
       title: "BeTTV Spielorte"
       description: "Spielorte der BeTTV-Vereine."
-      lastchange: 28.08.2016
+      lastchange: 06.08.2018
     -
       filename: "DTTB_BL_Hinweise.pdf"
       title: "DTTB OSR-Hinweise BL"
       description: "Hinweise für OSR in den Bundesligen."
-      lastchange: 01.09.2016
-    -
-      filename: "DTTB_RL-OL_Hinweise.pdf"
-      title: "DTTB OSR-Hinweise RL/OL"
-      description: "Hinweise für OSR in den Regional- und Oberligen."
-      lastchange: 01.08.2016
-    -
-      filename: "DTTB_Schlägertestrichtlinie.pdf"
-      title: "DTTB Richtlinie zu Schlägertests"
-      description: "Auszug aus dem DTTB-Handbuch."
-      lastchange: 01.09.2016
+      lastchange: 26.08.2018
     -
       filename: "DTTB_BL_Reisekostenabrechnung.pdf"
       title: "DTTB Reisekostenabrechnung BL"
       description: "Reisekostenabrechnung für OSR in den Bundesligen."
-      lastchange: 09.02.2017
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_BL_Aufstellung.pdf"
+      title: "DTTB Einzel- und Doppelaufstellung BL"
+      description: "Einzel- und Doppelaufstellung für 4er-Teams in den Bundesligen."
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_RL-OL_Hinweise.pdf"
+      title: "DTTB OSR-Hinweise RL/OL"
+      description: "Hinweise für OSR in den Regional- und Oberligen."
+      lastchange: 26.08.2018
     -
       filename: "DTTB_RL-OL_Reisekostenabrechnung.pdf"
       title: "DTTB Reisekostenabrechnung RL/OL"
       description: "Reisekostenabrechnung für OSR in den Regional- und Oberligen."
-      lastchange: 09.02.2017
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_RL-OL_Aufstellung_4er.pdf"
+      title: "DTTB Einzel- und Doppelaufstellung 4er-Teams RL/OL"
+      description: "Einzel- und Doppelaufstellung für 4er-Teams in den Regional- und Oberligen."
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_RL-OL_Aufstellung_6er.pdf"
+      title: "DTTB Einzel- und Doppelaufstellung 6er-Teams RL/OL"
+      description: "Einzel- und Doppelaufstellung für 6er-Teams in den Regional- und Oberligen."
+      lastchange: 27.08.2017
+    -
+      filename: "DTTB_Schlägertestrichtlinie.pdf"
+      title: "DTTB Richtlinie zu Schlägertests"
+      description: "Auszug aus dem DTTB-Handbuch."
+      lastchange: 13.12.2016
 
 -
   path: "osr-berichte"
@@ -55,15 +75,15 @@
   tags: ["einsatzinformationen", "osr-berichte"]
   downloads:
     -
-      filename: "BL_OSR-Bericht.pdf"
+      filename: "OSR-Bericht_BL.pdf"
       title: "OSR-Bericht BL"
       description: "Ausfüllhilfe und Empfänger siehe [OSR-Berichte](osr-berichte.html)."
-      lastchange: 01.09.2016
+      lastchange: 26.08.2018
     -
-      filename: "RL-OL_OSR-Bericht.pdf"
+      filename: "OSR-Bericht_RL-OL.pdf"
       title: "OSR-Bericht RL/OL"
       description: "Ausfüllhilfe und Empfänger siehe [OSR-Berichte](osr-berichte.html)."
-      lastchange: 01.09.2016
+      lastchange: 26.08.2018
 
 -
   path: "materiallisten"
@@ -74,32 +94,37 @@
       filename: "1BLD_Material.pdf"
       title: "Material 1. BL Damen"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 06.08.2018
+    -
+      filename: "3BLND_Material.pdf"
+      title: "Material 3. BL Damen"
+      description: "Download von Click-TT."
+      lastchange: 06.08.2018
     -
       filename: "3BLNH_Material.pdf"
       title: "Material 3. BL Herren"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 06.08.2018
     -
       filename: "RLND_Material.pdf"
       title: "Material RLN Damen"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 06.08.2018
     -
       filename: "RLNH_Material.pdf"
       title: "Material RLN Herren"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 06.08.2018
     -
       filename: "OLNOD_Material.pdf"
       title: "Material OLNO Damen"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 06.08.2018
     -
       filename: "OLNOH_Material.pdf"
       title: "Material OLNO Herren"
       description: "Download von Click-TT."
-      lastchange: 27.09.2016
+      lastchange: 06.08.2018
 
 -
   path: "regeln"
@@ -110,12 +135,37 @@
       filename: "Internationale_Tischtennisregeln_A.pdf"
       title: "Internationale TT-Regeln Teil A"
       description: "Teil A der Internationalen Tischtennis-Regeln."
-      lastchange: 25.01.2016
+      lastchange: 10.01.2018
     -
       filename: "Internationale_Tischtennisregeln_B.pdf"
       title: "Internationale TT-Regeln Teil B"
       description: "Teil B der Internationalen Tischtennis-Regeln."
-      lastchange: 25.01.2016
+      lastchange: 10.01.2018
+    -
+      filename: "Handzeichen-Ansagen.pdf"
+      title: "Handzeichen und Ansagen"
+      description: "Übersicht der Handzeichen und Ansagen der SRaT."
+      lastchange: 01.06.2016
+    -
+      filename: "Hand_Signal_illegal_service.pdf"
+      title: "Handzeichen für falsche Aufschläge"
+      description: "Übersicht der Handzeichen für falsche Aufschläge der SRaT."
+      lastchange: 01.06.2016
+    -
+      filename: "DTTB-Coachingregel-Tableau.pdf"
+      title: "Coaching-Regel-Tableau"
+      description: "Offizielles Tableau mit Praxisbeispielen zur Coachingregel."
+      lastchange: 13.08.2017
+    -
+      filename: "BeTTV_Merkblatt_Coachingregel.pdf"
+      title: "Merkblatt Coaching-Regel"
+      description: "Kurzes Merkblatt zur Coachingregel mit Praxisbeispielen. Erstellt vom VSRA des BeTTV."
+      lastchange: 27.08.2017
+    -
+      filename: "Regelauslegungen.pdf"
+      title: "Aktuelle Regelauslegungen"
+      description: "Aktuelle Regelauslegungen des DTTB."
+      lastchange: 26.08.2018
 
 -
   path: "ordnungen"
@@ -126,7 +176,63 @@
       filename: "DTTB-Wettspielordnung.pdf"
       title: "Wettspielordnung des DTTB"
       description: "Die Wettspielordnung des DTTB."
-      lastchange: 13.07.2016
+      lastchange: 26.11.2018
+    -
+      filename: "BeTTV-Wettspielordnung.pdf"
+      title: "Wettspielordnung des BeTTV"
+      description: "Die Wettspielordnung des BeTTV."
+      lastchange: 05.09.2017
+
+-
+  path: "fortbildung"
+  title: "VSR-Fortbildung"
+  tags: ["fortbildung"]
+  downloads:
+    -
+      filename: "Zaehlgeraet.article.pdf"
+      title: "Zählgerät und Ansagen"
+      description: "Zählgerät und Ansagen im Satz ausführlich beschrieben."
+      lastchange: 07.12.2018
+    -
+      filename: "Zaehlgeraet.slides.pdf"
+      title: "Zählgerät"
+      description: "Folien über Zählgerätanzeige"
+      lastchange: 07.12.2018
+    -
+      filename: "2018-09-06_VSR-Fortbildung.pdf"
+      title: "Fortbildungsfolien 6.9.2018"
+      description: "Folien der Fortbildung"
+      lastchange: 08.09.2018
+    -
+      filename: "2018-04-19_VSR-Fortbildung.pdf"
+      title: "Fortbildungsfolien 19.4.2018"
+      description: "Folien der Fortbildung"
+      lastchange: 18.04.2018
+    -
+      filename: "2017-09-06_VSR-Fortbildung.pdf"
+      title: "Fortbildungsfolien 6.9.2017"
+      description: "Folien der Fortbildung"
+      lastchange: 06.09.2017
+    -
+      filename: "2017-04-27_VSR-Fortbildung.pdf"
+      title: "Fortbildungsfolien 27.4.2017"
+      description: "Folien der Fortbildung"
+      lastchange: 27.04.2017
+    -
+      filename: "2016-09-07_VSR-Fortbildung.pdf"
+      title: "Fortbildungsfolien 7.9.2016"
+      description: "Folien der Fortbildung"
+      lastchange: 07.09.2016
+    -
+      filename: "2016-04-28_VSR-Fortbildung.pdf"
+      title: "Fortbildungsfolien 28.4.2016"
+      description: "Folien der Fortbildung"
+      lastchange: 28.04.2016
+    -
+      filename: "2015-09-02_VSR-Fortbildung.pdf"
+      title: "Fortbildungsfolien 2.9.2015"
+      description: "Folien der Fortbildung"
+      lastchange: 02.09.2015
 
 -
   path: "sonstiges"
@@ -137,28 +243,12 @@
       filename: "BeTTV_Checkliste_OSR-Einsatz.pdf"
       title: "Checkliste OSR-Einsatz"
       description: "Kurze Checkliste, was zum OSR-Einsatz mitzunehmen ist. Erstellt vom VSRA des BeTTV."
-      lastchange: 28.08.2016
+      lastchange: 05.08.2018
     -
       filename: "BeTTV_Merkblatt_OSR-Einsatz.pdf"
       title: "Merkblatt OSR-Einsatz"
       description: "Kurzes Merkblatt über den OSR-Einsatz. Erstellt vom VSRA des BeTTV."
-      lastchange: 28.08.2016
-    -
-      filename: "BeTTV_Merkblatt_Coachingregel.pdf"
-      title: "Merkblatt Coaching-Regel"
-      description: "Kurzes Merkblatt zur Coachingregel mit Praxisbeispielen. Erstellt vom VSRA des BeTTV."
-      lastchange: 06.09.2016
-
--
-  path: "lehrgang"
-  title: "VSR-Lehrgang"
-  tags: ["lehrgang"]
-  downloads:
-    -
-      filename: "lehrgang.zip"
-      title: "Selbststudium"
-      description: "Die Dokumente zum Selbststudium: Ordnungen, Regeln etc.."
-      lastchange: 15.12.2016
+      lastchange: 05.08.2018
 
 -
   path: "belaglisten"
@@ -166,17 +256,41 @@
   tags: ["einsatzinformationen", "belaglisten"]
   downloads:
     -
+      filename: "LARC_40_B_2018.pdf"
+      title: "LARC 2018 B"
+      description: "Belagliste 2018 B."
+      lastchange: 01.10.2018
+      valid: true
+    -
+      filename: "LARC_39_A_2018.pdf"
+      title: "LARC 2018 A"
+      description: "Belagliste 2018 A."
+      lastchange: 01.04.2018
+      valid: true
+    -
+      filename: "LARC_38_B_2017.pdf"
+      title: "LARC 2017 B"
+      description: "Belagliste 2017 B."
+      lastchange: 01.10.2017
+      valid: false
+    -
+      filename: "LARC_38_A_2017.pdf"
+      title: "LARC 2017 A"
+      description: "Belagliste 2017 A."
+      lastchange: 01.04.2017
+      valid: false
+    -
       filename: "LARC_37_B_2016.pdf"
       title: "LARC 2016 B"
       description: "Belagliste 2016 B."
       lastchange: 01.10.2016
-      valid: true
+      valid: false
     -
       filename: "LARC_37_A_2016.pdf"
       title: "LARC 2016 A"
       description: "Belagliste 2016 A."
       lastchange: 01.04.2016
-      valid: true
+      valid: false
     -
       filename: "LARC_36_C_2016.pdf"
       title: "LARC 2015 B Update"
@@ -333,3 +447,36 @@
       description: "Belagliste 24 B."
       lastchange: 01.01.2004
       valid: false
+
+-
+  path: "../bettv-intern/downloads"
+  title: "VSR-Intern"
+  tags: ["intern"]
+  explicit: true
+  downloads:
+    -
+      filename: "BeTTV_VSR-Kontaktliste.pdf"
+      title: "VSR-Kontaktliste (pdf)"
+      description: "Kontaktliste aller VSR des BeTTV."
+      lastchange: 26.08.2018
+    -
+      filename: "VSRO-Tagung_2018_BeTTV.pdf"
+      title: "VSRO-Tagung 2018 - Bericht BeTTV (pdf)"
+      description: "Mein Bericht an die VSRO-Tagung mit Themen für die Tagung."
+      lastchange: 07.06.2018
+    -
+      filename: "VSR-Tagung_2018.pdf"
+      title: "VSR-Tagung 2018 - Protokoll (pdf)"
+      lastchange: 28.04.2018
+    -
+      filename: "VSRO-Tagung_2017_Protokoll.pdf"
+      title: "VSRO-Tagung 2017 - Protokoll (pdf)"
+      lastchange: 15.06.2017
+    -
+      filename: "VSRO-Tagung_2017_Folien.pdf"
+      title: "VSRO-Tagung 2017 - Folien (pdf)"
+      lastchange: 11.06.2017
+    -
+      filename: "Lehrwarte_2017_Protokoll.pdf"
+      title: "Lehrwarte-Tagung 2017 - Protokoll (pdf)"
+      lastchange: 09.03.2018

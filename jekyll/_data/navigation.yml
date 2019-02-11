@@ -3,7 +3,7 @@
   href: "/einsatzinformationen/index.html"
   description: "Alles zu den Einsätzen incl. Schiritausch, Aufwandsentschädigungen, Downloads (OSR-Berichte, Merkzettel etc.)"
   icon: "info"
-  indexpage: true
+  servicepage: true
   children:
     -
       title: "OSR-Berichte"
@@ -17,22 +17,34 @@
   href: "/personen.html"
   description: "Der Verbandsschiedsrichterausschuss (VSRA) und Links zu anderen Ansprechpartnern."
   icon: "user"
-  indexpage: true
+  servicepage: true
 
 -
   title: "Schiri werden"
   href: "/schiri-werden.html"
   description: "Wie wird man Schiri beim BeTTV?"
   icon: "graduation-cap"
-  indexpage: true
+  servicepage: true
 
 -
   title: "Termine"
   href: "/termine/index.html"
-  description: "Die wichtigsten Termine der Saison sowie Veranstaltungsorte."
+  description: "Termine und Turniere der Saison sowie Veranstaltungsorte."
   icon: "calendar"
-  indexpage: true
+  servicepage: true
   children:
+#    -
+#      title: "VSR-Einsätze"
+#      href: "/termine/games.html"
+    -
+      title: "VSR-Termine"
+      href: "/termine/events.html"
+#    -
+#      title: "Turniere"
+#      href: "/termine/tournaments.html"
+#    -
+#      title: "Spielorte"
+#      href: "/termine/clubvenues/index.html"
     -
       title: "Veranstaltungsorte"
       href: "/termine/venues/index.html"
@@ -42,10 +54,10 @@
   href: "/regeln/index.html"
   description: "Regeln, Regelfragen und Regelauslegungen."
   icon: "balance-scale"
-  indexpage: true
+  servicepage: true
   children:
     -
-      title: "FAQ (Fragen und Antworten)"
+      title: "Regelecke (Fragen und Antworten)"
       href: "/regeln/faq.html"
 
 -
@@ -53,8 +65,29 @@
   href: "/downloads.html"
   description: "Alle von uns angebotenen Downloads. OSR-Berichte, SR-Zettel, Merkblätter, Regeln etc."
   icon: "download"
-  indexpage: true
+  servicepage: true
 
 -
   title: "Impressum"
   href: "/impressum.html"
+
+-
+  title: "BeTTV-Intern"
+  href: "/bettv-intern/index.html"
+  description: "BeTTV-interne Belange der Schiedsrichterei."
+  children:
+    -
+      title: "Bilder"
+      href: "/bettv-intern/bilder.html"
+    -
+      title: "Downloads"
+      href: "/bettv-intern/downloads.html"
+
+-
+  title: "VSR-Treffen"
+  href: "/vsr-treffen/index.html"
+  description: "VSR-Treffen im Rahmen der Vergleichswettkämpfe der Nordverbände."
+  children:
+    -
+      title: "34. Treffen in Berlin"
+      href: "/vsr-treffen/34.html"
