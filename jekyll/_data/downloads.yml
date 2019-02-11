@@ -458,7 +458,17 @@
       filename: "BeTTV_VSR-Kontaktliste.pdf"
       title: "VSR-Kontaktliste (pdf)"
       description: "Kontaktliste aller VSR des BeTTV."
-      lastchange: 26.08.2018
+      lastchange: 20.01.2019
+    -
+      filename: "BeTTV_VSR-Mails.txt"
+      title: "VSR-Mailliste (txt)"
+      description: "E-Mailliste aller aktiven VSR, je E-Mail eine Zeile."
+      lastchange: 20.01.2019
+    -
+      filename: "BeTTV_VSR-Mails.csv"
+      title: "VSR-Mailliste (csv)"
+      description: "E-Mailliste aller aktiven VSR, je E-Mail eine Zeile, getrennt durch Semikolons."
+      lastchange: 20.01.2019
     -
       filename: "VSRO-Tagung_2018_BeTTV.pdf"
       title: "VSRO-Tagung 2018 - Bericht BeTTV (pdf)"
