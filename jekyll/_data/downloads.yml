@@ -470,6 +470,11 @@
       description: "E-Mailliste aller aktiven VSR, je E-Mail eine Zeile, getrennt durch Semikolons."
       lastchange: 20.01.2019
     -
+      filename: "BeTTV_VSR.vcf"
+      title: "VSR-Kontaktliste (vcf)"
+      description: "Kontaktliste aller aktiven VSR im Visitenkartenformat vcf."
+      lastchange: 20.01.2019
+    -
       filename: "VSRO-Tagung_2018_BeTTV.pdf"
       title: "VSRO-Tagung 2018 - Bericht BeTTV (pdf)"
       description: "Mein Bericht an die VSRO-Tagung mit Themen für die Tagung."
