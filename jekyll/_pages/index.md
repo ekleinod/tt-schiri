@@ -1,15 +1,16 @@
 ---
 title: Startseite
-layout: index
+layout: servicepage
+servicepage: list
 breadcrumb: false
 hide-nav: true
-date: 02.10.2016
+show-search: true
 ---
 
 Dies sind die Seiten der Schiedsrichterinnen und Schiedsrichter des Berliner Tischtennisverbands.
 
-Die zur Verfügung stehenden Informationen könnt Ihr über das Menü oben bzw. rechts ansurfen.
+Das Wichtigste:
 
-Das Wichtigste: Der {% include download.html file='einsatzplaene/BeTTV_Einsatzplan.pdf' title='Einsatzplan (pdf)' %} und {% include download.html file='einsatzplaene/BeTTV_Einsatzplan.xls' title='Einsatzplan (xls)' %}.
+{% include downloads.html tag = 'einsatzplan' validonly = true noheader = true %}
 
-Das Zweitwichtigste: der {% include link.html target='http://www.ekkart.de/schiri/forum/' title='Link zum Schiri-Forum' %}.
+ <span class='fa fa-hand-o-right'></span> Das Zweitwichtigste: der {% include link.html target='http://www.ekkart.de/schiri/forum/' title='Link zum Schiri-Forum' %} für Turnierinformationen. <span class='fa fa-hand-o-left'></span>

@@ -1,0 +1,1 @@
+../../submodules/jekyll-mb/jekyll/js/jekyll-mb.js

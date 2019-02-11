@@ -1,24 +1,23 @@
 ---
 title: Schiri werden
-date: 02.10.2016
-layout: sidebarpage
-toc: true
+date: 05.08.2018
 ---
 
-[{% include img.html src='VSR-Lehrgang-Ankuendigung.png' title='VSR-Lehrgang-Ankündigung' align='right' %}](/img/VSR-Lehrgang-Ankuendigung.png)
+{% capture thumb %}{% include img.html src='VSR-Lehrgang-Ankündigung.png' title='VSR-Lehrgang-Ankündigung' align='right' %}{% endcapture %}
+{% include download.html file='VSR-Lehrgang-Ankündigung.pdf' title = thumb %}
 Die Berliner Schiedsrichterinnen und Schiedsrichter suchen Verstärkung.
-Vielleicht wäre die Schiedsrichterei auch was für Dich?
+Vielleicht wäre das was für Dich?
 
 Der nächste Lehrgang ist im Januar.
 Melde Dich beim {% include link.html target='/personen.html' title='Verbandsschiedsrichterausschuss (VSRA)' %}.
-Genaueres findest Du am Ende bei [Formalien](#formalien) oder in der {% include download.html file='VSR-Lehrgang-Ankündigung.pdf' title='Ankündigung' %}.
+Genaueres findest Du am Ende bei [Formalien](#formalien) oder in der {% include download.html file='VSR-Lehrgang-Ankündigung.pdf' title='Ankündigung (PDF)' %}.
 
 
 ## Ausbildung
 
 Der erste Schritt ist die Ausbildung als Verbandsschiedsrichterin bzw. Verbandsschiedsrichter (VSR).
-Die Ausbildung findet einmal im Jahr in Berlin in der Geschäftsstelle des BeTTV, Paul-Heyse-Straße statt, sie dauert zwei Abende und endet mit der theoretischen und praktischen Prüfung zu den Berliner Einzelmeisterschaften.
-Zusätzlich gibt es einen freiwilligen praktischen Abend, dessen Termin am ersten theoretischen Abend festgelegt wird.
+Die Ausbildung findet einmal im Jahr in Berlin in der Geschäftsstelle des BeTTV, Paul-Heyse-Straße statt, sie dauert drei Abende und endet mit der theoretischen und praktischen Prüfung zu den Berliner Einzelmeisterschaften.
+Es gibt zwei theoretische und einen praktischen Abend.
 
 Wenn Du bei den BEM lieber spielen willst, prüfen wir Dich zu einem anderen Turnier, das machen wir dann persönlich aus.
 
@@ -62,25 +61,34 @@ Meldung
 Teilnahmegebühr
 : 15,- €
 
-Anmeldeschluss
-: Mittwoch, 14.12.2016
+---
 
-VSR-Lehrgang Abend 1
-: Mittwoch, 11.01.2016, 19:00 -- 22:00 Uhr
 
-VSR-Lehrgang freiwilliger Praxisabend
-: Montag, 16.01.2016, 19:00 -- 22:00 Uhr
-: oder
-: Dienstag, 17.01.2016, 19:00 -- 22:00 Uhr
+VSR-Lehrgang - Meldeschluss
+: Mittwoch, 12.12.2018
 
-VSR-Lehrgang Abend 2
-: Donnerstag, 19.01.2016, 19:00 -- 22:00 Uhr
+VSR-Lehrgang - 1. Abend
+: Mittwoch, 09.01.2019, 19:00 -- 22:00 Uhr
 
-VSR-Prüfung
-: Sonnabend, 21.01.2016, ca. 13:00 Uhr; bei den BEM der Damen und Herren (für Spielerinnen und Spieler der BEM zu einem anderen Turnier)
+VSR-Lehrgang - 2. Abend
+: Mittwoch, 16.01.2019, 19:00 -- 22:00 Uhr
+
+VSR-Lehrgang - Praxisabend
+: Donnerstag, 17.01.2019, 19:00 -- 22:00 Uhr
+
+VSR-Lehrgang - Prüfungen bei der BEM
+: Samstag, 19.01.2019, 13:00 -- 16:00 Uhr
+
+
+
+
+
+
+---
 
 Teilnahmevoraussetzungen
 : Mindestalter 14 Jahre, Mitglied in einem Berliner TT-Verein, Einzahlung der Teilnahmegebühr, Anschaffung der Verbandsschiedsrichterkleidung (schwarzes Hemd oder Bluse, graue Hose oder Rock, Turnschuhe) und vorheriges Selbststudium der TT-Regeln -- Teil A und B -- und der Wettspielordnung (WO). Die TT-Regeln und die WO werden jedem Teilnehmer per Post oder per E-Mail zugeschickt.
 
 Erhalt der VSR-Lizenz
 : Bestehen der mündlichen, schriftlichen und praktischen Prüfung, Einweisung während eines Herrenspieles (6er-Mannschaft) in der 3. Bundesliga oder Regional- bzw. Oberliga bis zum Ende der laufenden Saison.
+

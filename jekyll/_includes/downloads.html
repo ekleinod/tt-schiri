@@ -1,6 +1,17 @@
 {% capture output %}
 
 {% comment %}
+
+	Usage: {% include downloads.html tag='intern' explicit = true validonly = true noheader = true %}
+
+	tag: tag to include; default = empty = all entries
+	validonly: include only valid entries; default = empty = false
+	explicit: include explicit sections in output; default = empty = false
+	noheader: print no section and table header; default = empty = false
+
+{% endcomment %}
+
+{% comment %}
 	{% for file in site.static_files %}
 	{{ file }}
 	{% endfor %}
@@ -8,14 +19,27 @@
 
 {% for section in site.data.downloads %}
 
+{% if (section.explicit == null) or ((section.explicit) and (include.explicit)) %}
+
 {% if (include.tag == null) or (section.tags contains include.tag) %}
 
+{% if (include.noheader == null) or (include.noheader == false) %}
 ### {{ section.title }}
+{% endif %}
 
+<div class="table-responsive">
+{% capture table_out %}
 {:.table .table-bordered .table-striped}
-| Name | Beschreibung | Stand |
-|:-|:-|:-|{% for file in section.downloads %}{% if (include.validonly == null) or (file.valid == null) or (include.validonly and file.valid) %}| {% assign filename = file.filename | prepend: "/" | prepend: section.path %}{% include download.html file=filename title=file.title %} | {{ file.description }}{% if file.valid %} (aktuell gültig){% endif %} | {% include date.html date=file.lastchange %}{% endif %}{% endfor %}
+{% if (include.noheader == null) or (include.noheader == false) %}
+| Name | Beschreibung | Stand |{% endif %}
+|:-|:-|:-|
+{% for file in section.downloads %}{% if (include.validonly == null) or (file.valid == null) or (include.validonly and file.valid) %}| {% assign filename = file.filename | prepend: "/" | prepend: section.path %}{% include download.html file=filename title=file.title %} | {{ file.description }}{% if file.valid %} (aktuell gültig){% endif %} | {% include date.html date=file.lastchange %}{% endif %}
+{% endfor %}
+{% endcapture %}
+{{ table_out | markdownify }}
+</div>
 
+{% endif %}
 {% endif %}
 {% endfor %}
 

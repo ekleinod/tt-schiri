@@ -8,6 +8,9 @@ Die Webseite wird mit Jekyll erstellt, im Repository sind sowohl die Quellen als
 
 Alle im Web veröffentlichten Versionen sind im master-Branch zu finden und werden mit Datum-Tags versehen.
 
+Die Seiten nutzen SymLinks, um Dateien nicht doppelt zu halten und die Webseiten etwas unabhängiger von den konkreten Informationen.
+Das heißt, die Übersetzung ist nur auf einem Rechner möglich, auf dem die Ziele aller SymLinks genau so vorhanden sind.
+
 ## Autoren
 
 - Ekkart Kleinod
@@ -26,6 +29,25 @@ Wer Fehler in den Webseiten findet, etwas verbessern will oder mitmachen möchte
 3. forken und pull request erstellen
 4. direkt als Autor eingetragen werden
 
+## Neue Saison
+
+Was muss alles am Anfang einer neuen Saison getan werden?
+
+- Downloads → verlinken und Datum in downloads.yml setzen
+- Einsatzinformationen
+	- Aufwandsentschädigung
+- OSR-Berichte
+	- Namenkonvention
+	- Berichtsempfänger
+- Ansprechpartner
+- Schiri werden
+	- Webseite
+	- PDF
+	- Bild
+- Termine
+- BeTTV intern
+	- Kontaktliste
+
 ## Benutzte Dinge
 
 - Jekyll
@@ -43,6 +65,9 @@ Wer Fehler in den Webseiten findet, etwas verbessern will oder mitmachen möchte
 - jQuery
 	- JavaScript-Bibliothek
 	- <https://jquery.com/>
+- jekyll-mb
+	- Modern-Business-Template für jekyll
+	- <https://github.com/ekleinod/jekyll-mb>
 
 ## Git-Repository
 

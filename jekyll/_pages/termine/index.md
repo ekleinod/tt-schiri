@@ -1,24 +1,8 @@
 ---
 title: Termine
-date: 13.10.2016
+description: "Termine und Turniere der Saison sowie Veranstaltungsorte."
 ---
 
+{{ page.description }}
 
-{% for event in site.data.events %}
-
-## {{ event.title }}
-
-Datum
-: {% include date.html date=event.date style='full' %}
-
-{% if event.start %}
-Zeit
-: {{ event.start }}{% if event.end %} bis {{ event.end }}{% endif %} Uhr
-{% endif %}
-
-{% if event.venue %}
-Ort
-: [{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})
-{% endif %}
-
-{% endfor %}
+{% include indexnav.html %}

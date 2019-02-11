@@ -1,0 +1,9 @@
+<ul class="nav nav-pills nav-stacked">
+{% for navitem in site.data.navigation %}
+	{% if navitem.href == page.url %}
+		{% for child in navitem.children %}
+			<li role="presentation"><a class="list-group-item" href="{{ child.href | prepend: site.baseurl }}">{{ child.title }}</a></li>
+		{% endfor %}
+	{% endif %}
+{% endfor %}
+</ul>
