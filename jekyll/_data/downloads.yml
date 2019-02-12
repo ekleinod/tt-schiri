@@ -475,6 +475,11 @@
       description: "Kontaktliste aller aktiven VSR im Visitenkartenformat vcf."
       lastchange: 20.01.2019
     -
+      filename: "VCards.zip"
+      title: "VSR-Kontaktliste (zip von vcf)"
+      description: "Kontaktliste aller aktiven VSR als einzelne Visitenkarten (vcf) gezippt.."
+      lastchange: 20.01.2019
+    -
       filename: "VSRO-Tagung_2018_BeTTV.pdf"
       title: "VSRO-Tagung 2018 - Bericht BeTTV (pdf)"
       description: "Mein Bericht an die VSRO-Tagung mit Themen für die Tagung."
