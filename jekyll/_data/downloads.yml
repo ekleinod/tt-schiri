@@ -7,17 +7,17 @@
       filename: "BeTTV_Einsatzplan.pdf"
       title: "BeTTV Einsatzplan (pdf, bunt)"
       description: "Einsatzplan für alle VSR, PDF-Datei, bunt."
-      lastchange: 13.02.2019
+      lastchange: 19.03.2019
     -
       filename: "BeTTV_Einsatzplan_sw.pdf"
       title: "BeTTV Einsatzplan (pdf, schwarz-weiß)"
       description: "Einsatzplan für alle VSR, PDF-Datei, schwarz-weiß."
-      lastchange: 13.02.2019
+      lastchange: 19.03.2019
     -
       filename: "BeTTV_Einsatzplan.xls"
       title: "BeTTV Einsatzplan (xls)"
       description: "Einsatzplan für alle VSR, Excel."
-      lastchange: 13.02.2019
+      lastchange: 19.03.2019
 -
   path: "einsatzinformationen"
   title: "Einsatzinformationen"
@@ -188,6 +188,11 @@
   title: "VSR-Fortbildung"
   tags: ["fortbildung"]
   downloads:
+    -
+      filename: "2019-04-03_VSR-Fortbildung.pdf"
+      title: "Fortbildungsfolien 3.4.2019"
+      description: "Folien der Fortbildung"
+      lastchange: 03.04.2019
     -
       filename: "Zaehlgeraet.article.pdf"
       title: "Zählgerät und Ansagen"
