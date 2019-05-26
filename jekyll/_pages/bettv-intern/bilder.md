@@ -1,6 +1,6 @@
 ---
 title: Bilder
-date: 12.06.2017
+date: 26.05.2019
 layout: page_nosidebar
 excerpt_separator: up
 ---
