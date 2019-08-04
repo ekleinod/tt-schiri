@@ -39,3 +39,11 @@
   osm:
     latitude: 52.53194
     longitude: 13.45023
+
+-
+  title: "Ballspielhalle Alte Försterei (Großsporthalle Hämmerlingstraße)"
+  street: "Hämmerlingstraße 80"
+  city: "12555 Berlin"
+  osm:
+    latitude: 52.459076
+    longitude: 13.572133

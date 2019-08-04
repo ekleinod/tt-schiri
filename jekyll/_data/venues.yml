@@ -29,6 +29,15 @@ Venue.4:
       latitude: 52.531763
       longitude: 13.449438
 
+Venue.5:
+  -
+    title: "Ballspielhalle Alte Försterei (Großsporthalle Hämmerlingstraße)"
+    street: "Hämmerlingstraße 80"
+    city: "12555 Berlin"
+    osm:
+      latitude: 52.459076
+      longitude: 13.572133
+
 Venue.1:
   -
     title: "Geschäftsstelle des BeTTV"

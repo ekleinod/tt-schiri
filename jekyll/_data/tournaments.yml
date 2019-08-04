@@ -1,5 +1,5 @@
 -
-  title: "1. VRL Jugend 18, Schüler 13; Quali 1. VRL"
+  title: "1. Vorrangliste U13/Jugend"
   description: "1. Vorrangliste der Jugend 18 und Schüler 13 sowie Qualifikationsturnier zu den 1. VRL"
   date-start: 10.08.2019
   date-end: 11.08.2019
@@ -14,14 +14,95 @@
       url: "https://www.bettv.de/wp-content/uploads/2019/08/1.-VRL-Jugend-18-und-13-2019-20-am-190810-Stand-03.08.2019-1.pdf"
 
 -
-  title: "Berliner Meisterschaft Damen / Herren (BEM)"
+  title: "2. Vorrangliste Damen/Herren, A-Schüler und Schülerinnen"
+  date-start: 17.08.2019
+  date-end: 18.08.2019
+  venue: "Venue.4"
+
+-
+  title: "Bären-Cup"
+  date-start: 23.08.2019
+  date-end: 25.08.2019
+  venue: "Venue.3"
+
+-
+  title: "2. Vorrangliste U13/Jugend"
+  date-start: 31.08.2019
+  date-end: 01.09.2019
+  venue: "Venue.3"
+
+-
+  title: "Landesrangliste B-Schüler und Schülerinnen, Jugend"
+  date-start: 14.09.2019
+  date-end: 15.09.2019
+  venue: "Venue.4"
+
+-
+  title: "Landesrangliste Damen und Herren, A-Schüler und Schülerinnen"
+  date-start: 21.09.2019
+  date-end: 22.09.2019
+  venue: "Venue.3"
+
+-
+  title: "BEM A-Schüler und Schülerinnen, Jugend"
+  date-start: 07.12.2019
+  date-end: 08.12.2019
+  venue: "Venue.3"
+
+-
+  title: "BEM Leistungsklassen Damen und Herren"
+  date-start: 04.01.2020
+  date-end: 05.01.2020
+  venue: "Venue.4"
+
+-
+  title: "BEM Damen und Herren"
   date-start: 18.01.2020
   date-end: 19.01.2020
   venue: "Venue.3"
 
 -
-  title: "Berliner Meisterschaft Senioren/innen (BEM)"
+  title: "BEM Senioren und Seniorinnen"
   date-start: 01.02.2020
   date-end: 02.02.2020
   venue: "Venue.3"
   referee: "Dieter Balzer"
+
+-
+  title: "QV DEM Region 6 Damen / Herren"
+  date-start: 08.02.2020
+  date-end: 09.02.2020
+  venue: "Venue.5"
+
+-
+  title: "Bundesfinale JtfO, JtfP"
+  description: "Bundesfinale Jugend trainiert für Olympia, Jugend trainiert für Paralympics"
+  date-start: 05.05.2020
+  date-end: 09.05.2020
+
+-
+  title: "BEM B-Schüler/innen"
+  date-start: 09.05.2020
+  date-end: 10.05.2020
+  venue: "Venue.3"
+
+-
+  title: "mini-Meisterschaften Bestenspiele C-Schüler"
+  date-start: 16.05.2020
+  date-end: 17.05.2020
+  venue: "Venue.4"
+
+-
+  title: "TTT-Finale"
+  date-start: 06.06.2020
+  date-end: 06.06.2020
+
+-
+  title: "1. Vorrangliste Damen/Herren, A-Schüler und Schülerinnen"
+  date-start: 13.06.2020
+  date-end: 14.06.2020
+
+-
+  title: "1. B-Schüler und Schülerinnen"
+  date-start: 20.06.2020
+  date-end: 21.06.2020

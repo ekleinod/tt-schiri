@@ -26,7 +26,7 @@
 
 {% if event.description %}<span class="help-block">{{ event.description }}</span>{% endif %}
 
-{% if event.venue %}Ort: [{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})  {% endif %}
+Ort: {% if event.venue %}[{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})  {% else %}unbekannt  {% endif %}
 OSR: {% if event.referee %}{{ event.referee }}{% else %}n.n.{% endif %}
 
 {% endcapture %}
