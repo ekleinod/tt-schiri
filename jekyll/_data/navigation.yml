@@ -39,9 +39,9 @@
     -
       title: "VSR-Termine"
       href: "/termine/events.html"
-#    -
-#      title: "Turniere"
-#      href: "/termine/tournaments.html"
+    -
+      title: "Turniere"
+      href: "/termine/tournaments.html"
 #    -
 #      title: "Spielorte"
 #      href: "/termine/clubvenues/index.html"
@@ -66,10 +66,6 @@
   description: "Alle von uns angebotenen Downloads. OSR-Berichte, SR-Zettel, Merkblätter, Regeln etc."
   icon: "download"
   servicepage: true
-
--
-  title: "Impressum"
-  href: "/impressum.html"
 
 -
   title: "VSR-Treffen"
@@ -100,3 +96,7 @@
     -
       title: "Archiv"
       href: "/bettv-intern/archiv.html"
+
+-
+  title: "Impressum"
+  href: "/impressum.html"

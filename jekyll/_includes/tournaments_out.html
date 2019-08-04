@@ -1,0 +1,36 @@
+{% for event in events %}
+
+<div class="panel panel-default">
+	<div class="panel-heading">
+		<i class="fa fa-calendar fa-fw" aria-hidden="true"></i>
+		{{ event.date-start | date: '%-d.%-m' }} – {{ event.date-end | date: '%-d.%-m.%Y' }}:
+		{{ event.title }}
+	</div>
+	<div class="panel-body">
+{% capture panelbody %}
+
+{% if event.description %}{{ event.description }}{% endif %}
+
+{% if event.venue %}
+Ort: [{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})
+{% endif %}
+
+{% endcapture %}
+{{ panelbody | markdownify }}
+	</div>
+
+{% if event.urls %}
+	<div class="card-footer">
+{% for url in event.urls %}
+{{ url.title }}: [{{ url.url }}]({{ url.url }})
+<a href="#" class="btn btn-primary">Learn More</a>
+{% endfor %}
+	</div>
+{% endif %}
+</div>
+
+{% else %}
+
+Derzeit keine Termine.
+
+{% endfor %}
