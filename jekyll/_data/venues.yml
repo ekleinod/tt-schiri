@@ -20,6 +20,15 @@ Venue.3:
       latitude: 52.53212
       longitude: 13.44722
 
+Venue.4:
+  -
+    title: "GT-Halle"
+    street: "Paul-Heyse-Straße 25"
+    city: "10407 Berlin"
+    osm:
+      latitude: 52.531763
+      longitude: 13.449438
+
 Venue.1:
   -
     title: "Geschäftsstelle des BeTTV"
@@ -32,5 +41,5 @@ Venue.1:
 
       Fahrradständer sind vorhanden, mit dem Auto bekommt man auch einen Parkplatz, kann sein, dass man da etwas laufen muss.
     osm:
-      latitude: 52.53194
-      longitude: 13.45023
+      latitude: 52.531979
+      longitude: 13.450313
