@@ -1,16 +1,20 @@
-<ul class="nav nav-pills nav-stacked">
+{% include events_future.html events=site.data.events %}
+
+{% if include.nav %}
+<ul class="nav nav-pills nav-stacked" style="padding-bottom: 3ex;">
 {% for event in events %}
 <li role="presentation"><a class="list-group-item" href="#{{ event.title | slugify }}"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i>&nbsp; {{ event.date-start }}{% if event.date-end %}-{{ event.date-end }}{% endif %} &ndash; {{ event.title }}</a></li>
 {% endfor %}
 </ul>
-
-<div class="help-block"></div>
-
+{% endif %}
 
 {% for event in events %}
 
 <div class="panel panel-default">
-	<div class="panel-heading"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i>&nbsp;<a name="{{ event.title | slugify }}">{{ event.title }}</a></div>
+	<div class="panel-heading" id="{{ event.title | slugify }}">
+		<i class="fa fa-calendar fa-fw" aria-hidden="true"></i>
+		{{ event.title }}
+	</div>
 	<div class="panel-body">
 {% capture panelbody %}
 {% include date.html date=event.date-start style='full' %}{% if event.date-end %} bis {% include date.html date=event.date-end style='full' %}{% endif %}

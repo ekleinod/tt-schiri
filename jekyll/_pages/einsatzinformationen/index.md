@@ -3,6 +3,8 @@ title: Einsatzinformationen
 date: 05.08.2018
 ---
 
+<div class="alert alert-danger" role="alert">Achtung: noch nicht komplett aktualisiert.</div>
+
 Auf dieser Seite findet Ihr Einsatzinformationen für die aktuelle Saison. Für die zurückliegenden Saisons wird kein Archiv geführt.
 
 {% include indexnav.html %}

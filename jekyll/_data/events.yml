@@ -1,83 +1,20 @@
 -
   title: VSR-Fortbildung
-  date-start: 06.09.2018
-
-  time-start: "19:00"
-  time-end: "21:00"
-
-  venue: "Venue.1"
-
--
-  title: VSR-Lehrgang - Meldeschluss
-  date-start: 12.12.2018
-
-
-
-
-
-
--
-  title: VSR-Lehrgang - 1. Abend
-  date-start: 09.01.2019
-
+  date-start: 12.09.2019
   time-start: "19:00"
   time-end: "22:00"
-
-  venue: "Venue.1"
-
--
-  title: VSR-Lehrgang - 2. Abend
-  date-start: 16.01.2019
-
-  time-start: "19:00"
-  time-end: "22:00"
-
-  venue: "Venue.1"
-
--
-  title: VSR-Lehrgang - Praxisabend
-  date-start: 17.01.2019
-
-  time-start: "19:00"
-  time-end: "22:00"
-
-
-
--
-  title: VSR-Lehrgang - Prüfungen bei der BEM
-  date-start: 19.01.2019
-
-  time-start: "13:00"
-  time-end: "16:00"
-
-  venue: "Venue.3"
-
--
-  title: VSR-Fortbildung
-  date-start: 03.04.2019
-
-  time-start: "19:00"
-  time-end: "21:00"
-
   venue: "Venue.1"
 
 -
   title: VSR-Tagung
-  date-start: 09.04.2019
-
+  date-start: 21.04.2020
   time-start: "19:00"
   time-end: "21:00"
-
   venue: "Venue.2"
 
 -
-  title: VSRO-Treffen
-  date-start: 15.06.2019
-  date-end: "16.06.2019"
-
-
-
-
-
-
-
+  title: VSR-Fortbildung
+  date-start: 29.04.2020
+  time-start: "19:00"
+  time-end: "22:00"
+  venue: "Venue.1"

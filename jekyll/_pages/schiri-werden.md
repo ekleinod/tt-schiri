@@ -3,7 +3,7 @@ title: Schiri werden
 date: 04.08.2019
 ---
 
-Wir überarbeiten gerade das Konzept für die Lehrgänge und bitten um etwas Geduld.
+<div class="alert alert-warning" role="alert">Wir überarbeiten gerade das Konzept für die Lehrgänge und bitten um etwas Geduld.</div>
 
 {% comment %}
 

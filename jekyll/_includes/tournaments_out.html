@@ -1,31 +1,44 @@
+{% include events_future.html events=site.data.tournaments %}
+
+{% if include.nav %}
+<ul class="nav nav-pills nav-stacked" style="padding-bottom: 3ex;">
+{% for event in events %}
+<li role="presentation"><a class="list-group-item" href="#{{ event.title | slugify }}">
+	<i class="fa fa-calendar fa-fw" aria-hidden="true"></i>
+	{{ event.date-start | date: '%d.%m.' }}-{{ event.date-end | date: '%d.%m.%Y' }}:
+	{{ event.title }}
+	– {% if event.referee %}{{ event.referee }}{% else %}n.n.{% endif %}
+</a></li>
+{% endfor %}
+</ul>
+{% endif %}
+
 {% for event in events %}
 
 <div class="panel panel-default">
-	<div class="panel-heading">
+	<div class="panel-heading" id="{{ event.title | slugify }}">
 		<i class="fa fa-calendar fa-fw" aria-hidden="true"></i>
-		{{ event.date-start | date: '%-d.%-m' }} – {{ event.date-end | date: '%-d.%-m.%Y' }}:
+		{{ event.date-start | date: '%d.%m.' }}-{{ event.date-end | date: '%d.%m.%Y' }}:
 		{{ event.title }}
 	</div>
 	<div class="panel-body">
 {% capture panelbody %}
 
-{% if event.description %}{{ event.description }}{% endif %}
+{% if event.description %}<span class="help-block">{{ event.description }}</span>{% endif %}
 
-{% if event.venue %}
-Ort: [{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})
-{% endif %}
+{% if event.venue %}Ort: [{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})  {% endif %}
+OSR: {% if event.referee %}{{ event.referee }}{% else %}n.n.{% endif %}
 
 {% endcapture %}
 {{ panelbody | markdownify }}
 	</div>
 
 {% if event.urls %}
-	<div class="card-footer">
+<div class="panel-footer">
 {% for url in event.urls %}
-{{ url.title }}: [{{ url.url }}]({{ url.url }})
-<a href="#" class="btn btn-primary">Learn More</a>
+<a href="{{ url.url }}" class="btn btn-default btn-sm">{{ url.title }}</a>
 {% endfor %}
-	</div>
+</div>
 {% endif %}
 </div>
 
