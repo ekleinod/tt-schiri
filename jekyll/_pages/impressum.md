@@ -3,7 +3,7 @@ title: Impressum
 date: 06.10.2016
 ---
 
-Dies sind die Seiten der Schiedsrichterinnen und Schiedsrichter des Berliner Tischtennisverbands.
+Dies sind die Seiten der Schiedsrichterinnen und Schiedsrichter des Berliner Tisch-Tennis Verbands.
 
 Verantwortlich für die Webseite ist Ekkart Kleinod <schiri@ekkart.de>
 

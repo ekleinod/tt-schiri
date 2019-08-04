@@ -1,7 +1,11 @@
 ---
 title: Schiri werden
-date: 05.08.2018
+date: 04.08.2019
 ---
+
+Wir überarbeiten gerade das Konzept für die Lehrgänge und bitten um etwas Geduld.
+
+{% comment %}
 
 {% capture thumb %}{% include img.html src='VSR-Lehrgang-Ankündigung.png' title='VSR-Lehrgang-Ankündigung' align='right' %}{% endcapture %}
 {% include download.html file='VSR-Lehrgang-Ankündigung.pdf' title = thumb %}
@@ -92,3 +96,4 @@ Teilnahmevoraussetzungen
 Erhalt der VSR-Lizenz
 : Bestehen der mündlichen, schriftlichen und praktischen Prüfung, Einweisung während eines Herrenspieles (6er-Mannschaft) in der 3. Bundesliga oder Regional- bzw. Oberliga bis zum Ende der laufenden Saison.
 
+{% endcomment %}

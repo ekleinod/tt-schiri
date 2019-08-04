@@ -6,7 +6,7 @@ Hier findet Ihr alle Downloads, die wir zur Verfügung stellen.
 
 Dowloads, die hier nicht aufgelistet sind, findet Ihr mit hoher Wahrscheinlichkeit:
 
-- beim [BeTTV](http://www.bettv.de/)
+- beim [BTTV](http://www.bettv.de/)
 	- [Satzungen und Ordnungen](http://www.bettv.de/verband/satzungen-und-ordnungen/)
 - beim [DTTB](http://www.tischtennis.de/)
 	- [Formulare](http://www.tischtennis.de/mein-sport/schiedsrichterin/formulare.html) (hauptsächlich Spielbetrieb)

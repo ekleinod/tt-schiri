@@ -179,8 +179,8 @@
       lastchange: 26.11.2018
     -
       filename: "BeTTV-Wettspielordnung.pdf"
-      title: "Wettspielordnung des BeTTV"
-      description: "Die Wettspielordnung des BeTTV."
+      title: "Wettspielordnung des BTTV"
+      description: "Die Wettspielordnung des BTTV."
       lastchange: 25.03.2019
 
 -
@@ -466,15 +466,6 @@
   explicit: true
   downloads:
     -
-      filename: "VSRO-Tagung_2019_BeTTV.pdf"
-      title: "VSRO-Tagung 2019 - Bericht BeTTV (pdf)"
-      description: "Mein Bericht an die VSRO-Tagung mit Themen für die Tagung."
-      lastchange: 22.05.2019
-    -
-      filename: "VSR-Tagung_2019.pdf"
-      title: "VSR-Tagung 2019 - Protokoll (pdf)"
-      lastchange: 22.05.2019
-    -
       filename: "BeTTV_VSR-Kontaktliste.pdf"
       title: "VSR-Kontaktliste (pdf)"
       description: "Kontaktliste aller VSR des BTTV."
@@ -495,14 +486,25 @@
       description: "Kontaktliste aller aktiven VSR als einzelne Visitenkarten (vcf) gezippt."
       lastchange: 04.08.2019
     -
+      filename: "VSRO-Tagung_2019_BeTTV.pdf"
+      title: "VSRO-Tagung 2019 - Bericht BeTTV (pdf)"
+      description: "Mein Bericht an die VSRO-Tagung mit Themen für die Tagung."
+      lastchange: 22.05.2019
+    -
+      filename: "VSR-Tagung_2019.pdf"
+      title: "VSR-Tagung 2019 - Protokoll (pdf)"
+      description: "Protokoll der VSR-Tagung 2019."
+      lastchange: 22.05.2019
+    -
+      filename: "VSR-Tagung_2018.pdf"
+      title: "VSR-Tagung 2018 - Protokoll (pdf)"
+      description: "Protokoll der VSR-Tagung 2018."
+      lastchange: 28.04.2018
+    -
       filename: "VSRO-Tagung_2018_BeTTV.pdf"
       title: "VSRO-Tagung 2018 - Bericht BTTV (pdf)"
       description: "Mein Bericht an die VSRO-Tagung mit Themen für die Tagung."
       lastchange: 07.06.2018
-    -
-      filename: "VSR-Tagung_2018.pdf"
-      title: "VSR-Tagung 2018 - Protokoll (pdf)"
-      lastchange: 28.04.2018
     -
       filename: "VSRO-Tagung_2017_Protokoll.pdf"
       title: "VSRO-Tagung 2017 - Protokoll (pdf)"

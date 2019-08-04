@@ -16,7 +16,7 @@ Ekkart Kleinod [{% include img.html src='ekkart_kleinod_thumb.jpg' title='Ekkart
 
 E-Mail: [schiri@ekkart.de](mailto:schiri@ekkart.de)
 
-Telefon: findet Ihr in der {% include link.html target='/bettv-intern/kontakt.html' title='VSR-Liste' %}
+Telefon: findet Ihr in der {% include link.html target='/bettv-intern/downloads.html' title='VSR-Liste' %}
 
 ---
 
@@ -26,7 +26,7 @@ Martin Becker {% include img.html src='martin_becker.jpg' title='Martin Becker' 
 
 E-Mail: [martin.becker@bettv.de](mailto:martin.becker@bettv.de)
 
-Telefon: findet Ihr in der {% include link.html target='/bettv-intern/kontakt.html' title='VSR-Liste' %}
+Telefon: findet Ihr in der {% include link.html target='/bettv-intern/downloads.html' title='VSR-Liste' %}
 
 ---
 
@@ -36,7 +36,7 @@ Alexander Ohle {% include img.html src='alex_ohle.jpg' title='Alexander Ohle' al
 
 E-Mail: [a.ohle@gmx.de](mailto:a.ohle@gmx.de)
 
-Telefon: findet Ihr in der {% include link.html target='/bettv-intern/kontakt.html' title='VSR-Liste' %}
+Telefon: findet Ihr in der {% include link.html target='/bettv-intern/downloads.html' title='VSR-Liste' %}
 
 ---
 

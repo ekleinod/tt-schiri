@@ -19,6 +19,14 @@
     longitude: 13.44722
 
 -
+  title: "GT-Halle"
+  street: "Paul-Heyse-Straße 25"
+  city: "10407 Berlin"
+  osm:
+    latitude: 52.531763
+    longitude: 13.449438
+
+-
   title: "Geschäftsstelle des BeTTV"
   street: "Paul-Heyse-Straße 29"
   city: "10407 Berlin"
@@ -31,4 +39,3 @@
   osm:
     latitude: 52.53194
     longitude: 13.45023
-

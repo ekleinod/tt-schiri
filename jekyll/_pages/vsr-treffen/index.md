@@ -1,6 +1,6 @@
 ---
 title: VSR-Treffen
-date: 29.06.2017
+date: 04.08.2019
 ---
 
 Seit 1983 werden in jedem Jahr die Schiedsrichtertreffen der Norddeutschen Verbände und des WTTV durchgeführt.
@@ -10,6 +10,8 @@ Seit 1983 werden in jedem Jahr die Schiedsrichtertreffen der Norddeutschen Verb�
 {:.table .table-bordered .table-striped}
 | | | | | Pokal | Laterne |
 |:-:|:-:|:-|:-:|:-|:-|
+| 36. | [21.06. - 23.06.2019](36.html) | Cottbus | TTVB | Brandenburg | Schleswig-Holstein |
+| 35. | [10.08. - 12.08.2018](35.html) | Bochum | WTTV | Brandenburg | Westdeutscher TT-Verband |
 | 34. | [23.06. - 25.06.2017](34.html) | Berlin | BeTTV | Brandenburg | Schleswig-Holstein/Berlin |
 | 33. | 17.06. - 19.06.2016 | Hannover | TTVN |
 | 32. | 05.06. - 07.06.2015 | Bremen | FTTB |
