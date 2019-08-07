@@ -7,7 +7,7 @@ date: 05.08.2018
 
 Der wichtigste Ansprechpartner für Verbandsschiedsrichter und für Fragen rund um Schiedsrichter und Regeln ist der Verbandsschiedsrichterausschuss (VSRA).
 
-Der VSRA ist die Vertretung der Schiedsrichter beim Berliner Tischtennisverband. Die Sammelmailadresse des VSRA, die an alle VSRA-Mitglieder gleichzeitig geht, ist:
+Der VSRA ist die Vertretung der Schiedsrichter beim Berliner Tisch-Tennis Verband. Die Sammelmailadresse des VSRA, die an alle VSRA-Mitglieder gleichzeitig geht, ist:
 [vsrausschuss@bettv.de](mailto:vsrausschuss@bettv.de)
 
 ### Vorsitzender
