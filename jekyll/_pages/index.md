@@ -7,7 +7,7 @@ hide-nav: true
 show-search: true
 ---
 
-Dies sind die Seiten der Schiedsrichterinnen und Schiedsrichter des Berliner Tischtennisverbands.
+Dies sind die Seiten der Schiedsrichterinnen und Schiedsrichter des Berliner Tisch-Tennis Verbands.
 
 Das Wichtigste:
 
