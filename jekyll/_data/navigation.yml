@@ -22,7 +22,7 @@
 -
   title: "Schiri werden"
   href: "/schiri-werden.html"
-  description: "Wie wird man Schiri beim BeTTV?"
+  description: "Wie wird man Schiri beim BTTV?"
   icon: "graduation-cap"
   servicepage: true
 
@@ -83,9 +83,9 @@
       href: "/vsr-treffen/34.html"
 
 -
-  title: "BeTTV-Intern"
+  title: "BTTV-Intern"
   href: "/bettv-intern/index.html"
-  description: "BeTTV-interne Belange der Schiedsrichterei."
+  description: "BTTV-interne Belange der Schiedsrichterei."
   children:
     -
       title: "Bilder"

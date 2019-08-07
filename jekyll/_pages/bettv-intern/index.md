@@ -1,5 +1,5 @@
 ---
-title: BeTTV-Intern
+title: BTTV-Intern
 ---
 
 {% include indexnav.html %}
