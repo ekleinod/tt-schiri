@@ -18,36 +18,59 @@
   date-start: 17.08.2019
   date-end: 18.08.2019
   venue: "Venue.4"
+  referee: "Dieter Balzer"
+  urls:
+    -
+      title: "BTTV-News A-Schüler und Schülerinnen"
+      url: "https://www.bettv.de/2-vorrangliste-jugend-15-am-17-18-08-2019/"
+    -
+      title: "BTTV-News Erwachsene"
+      url: "https://www.bettv.de/2-vorrangliste-erwachsene-ausschreibung/"
+    -
+      title: "Ausschreibung A-Schüler und Schülerinnen (PDF)"
+      url: "https://www.bettv.de/wp-content/uploads/2019/08/2.-VRL-Jugend-15-2019-20-am-190817-Stand-09.08.2019-1.pdf"
+    -
+      title: "Ausschreibung Erwachsene (PDF)"
+      url: "https://www.bettv.de/wp-content/uploads/2019/08/190818-2VRL-D_H-Ausschreibung.pdf"
 
 -
   title: "Bären-Cup"
   date-start: 23.08.2019
   date-end: 25.08.2019
   venue: "Venue.3"
+  referee: "Peter Logsch"
 
 -
   title: "2. Vorrangliste U13/Jugend"
   date-start: 31.08.2019
   date-end: 01.09.2019
   venue: "Venue.3"
+  referee: "Dieter Balzer"
 
 -
   title: "Landesrangliste B-Schüler und Schülerinnen, Jugend"
   date-start: 14.09.2019
   date-end: 15.09.2019
   venue: "Venue.4"
+  referee: "Dieter Balzer"
 
 -
   title: "Landesrangliste Damen und Herren, A-Schüler und Schülerinnen"
   date-start: 21.09.2019
   date-end: 22.09.2019
   venue: "Venue.3"
+  assreferees:
+    - "Arne Nawrath"
+    - "Thomas Brunner"
+  umpires:
+    - "Dieter Balzer"
 
 -
   title: "BEM A-Schüler und Schülerinnen, Jugend"
   date-start: 07.12.2019
   date-end: 08.12.2019
   venue: "Venue.3"
+  referee: "Dieter Balzer"
 
 -
   title: "BEM Leistungsklassen Damen und Herren"
@@ -60,6 +83,14 @@
   date-start: 18.01.2020
   date-end: 19.01.2020
   venue: "Venue.3"
+  assreferees:
+    - "Thomas Brunner"
+    - "Peter Logsch"
+    - "Alexander Ohle"
+  umpires:
+    - "Dieter Balzer"
+    - "Patricia Standke"
+    - "Daniela Stankde"
 
 -
   title: "BEM Senioren und Seniorinnen"
