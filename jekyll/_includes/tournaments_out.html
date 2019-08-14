@@ -36,21 +36,14 @@
 
 	{% if event.assreferees %}
 		<dt>stellv. OSR</dt>
-		<dd>
-			{{ event.assreferees | join: ', ' }}
-			{% comment %}
-			{% if event.assreferees.size == 1 %}
-				{{ event.assreferees | first }}
-			{% else %}
-				<ul>
-					{% for assreferee in event.assreferees %}
-						<li>{{ assreferee }}</li>
-					{% endfor %}
-				</ul>
-			{% endif %}
-			{% endcomment %}
-		</dd>
+		<dd>{{ event.assreferees | join: ', ' }}</dd>
 	{% endif %}
+
+	{% if event.umpires %}
+		<dt>SRaT</dt>
+		<dd>{{ event.umpires | join: ', ' }}</dd>
+	{% endif %}
+
 </dl>
 
 {% endcapture %}
