@@ -26,8 +26,32 @@
 
 {% if event.description %}<span class="help-block">{{ event.description }}</span>{% endif %}
 
-Ort: {% if event.venue %}[{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }})  {% else %}unbekannt  {% endif %}
-OSR: {% if event.referee %}{{ event.referee }}{% else %}n.n.{% endif %}
+<dl>
+
+	<dt>Ort</dt>
+	<dd>{% if event.venue %}{% capture temp %}[{{ site.data.venues[event.venue][0].title }}]({{ site.data.venues[event.venue][0].title | datapage_url: 'venues' }}){% endcapture %}{{ temp | markdownify | remove: '<p>' | remove: '</p>' }}{% else %}unbekannt{% endif %}</dd>
+
+	<dt>OSR</dt>
+	<dd>{% if event.referee %}{{ event.referee }}{% else %}n.n.{% endif %}</dd>
+
+	{% if event.assreferees %}
+		<dt>stellv. OSR</dt>
+		<dd>
+			{{ event.assreferees | join: ', ' }}
+			{% comment %}
+			{% if event.assreferees.size == 1 %}
+				{{ event.assreferees | first }}
+			{% else %}
+				<ul>
+					{% for assreferee in event.assreferees %}
+						<li>{{ assreferee }}</li>
+					{% endfor %}
+				</ul>
+			{% endif %}
+			{% endcomment %}
+		</dd>
+	{% endif %}
+</dl>
 
 {% endcapture %}
 {{ panelbody | markdownify }}
@@ -36,7 +60,7 @@ OSR: {% if event.referee %}{{ event.referee }}{% else %}n.n.{% endif %}
 {% if event.urls %}
 <div class="panel-footer">
 {% for url in event.urls %}
-<a href="{{ url.url }}" class="btn btn-default btn-sm">{{ url.title }}</a>
+ <a href="{{ url.url }}" class="btn btn-default btn-sm">{{ url.title }}</a>
 {% endfor %}
 </div>
 {% endif %}
