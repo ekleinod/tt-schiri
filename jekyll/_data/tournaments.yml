@@ -39,6 +39,16 @@
   date-end: 25.08.2019
   venue: "Venue.3"
   referee: "Peter Logsch"
+  urls:
+    -
+      title: "BTTV-News"
+      url: "https://www.bettv.de/internationaler-bttv-baeren-cup/"
+    -
+      title: "Ausschreibung (PDF)"
+      url: "https://www.bettv.de/wp-content/uploads/2019/07/Ausschreibung-BTTV-B%C3%A4ren-Cup.pdf"
+    -
+      title: "Info Vereinsservicetage und Ausschreibung (PDF)"
+      url: "https://www.bettv.de/wp-content/uploads/2019/06/pdf-zusammenfuegen.com_a639sgvx.pdf"
 
 -
   title: "2. Vorrangliste U13/Jugend"
