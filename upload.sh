@@ -1,0 +1,1 @@
+/home/ekleinod/working/rani/internet/tt-schiri.de/upload.sh
