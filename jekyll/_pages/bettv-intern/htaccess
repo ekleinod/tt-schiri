@@ -2,7 +2,7 @@
 layout: none
 permalink: bettv-intern/.htaccess
 ---
-AuthUserFile /var/www/5000128517/u1907/tt-schiri.de/htdocs/bettv-intern/.htpasswd
+AuthUserFile /var/www/web26563393/html/tt-schiri.de/htdocs/bettv-intern/.htpasswd
 AuthName "tt-schiri intern - erst einloggen"
 AuthType Basic
 Require valid-user
