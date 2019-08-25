@@ -55,14 +55,14 @@
   date-start: 31.08.2019
   date-end: 01.09.2019
   venue: "Venue.3"
-  referee: "Dieter Balzer"
+  referee: "n.n."
 
 -
   title: "Landesrangliste B-Schüler und Schülerinnen, Jugend"
   date-start: 14.09.2019
   date-end: 15.09.2019
   venue: "Venue.4"
-  referee: "Dieter Balzer"
+  referee: "n.n."
 
 -
   title: "Landesrangliste Damen und Herren, A-Schüler und Schülerinnen"
@@ -73,14 +73,16 @@
     - "Arne Nawrath"
     - "Thomas Brunner"
   umpires:
-    - "Dieter Balzer"
+    - "Malte Beeker (21.9.)"
+    - "Thomas Brunner (21.9.)"
+    - "Walter Kaschubat"
 
 -
   title: "BEM A-Schüler und Schülerinnen, Jugend"
   date-start: 07.12.2019
   date-end: 08.12.2019
   venue: "Venue.3"
-  referee: "Dieter Balzer"
+  referee: "n.n."
 
 -
   title: "BEM Leistungsklassen Damen und Herren"
@@ -98,22 +100,33 @@
     - "Peter Logsch"
     - "Alexander Ohle"
   umpires:
-    - "Dieter Balzer"
     - "Patricia Standke"
-    - "Daniela Stankde"
+    - "Daniela Standke"
+    - "Ingo Overbeck (19.01.)"
 
 -
   title: "BEM Senioren und Seniorinnen"
   date-start: 01.02.2020
   date-end: 02.02.2020
   venue: "Venue.3"
-  referee: "Dieter Balzer"
+  referee: "n.n."
 
 -
   title: "QV DEM Region 6 Damen / Herren"
   date-start: 08.02.2020
   date-end: 09.02.2020
   venue: "Venue.5"
+
+-
+  title: "BTTV FinalFour Verbandsklassen"
+  date-start: 18.04.2020
+  referee: "Thomas Brunner"
+
+-
+  title: "BTTV-Relegationen"
+  date-start: 25.04.2020
+  date-end: 26.04.2020
+  referee: "Thomas Brunner"
 
 -
   title: "Bundesfinale JtfO, JtfP"
@@ -136,7 +149,12 @@
 -
   title: "TTT-Finale"
   date-start: 06.06.2020
-  date-end: 06.06.2020
+  referee: "Jörg Penzhorn"
+
+-
+  title: "BTTV-Pokalfinale"
+  date-start: 06.06.2020
+  referee: "Thomas Brunner"
 
 -
   title: "1. Vorrangliste Damen/Herren, A-Schüler und Schülerinnen"
