@@ -55,7 +55,14 @@
   date-start: 31.08.2019
   date-end: 01.09.2019
   venue: "Venue.3"
-  referee: "n.n."
+  referee: "Harald Voigt"
+  urls:
+    -
+      title: "BTTV-News"
+      url: "https://www.bettv.de/2-vorrangliste-jugend-13-und-jugend-18/"
+    -
+      title: "Ausschreibung (PDF)"
+      url: "https://www.bettv.de/wp-content/uploads/2019/08/2.-VRL-Jugend-13-und-Jugend-18-Stand-24.08.2019.pdf"
 
 -
   title: "Landesrangliste B-Schüler und Schülerinnen, Jugend"
@@ -82,7 +89,7 @@
   date-start: 07.12.2019
   date-end: 08.12.2019
   venue: "Venue.3"
-  referee: "n.n."
+  referee: "Thomas Brunner"
 
 -
   title: "BEM Leistungsklassen Damen und Herren"
